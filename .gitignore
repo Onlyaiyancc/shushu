@@ -1,0 +1,5 @@
+资料库/
+__pycache__/
+*.pyc
+*.log
+*.tmp

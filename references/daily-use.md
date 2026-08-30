@@ -10,6 +10,7 @@ Two corpus-derived anchors:
 
 - 《三命通会》四库提要 says the work is useful because it gathers 子平 essentials, but also says 命学者 should take the broad meaning and adapt it. Use this as permission to reason flexibly rather than quote rules mechanically.
 - 《增删卜易》repeatedly separates question types and warns against using one divination to answer everything. Use this as the rule: one question, one focus, one proportionate answer.
+- 《梅花易数》is especially suitable for small everyday prompts when there is a clear number, time, word, object, sound, direction, or external sign. It still needs a stated casting basis; do not invent one after hearing the desired answer.
 
 ## Question Correction
 
@@ -57,6 +58,10 @@ These are synthesis rules for daily use, not direct quotations.
 | 财动 | resources, cost, desire | good for small gains; check spending impulse |
 | 父母动 | documents, messages, protection, burden | read details, save receipts, confirm plans |
 | 兄弟动 | competition, leakage, peers | avoid sharing advantage; expect cost or delay |
+| 梅花体受生/比和 | the user's position is supported | proceed simply; keep the action close to the original question |
+| 梅花体克用 | the user can act on the matter | doable, but often slower or requiring effort |
+| 梅花体生用 | the user leaks effort into the matter | reduce cost, avoid over-giving, expect depletion |
+| 梅花用克体 | the matter presses or harms the user | avoid, delay, or change approach |
 
 ## Proportionality
 

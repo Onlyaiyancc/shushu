@@ -142,6 +142,17 @@ New local HTML source files under `E:\Thing\Fortune\资料库\在线文本\维�
 - `滴天髓阐微 - 维基文库.html`: readable 八字 source; useful for中和、顺逆、理气进退、用神喜忌、刑冲辨误.
 
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库` by `E:\Thing\Fortune\生成简体学习版.py`.
+
+### 2026-08-30 Added Daily-Oriented Texts
+
+New local HTML source files under `E:\Thing\Fortune\资料库\在线文本\维基文库`:
+
+- `梅花易数 - 维基文库.html`, `梅花易数卷一 - 维基文库.html`, `梅花易数卷二 - 维基文库.html`, `梅花易数卷三 - 维基文库.html`: readable 梅花易数 text; useful for 日常小事起卦、体用生克、互变、外应、克应迟速.
+- `卜筮正宗河潞武子龄校本 - 维基文库.html` and `卜筮正宗河潞武子龄校本卷前 - 维基文库.html`: readable metadata/卷前 only; listed卷01-卷14 are redlinks/not available on Wikisource at download time.
+- `许真君玉匣记 - 维基文库.html`: readable short 道藏本玉匣记; mainly useful for斋醮祈福择日 boundaries, not ordinary daily action.
+- `古今图书集成艺术典第675卷阳宅十书相关 - 维基文库.html` through `第678卷`: readable 阳宅十书 excerpts embedded in 图书集成; useful for宅外形、门路水井、宅内修造 and符镇段落的现代边界.
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库` by `E:\Thing\Fortune\生成简体学习版.py`.
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:
@@ -173,5 +184,4 @@ Example:
 ## Distilled References
 
 - `references/rulebook.md`: source-anchored practical rules distilled from the local corpus. Current strongest coverage is 六爻/易占 from《增删卜易》plus conservative 八字 principles from《三命通会》四库提要.
-
 

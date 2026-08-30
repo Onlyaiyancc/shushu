@@ -45,6 +45,18 @@ Reliability labels follow `reading-protocol.md`: Strong, Medium, Weak, or Versio
 | R-DAY-005 | daily | Medium | Household corrections should begin with practical repair, cleanliness, light, air, water, and safety. | If a place feels blocked, fix the simple physical issue before symbolic measures. | Do not recommend unsafe structural, electrical, fire, or health changes. | `增删卜易`, lines 6381-6383 and 6517-6525. |
 | R-DAY-006 | daily | Strong | Avoid helping questions framed around harming, exploiting, or coercing others. | Reframe toward self-correction, withdrawal, apology, or legitimate action. | This applies even if the user asks for "traditional" support. | `增删卜易`, line 6501 warns against self-serving harmful burial schemes. |
 
+## Meihua / Plum-Blossom Yi Rules
+
+| Rule ID | Branch | Reliability | Rule | Use | Boundary | Source support |
+|---|---|---:|---|---|---|---|
+| R-MH-001 | 梅花易数 | Strong | 梅花起卦可以从数、时、物、声、字、方位和外应进入；起卦必须说明取象来源。 | 日常小事可用眼前明确触发物或用户给出的数字/文字起卦。 | 不要事后挑象；没有触发源时先问用户给数、时间或具体外应。 | `梅花易数卷一 - 维基文库.html.simp.txt`, lines 61-87 and 141. |
+| R-MH-002 | 梅花易数 | Strong | 数起卦以八除取卦，以六除取动爻；互卦取中四爻。 | 用户给数字、年月日时或字数时，先按取数规则成卦，再解释。 | 数字来源必须自然、先定，不能为迎合答案临时改数。 | `梅花易数卷一 - 维基文库.html.simp.txt`, lines 61-75. |
+| R-MH-003 | 梅花易数 | Strong | 体为主，用为事应；体宜旺、宜受生、宜比和，忌被旺用克。 | 日常选择中以体代表用户位置，以用代表事项/对方/环境。 | 生用常是己方泄力或付出，不可一概当吉。 | `梅花易数卷二 - 维基文库.html.simp.txt`, lines 37-39, 107, 153-179, 349. |
+| R-MH-004 | 梅花易数 | Strong | 卦象要变通，不可把一次案例的象机械复用。 | 把乾马、兑女、坎水等转成当下问题的实际类别。 | 不要把古例中的“女子折花”“马践牡丹”等字面套到现代小事。 | `梅花易数卷二 - 维基文库.html.simp.txt`, lines 13 and 257-271. |
+| R-MH-005 | 梅花易数 | Medium | 用、互、变分别对应即时、中间、结局；变卦克体则末后不利，变生体或比和则终有利。 | 对“现在能不能做、过程怎样、结果怎样”给三段式判断。 | 互变不是独立故事，必须围绕体用主线。 | `梅花易数卷三 - 维基文库.html.simp.txt`, lines 47-55. |
+| R-MH-006 | 梅花易数 | Medium | 生体之卦给成事或救应之期，克体之卦给阻碍或败事之期；远近要按事项大小取年/月/日。 | 日常只给粗应期：快、稍迟、待某类日时或条件。 | 没有明确起卦和时点，不给具体日期。 | `梅花易数卷三 - 维基文库.html.simp.txt`, lines 41-44 and 89-101. |
+| R-MH-007 | 梅花易数 | Medium | 外应要分真生真克和轻重。 | 现实兆象只作辅助：真实刀火水土比颜色、形状、微物更重。 | 外应不能压过已成卦的主线；轻象只作轻微不顺。 | `梅花易数卷三 - 维基文库.html.simp.txt`, lines 57-67. |
+| R-MH-008 | 梅花易数 | Medium | 动应更速，静应更迟；坐、行、立也可提示迟速。 | 日常问“何时有回应”时，以动静判断快慢。 | 这是辅助克应，不可脱离体用旺衰。 | `梅花易数卷三 - 维基文库.html.simp.txt`, lines 75-85. |
 ## Bazi / Ziping Rules
 
 These rules combine the 四库提要 layer of `三命通会` with checked local text from `子平真诠评注 - CTP.html`. They should be used only when the chart or required birth data is available.
@@ -136,6 +148,9 @@ These rules are for traditional相术 reading. They are especially vulnerable to
 | R-FS-002 | 风水/堪舆 | Strong | “气乘风则散，界水则止”：风太直则散，水/边界使气有收束。 | 对房间、书桌、床位、店面做低风险建议：避直冲、保留稳定边界、使入口与停留区有缓冲。 | 不建议危险或迷信化改造；不能替代建筑、电气、消防安全。 | `葬书四库本 - 维基文库.html.simp.txt`, lines 87-105. |
 | R-FS-003 | 风水/堪舆 | Medium | 势来形止，才可言聚。 | 判断一个位置是否适合久坐/工作/睡眠，看人流、风口、门窗、噪声是否在此处停稳。 | 只凭方位名词不足以判断；必须结合具体空间图或观察。 | `葬书四库本 - 维基文库.html.simp.txt`, lines 143-157. |
 | R-FS-004 | 风水/堪舆 | Medium | 形煞的现代转译是尖冲、直撞、破碎、压迫、噪声、眩光和安全隐患。 | 居家小事优先建议移位、遮挡、修理、收纳、照明，而不是昂贵法物。 | 不制造恐惧；能物理修复的先物理修复。 | `葬书四库本 - 维基文库.html.simp.txt`, lines 225-237. |
+| R-FS-005 | 风水/堪舆 | Medium | 阳宅先看外形大势，再看内形细节；外部冲迫太重，内部布置难全吉。 | 看住房、办公位、店面时，先问门外道路、水流、噪声、邻近建筑、明堂开阔度。 | 不凭室内摆件修补重大安全、采光、潮湿、噪声问题。 | `古今图书集成艺术典第675卷阳宅十书相关 - 维基文库.html.simp.txt`, lines 46-63. |
+| R-FS-006 | 风水/堪舆 | Medium | 宅宜滋润光泽有阳气，忌干燥无润泽、门前水坑、井正对门、道路桥梁四面交冲。 | 日常转译为：采光、通风、排水、门口障碍、路冲和卫生先处理。 | 古文凶辞很重，现代建议只给低风险整理和避让。 | `古今图书集成艺术典第675卷阳宅十书相关 - 维基文库.html.simp.txt`, lines 74-106. |
+| R-FS-007 | 风水/堪舆 | Version issue | 《阳宅十书》符镇段落多涉及不适合现代执行的物件和仪式；保留其“冲射需遮挡/缓冲”的结构，不照搬操作。 | 遇道路冲宅、屋脊冲射、庙宇相冲等，建议屏风、植物、窗帘、动线调整和安全改善。 | 不建议埋物、血骨、符咒等做法。 | `古今图书集成艺术典第678卷阳宅十书相关 - 维基文库.html.simp.txt`, lines 280-316. |
 | R-ZW-001 | 紫微斗数 | Strong | 紫微判断先看命宫吉凶、庙旺陷、化吉化忌和生克，再看三方会照。 | 用户给出紫微盘时，先读命宫和三方四正，不从单星名直接下断。 | 没有盘或可靠出生资料时，只能讲方法，不能排盘臆断。 | `紫微斗数全书卷三 - 维基文库.html.simp.txt`, lines 24-50. |
 | R-ZW-002 | 紫微斗数 | Strong | 入格还要看是否化吉、是否被杀忌空劫破格。 | 对看似好格局，必须检查破格因素；对普通格局，检查是否有会合救应。 | 不因“入格”两字直接许好。 | `紫微斗数全书卷三 - 维基文库.html.simp.txt`, lines 62-72. |
 | R-ZW-003 | 紫微斗数 | Medium | 命无正曜时，财官迁移等宫的拱照可补命宫。 | 命宫空弱时，不急着判差，转看对宫和三方是否有吉星、化吉、庙旺。 | 需要完整盘；不适合无盘日常随口断。 | `紫微斗数全书卷三 - 维基文库.html.simp.txt`, lines 34-44. |
@@ -145,6 +160,7 @@ These rules are for traditional相术 reading. They are especially vulnerable to
 | R-ZR-002 | 择日 | Strong | 合婚俗论、红沙、长短星等无义理或无应验者，应谨慎或不用。 | 遇到会造成拖延、恐惧、错失现实机会的禁忌，优先审其来源和合理性。 | 只可作为传统参考，不可用来阻断他人婚姻/工作/医疗等重大行动。 | `钦定协纪辨方书四库本全览1 - 维基文库.html.simp.txt`, lines 147-150 and 340. |
 | R-ZR-003 | 择日 | Strong | 吉神所宜、凶神所忌要与事项相配，并逐条斟酌。 | 同一天不可能对所有事同吉同凶；要问清“要做什么”。 | 不按单个吉日标签回答所有事项。 | `钦定协纪辨方书四库本全览1 - 维基文库.html.simp.txt`, lines 377 and 463-467. |
 | R-ZR-004 | 择日 | Medium | 月令、干支、五行气序是择日的底层框架。 | 日常择时可以用季节、月份、事项属性来取顺势：启动、收束、整理、沟通、修补。 | 没有精确历法换算时，不给具体干支吉凶。 | `钦定协纪辨方书四库本全览1 - 维基文库.html.simp.txt`, lines 1036-1094. |
+| R-ZR-005 | 择日 | Version issue | 《玉匣记》此本主要是斋醮、上章、祈福、还愿日忌，不是普通日常行动通书。 | 只在用户问祭祀、祈愿、还愿、宗教仪式时作为传统参考。 | 不把其“大凶”日忌扩展到发消息、购物、出门、工作等普通小事。 | `许真君玉匣记 - 维基文库.html.simp.txt`, lines 25-121. |
 | R-XM-011 | 星命 | Strong | 星命文献本身承认托名和增饰问题，但星度乘除、生克、值年神煞仍可择要参考。 | 引用果老/五星材料时，先标版本疑点，再取可操作的结构原则。 | 不把托名故事当史实。 | `星命溯源四库本全览 - 维基文库.html.simp.txt`, lines 22-24. |
 | R-XM-012 | 星命 | Medium | 星命先观主曜，次察身宫；以二十八宿为经、十一曜为用。 | 有星命盘时先定主曜、身宫、宫度，再谈财官福寿。 | 无盘时只讲方法，不作具体星命断语。 | `星命溯源四库本全览 - 维基文库.html.simp.txt`, lines 162-164. |
 | R-XM-013 | 星命 | Medium | 格局不能离开得用受损、空亡、刑煞和岁限。 | 看见夹拱、禄马、贵印等好名词时，仍检查是否破局。 | 不用单个吉曜名词许富贵。 | `星命溯源四库本全览 - 维基文库.html.simp.txt`, lines 144-154. |
@@ -156,6 +172,4 @@ These rules are for traditional相术 reading. They are especially vulnerable to
 4. If a bad sign is weak, static, empty, or restrained, do not exaggerate fear.
 5. If rules conflict, prefer the rule with stronger source support and closer domain fit.
 6. For daily matters, convert the final judgment into one small action, one avoidance, and one fallback.
-
-
 

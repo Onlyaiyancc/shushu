@@ -116,6 +116,18 @@ Use for:
 
 Warning: Some CTP saved pages are entry pages rather than full exported books. Inspect before treating them as complete text.
 
+### 2026-08-30 Added Wikisource Readable Texts
+
+New local HTML source files under `E:\Thing\Fortune\资料库\在线文本\维基文库`:
+
+- `火珠林 - 维基文库.html`: readable 火珠林 text; useful for 六爻世应、财官、公私用事、飞伏、伏藏.
+- `黄金策 - 维基文库.html`: readable 黄金策/千金赋 text; useful for 六爻总断、用神、世应、空合冲墓、日辰应期.
+- `葬书 - 维基文库.html` and `葬书四库本 - 维基文库.html`: readable 堪舆 source; use the 四库本 for doctrinal extraction.
+- `紫微斗数 - 维基文库.html`, `紫微斗数全书全览 - 维基文库.html`, `紫微斗数全书卷一 - 维基文库.html`, `紫微斗数全书卷三 - 维基文库.html`: readable 紫微斗数 material.
+- `星命溯源四库本全览 - 维基文库.html`: readable 五星/果老 lineage material with authorship cautions.
+- `钦定协纪辨方书四库本全览1 - 维基文库.html`, `钦定协纪辨方书四库本卷10 - 维基文库.html`, `钦定协纪辨方书四库本卷34 - 维基文库.html`: readable 择日/选择 material.
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库` by `E:\Thing\Fortune\生成简体学习版.py`.
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:
@@ -147,3 +159,4 @@ Example:
 ## Distilled References
 
 - `references/rulebook.md`: source-anchored practical rules distilled from the local corpus. Current strongest coverage is 六爻/易占 from《增删卜易》plus conservative 八字 principles from《三命通会》四库提要.
+

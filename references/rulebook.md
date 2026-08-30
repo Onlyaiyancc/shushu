@@ -101,6 +101,33 @@ These rules are for traditional相术 reading. They are especially vulnerable to
 | R-XM-010 | 星命 | Medium | 煞曜 must be judged by strength, season, restraint, and relation to命身. | Avoid blanket fear; a harmful star constrained or remote is not equal to one striking命身/限. | Many later lines are severe; soften daily advice and avoid fatalism. | `星命总括 - CTP.html.simp.txt`, lines 187-188, 230, 247, 251. |
 | R-SS-001 | 三式 | Weak | Calculation-heavy systems require a chart/pan or reliable calculation tool before interpretation. | Ask for existing 奇门/六壬/太乙盘 when unavailable. | Do not fabricate a盘 from incomplete data. | Method inference from `methods.md`; pending corpus reading. |
 
+## Newly Distilled Rules: Fire-Pearl, Golden Strategy, Burial, Ziwei, Selection
+
+| Rule ID | Branch | Reliability | Rule | Use | Boundary | Source support |
+|---|---|---:|---|---|---|---|
+| R-LY-016 | 六爻 | Strong | 乱动之卦先看世应，再找最有力量的动爻；旺爻可为用，动爻更要能生世。 | 多爻发动时，先判断自己与对方/环境，再取最旺、最急、最能作用于世的爻。 | 不要把每个动爻平均解释；休囚动爻主慢或力弱。 | `火珠林 - 维基文库.html.simp.txt`, lines 529-549. |
+| R-LY-017 | 六爻 | Strong | 公事多取官，私事多取财；官以父母为辅，财以子孙为辅。 | 日常问工作、手续、投诉、规则时重官父；问买卖、物品、收益时重财子。 | 这是一种简捷总纲；具体亲属、疾病、婚姻等仍按专门用神。 | `火珠林 - 维基文库.html.simp.txt`, lines 568-584. |
+| R-LY-018 | 六爻 | Medium | 伏藏有气可暂用，出现旺相更适合久远；伏神最好伏在世下或能透出。 | 读“暂时能成但不宜长期押注”的局面；用于小买卖、短期合作、临时求助。 | 伏藏不等于无；但伏而不贴世、不透日辰，不能当成稳固资源。 | `火珠林 - 维基文库.html.simp.txt`, lines 592-604. |
+| R-LY-019 | 六爻 | Medium | 财伏鬼下多为因财生压、因手续或权力受阻；需子孙或日辰解鬼才可得财。 | 小买卖、报销、议价、交易遇阻时，先看是否有能释放压力的办法。 | 不要机械说“财生官就是好”；若财泄于鬼且父母受克，常主文书/关卡阻滞。 | `火珠林 - 维基文库.html.simp.txt`, lines 606-623. |
+| R-LY-020 | 六爻 | Medium | 财伏兄下多有竞争、口舌、被人把住；若伏世下且财旺，自己可争取。 | 用于竞争购买、同事分利、朋友借钱、二手交易。 | 兄弟不是永远坏；问朋友/兄弟本人时它可能是目标。 | `火珠林 - 维基文库.html.simp.txt`, lines 625-637. |
+| R-LY-021 | 六爻 | Strong | 世为己、应为人；世受制不利己谋，应遭伤不利他人或外部响应。 | 日常互动中先判断“我方是否有力、对方是否稳定”。 | 世应俱空时，不要给实承诺判断，先要求确认事实。 | `黄金策 - 维基文库.html.simp.txt`, lines 27-37. |
+| R-LY-022 | 六爻 | Strong | 有伤须救；合可能绊住，冲可能激发；弱者待生旺，墓者待冲开，空者待出空。 | 给应期或行动建议时，先找“救点”和“触发点”。 | 没有卦和日期时不能给精确应期，只能转成“等确认、等回应、等条件成形”。 | `黄金策 - 维基文库.html.simp.txt`, lines 39-83. |
+| R-FS-001 | 风水/堪舆 | Strong | 风水核心不是摆件，而是“生气能否聚而不散”。 | 日常居住建议先看通风过强/过闭、光线、水路、动线、噪声、清洁和安全。 | 不把阴宅理论直接套到阳宅；现代住宅先按可观察环境转译。 | `葬书四库本 - 维基文库.html.simp.txt`, lines 55-89. |
+| R-FS-002 | 风水/堪舆 | Strong | “气乘风则散，界水则止”：风太直则散，水/边界使气有收束。 | 对房间、书桌、床位、店面做低风险建议：避直冲、保留稳定边界、使入口与停留区有缓冲。 | 不建议危险或迷信化改造；不能替代建筑、电气、消防安全。 | `葬书四库本 - 维基文库.html.simp.txt`, lines 87-105. |
+| R-FS-003 | 风水/堪舆 | Medium | 势来形止，才可言聚。 | 判断一个位置是否适合久坐/工作/睡眠，看人流、风口、门窗、噪声是否在此处停稳。 | 只凭方位名词不足以判断；必须结合具体空间图或观察。 | `葬书四库本 - 维基文库.html.simp.txt`, lines 143-157. |
+| R-FS-004 | 风水/堪舆 | Medium | 形煞的现代转译是尖冲、直撞、破碎、压迫、噪声、眩光和安全隐患。 | 居家小事优先建议移位、遮挡、修理、收纳、照明，而不是昂贵法物。 | 不制造恐惧；能物理修复的先物理修复。 | `葬书四库本 - 维基文库.html.simp.txt`, lines 225-237. |
+| R-ZW-001 | 紫微斗数 | Strong | 紫微判断先看命宫吉凶、庙旺陷、化吉化忌和生克，再看三方会照。 | 用户给出紫微盘时，先读命宫和三方四正，不从单星名直接下断。 | 没有盘或可靠出生资料时，只能讲方法，不能排盘臆断。 | `紫微斗数全书卷三 - 维基文库.html.simp.txt`, lines 24-50. |
+| R-ZW-002 | 紫微斗数 | Strong | 入格还要看是否化吉、是否被杀忌空劫破格。 | 对看似好格局，必须检查破格因素；对普通格局，检查是否有会合救应。 | 不因“入格”两字直接许好。 | `紫微斗数全书卷三 - 维基文库.html.simp.txt`, lines 62-72. |
+| R-ZW-003 | 紫微斗数 | Medium | 命无正曜时，财官迁移等宫的拱照可补命宫。 | 命宫空弱时，不急着判差，转看对宫和三方是否有吉星、化吉、庙旺。 | 需要完整盘；不适合无盘日常随口断。 | `紫微斗数全书卷三 - 维基文库.html.simp.txt`, lines 34-44. |
+| R-ZW-004 | 紫微斗数 | Medium | 大限、小限、太岁会改变本命表现，吉凶需分层。 | 问某一年/月的状态时，分本命底色、十年限、流年触发。 | 不能只凭本命给精确某日判断；日常小事仍宜用卜筮或择日。 | `紫微斗数全书卷三 - 维基文库.html.simp.txt`, lines 142-152. |
+| R-ZW-005 | 紫微斗数 | Medium | 星曜形性可作性情倾向，但不能当成现代人格诊断。 | 用于解释行为风格：稳重、机变、果断、争强、温和等。 | 不据此推断受保护身份、疾病或道德标签。 | `紫微斗数全书卷一 - 维基文库.html.simp.txt`, lines 95-142. |
+| R-ZR-001 | 择日 | Strong | 择日应考本原和义例；神煞名目多而互相矛盾时，删繁就简。 | 为日常小事择时，优先选择事实方便、风险低、事项匹配的日时，不堆砌神煞。 | 不把通书禁忌当作绝对命令。 | `钦定协纪辨方书四库本全览1 - 维基文库.html.simp.txt`, lines 230-296. |
+| R-ZR-002 | 择日 | Strong | 合婚俗论、红沙、长短星等无义理或无应验者，应谨慎或不用。 | 遇到会造成拖延、恐惧、错失现实机会的禁忌，优先审其来源和合理性。 | 只可作为传统参考，不可用来阻断他人婚姻/工作/医疗等重大行动。 | `钦定协纪辨方书四库本全览1 - 维基文库.html.simp.txt`, lines 147-150 and 340. |
+| R-ZR-003 | 择日 | Strong | 吉神所宜、凶神所忌要与事项相配，并逐条斟酌。 | 同一天不可能对所有事同吉同凶；要问清“要做什么”。 | 不按单个吉日标签回答所有事项。 | `钦定协纪辨方书四库本全览1 - 维基文库.html.simp.txt`, lines 377 and 463-467. |
+| R-ZR-004 | 择日 | Medium | 月令、干支、五行气序是择日的底层框架。 | 日常择时可以用季节、月份、事项属性来取顺势：启动、收束、整理、沟通、修补。 | 没有精确历法换算时，不给具体干支吉凶。 | `钦定协纪辨方书四库本全览1 - 维基文库.html.simp.txt`, lines 1036-1094. |
+| R-XM-011 | 星命 | Strong | 星命文献本身承认托名和增饰问题，但星度乘除、生克、值年神煞仍可择要参考。 | 引用果老/五星材料时，先标版本疑点，再取可操作的结构原则。 | 不把托名故事当史实。 | `星命溯源四库本全览 - 维基文库.html.simp.txt`, lines 22-24. |
+| R-XM-012 | 星命 | Medium | 星命先观主曜，次察身宫；以二十八宿为经、十一曜为用。 | 有星命盘时先定主曜、身宫、宫度，再谈财官福寿。 | 无盘时只讲方法，不作具体星命断语。 | `星命溯源四库本全览 - 维基文库.html.simp.txt`, lines 162-164. |
+| R-XM-013 | 星命 | Medium | 格局不能离开得用受损、空亡、刑煞和岁限。 | 看见夹拱、禄马、贵印等好名词时，仍检查是否破局。 | 不用单个吉曜名词许富贵。 | `星命溯源四库本全览 - 维基文库.html.simp.txt`, lines 144-154. |
 ## Conflict Resolution
 
 1. Use the question's branch first. Do not answer a 六爻 question with 八字 rules unless the user asks to combine methods.
@@ -109,3 +136,4 @@ These rules are for traditional相术 reading. They are especially vulnerable to
 4. If a bad sign is weak, static, empty, or restrained, do not exaggerate fear.
 5. If rules conflict, prefer the rule with stronger source support and closer domain fit.
 6. For daily matters, convert the final judgment into one small action, one avoidance, and one fallback.
+

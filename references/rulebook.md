@@ -70,6 +70,12 @@ These rules combine the 四库提要 layer of `三命通会` with checked local 
 | R-BZ-017 | 八字 | Medium | 四时 order matters: spring births, summer grows, autumn contracts, winter stores. | Use this as a basic climate frame before judging whether a chart needs warming, cooling, releasing, or storing. | This is foundational; do not make an event prediction from season alone. | `三命通会四库本 卷01`, simplified study text around line 36. |
 | R-BZ-018 | 八字 | Medium | 干支 are the time framework from which 四柱 are formed. | For 八字 questions, first ensure year/month/day/hour pillars are known or calculated. | Without reliable date/time conversion, do not fabricate a chart. | `三命通会四库本 卷01`, simplified study text around line 48. |
 
+| R-BZ-019 | 八字 | Strong | 日主是八字判断的中心，财官印食伤比劫等五类十神都要围绕日主关系来定。 | 先定日主，再把官杀、财、印、食伤、比劫映射为对日主的约束、资源、输出、同类与竞争。 | 十神名义不是现代身份标签；不要把“财”“官”按字面直接许财官。 | `渊海子平 - 维基文库.html.simp.txt`, lines 153-157. |
+| R-BZ-020 | 八字 | Strong | 不要妄立格局；多数格名仍应回到五类十神与实际作用。 | 见到奇格、飞天禄马、倒冲等名目时，先还原为伤官、官杀、财印等基本结构。 | 若文本或流派有专门成格条件，需逐条验证，不可只凭格名。 | `渊海子平 - 维基文库.html.simp.txt`, line 157. |
+| R-BZ-021 | 八字 | Strong | 命贵中和与流通，偏枯奇异不足为凭。 | 解释性情和日常节奏时，优先看五行是否能相生流转、寒暖燥湿是否失衡。 | 不因“全某一气”“罕见格局”直接判贵或凶。 | `滴天髓阐微 - 维基文库.html.simp.txt`, lines 55-57. |
+| R-BZ-022 | 八字 | Strong | 财官印食伤比劫枭杀都可能为用，不能按名字美恶定喜忌。 | 判断一个元素好坏时，问它是否为用、是否顺局、是否被劫伤坏夺。 | 不用的财可劫，不用的官可伤；日常建议应转成“该扶还是该抑”。 | `滴天髓阐微 - 维基文库.html.simp.txt`, lines 67-69 and 281. |
+| R-BZ-023 | 八字 | Strong | 旺相休囚要看进退之机：相气方进，旺气已极，休气方退，囚气将转。 | 做阶段判断时，区分“正在起势”“已经太满”“刚退下去”“低处待转”。 | 不把旺衰当静态强弱；喜神宜旺相，忌神宜休囚，但还要看全局。 | `滴天髓阐微 - 维基文库.html.simp.txt`, line 221. |
+| R-BZ-024 | 八字 | Strong | 刑冲害破等俗法要回到强弱、喜忌、生克与通根。 | 遇到“冲库必发”等口号时，先看冲的是用神根气还是忌神壅塞。 | 不因有冲就说动而发财；冲去微根常是损。 | `滴天髓阐微 - 维基文库.html.simp.txt`, lines 587-589 and 648. |
 ## Physiognomy Rules
 
 These rules are for traditional相术 reading. They are especially vulnerable to visual error, bias, and overclaiming. Use them only as symbolic/cultural interpretation, and do not infer protected identity traits or make high-stakes decisions from appearance.
@@ -101,6 +107,20 @@ These rules are for traditional相术 reading. They are especially vulnerable to
 | R-XM-010 | 星命 | Medium | 煞曜 must be judged by strength, season, restraint, and relation to命身. | Avoid blanket fear; a harmful star constrained or remote is not equal to one striking命身/限. | Many later lines are severe; soften daily advice and avoid fatalism. | `星命总括 - CTP.html.simp.txt`, lines 187-188, 230, 247, 251. |
 | R-SS-001 | 三式 | Weak | Calculation-heavy systems require a chart/pan or reliable calculation tool before interpretation. | Ask for existing 奇门/六壬/太乙盘 when unavailable. | Do not fabricate a盘 from incomplete data. | Method inference from `methods.md`; pending corpus reading. |
 
+| R-LR-001 | 六壬 | Strong | 六壬必须先有四课三传；由干支成四课，由发用成三传。 | 用户没有六壬课式时，要求占时、月将、日干支或现成课盘；只可讲方法，不可硬断。 | 不凭“贵人”“青龙”等单词直接判断。 | `六壬大全四库本全览 - 维基文库.html.simp.txt`, lines 19 and 61-118. |
+| R-LR-002 | 六壬 | Strong | 发用有固定取法次序：贼克、比用、涉害、遥克、昴星、别责、八专、伏吟、返吟。 | 审课时先说明初传从何法取出，再读三传走势。 | 没有确认发用方法时，不把任一课神当初传。 | `六壬大全四库本全览 - 维基文库.html.simp.txt`, lines 61-118. |
+| R-LR-003 | 六壬 | Medium | 德神有解凶力，甚至德加干发用为鬼仍可作德断，但要旺、不空、有贵神生扶。 | 日常小事可译为“有可靠援手/正当性/补救条件，可以转危”。 | 德空、休囚、外战或无助，喜中生忧；病讼不宜过度乐观。 | `六壬大全四库本全览 - 维基文库.html.simp.txt`, lines 1268-1278. |
+| R-LR-004 | 六壬 | Medium | 合主和合与牵连；合带德禄喜可全吉，合乘凶神或刑害空破则和中藏祸。 | 用于合作、约见、调解、托人办事：看合是否清、是否有吉助。 | 合不等于一定成；三合常有牵连和延迟，凶合不可托付。 | `六壬大全四库本全览 - 维基文库.html.simp.txt`, lines 1319-1339. |
+| R-LR-005 | 六壬 | Medium | 鬼发用主压力、阻碍或暗害；有制、有救、转生干可先凶后吉。 | 遇鬼重时，先找救神、制鬼之神、末传是否转生扶。 | 暗鬼重于明鬼；无救时不要给轻快肯定。 | `六壬大全四库本全览 - 维基文库.html.simp.txt`, lines 1434-1478. |
+| R-QM-001 | 奇门 | Strong | 奇门以九宫、三奇六仪、八门九星、值符值使、阴阳遁和节气局数为基本盘。 | 没有奇门盘或精确起局条件时，只可讲原则，不可编造宫门星神。 | 日常小事要按比例使用，不把兵占术语直接恐吓化。 | `遁甲演义四库本全览 - 维基文库.html.simp.txt`, lines 28-32 and `奇门遁甲统宗 - 维基文库.html.simp.txt`, lines 54-56. |
+| R-QM-002 | 奇门 | Strong | 超神接气置闰是奇门起局关键。 | 要做精确择时或方位时，必须确认节气、符头、置闰/拆补局。 | 不明历数时，只能给粗略方向和行动策略。 | `遁甲演义四库本全览 - 维基文库.html.simp.txt`, lines 126-130 and `奇门遁甲统宗 - 维基文库.html.simp.txt`, line 56. |
+| R-QM-003 | 奇门 | Medium | 吉门三奇也要看旺相休囚和得时得地；开门本吉，失时失地也不全吉。 | 选时间、方位、动作时，先看门奇是否当令、有地、有用。 | 不以“开休生”或“三奇”单名直接许吉。 | `奇门遁甲统宗 - 维基文库.html.simp.txt`, lines 22-24. |
+| R-QM-004 | 奇门 | Medium | 八门各有事类：开休生多宜普通行动，伤宜捕猎/竞争，杜宜隐避，景宜书信展示，惊宜诉讼争执，死宜丧葬终结。 | 日常转译为：推进、休整、求益、竞争、隐藏、表达、争议、结束。 | 门要与事项相配，不能把所有事都套同一个吉门。 | `奇门遁甲统宗 - 维基文库.html.simp.txt`, line 50. |
+| R-QM-005 | 奇门 | Medium | 奇门占法分动静：静事看值符、值使、时干及生克旺衰；动事重方向和触发方位。 | 问“要不要动、往哪边、何处来事”时，先分动静再取用。 | 不可胶柱鼓瑟；同一盘中不同事项取用不同。 | `奇门遁甲统宗 - 维基文库.html.simp.txt`, line 27. |
+| R-TY-001 | 太乙 | Version issue | 太乙文献层累复杂，且四库提要批评征应多错谬、分野牵配无据。 | 在 skill 中把太乙用于历史/方法参考和宏观趋势框架。 | 不用太乙给日常小事作确定断语，除非用户提供完整太乙盘并接受方法边界。 | `太乙金镜式经四库本全览 - 维基文库.html.simp.txt`, lines 24-28. |
+| R-TY-002 | 太乙 | Medium | 太乙以岁月日时为纲，以太乙、天目、计神、八将等构成推步体系。 | 若用户提供太乙盘，先核太乙所在、计神所在、八将关系，再谈占辞。 | 没有历算和盘式时，不可凭年份或方位单断。 | `太乙金镜式经四库本全览 - 维基文库.html.simp.txt`, lines 24, 73-90, 146-154. |
+| R-SX-001 | 星占 | Medium | 《唐开元占经》主要汇集天象、灾异、星占与国家兵灾类占候，不适合直接回答个人日常小事。 | 用它来解释古代天象占候的文献背景，或标注宏观占候与个人占卜的边界。 | 不把日月星辰灾异占文转成个人健康、感情、财富预言。 | `唐开元占经四库本全览1 - 维基文库.html.simp.txt`, lines 688-899. |
+| R-SS-002 | 三式 | Strong | 三式共同底线：先成盘/课，再解释；没有盘，就选择更适合日常的六爻/择日/现实建议。 | 用户问小事但没有起局资料时，说明需要盘，或给低风险现实建议。 | 不为了显得玄妙而伪造三式结果。 | Synthesis from R-LR-001, R-QM-001, R-QM-002, R-TY-002. |
 ## Newly Distilled Rules: Fire-Pearl, Golden Strategy, Burial, Ziwei, Selection
 
 | Rule ID | Branch | Reliability | Rule | Use | Boundary | Source support |
@@ -136,4 +156,6 @@ These rules are for traditional相术 reading. They are especially vulnerable to
 4. If a bad sign is weak, static, empty, or restrained, do not exaggerate fear.
 5. If rules conflict, prefer the rule with stronger source support and closer domain fit.
 6. For daily matters, convert the final judgment into one small action, one avoidance, and one fallback.
+
+
 

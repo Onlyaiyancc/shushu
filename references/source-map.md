@@ -128,6 +128,20 @@ New local HTML source files under `E:\Thing\Fortune\资料库\在线文本\维�
 - `钦定协纪辨方书四库本全览1 - 维基文库.html`, `钦定协纪辨方书四库本卷10 - 维基文库.html`, `钦定协纪辨方书四库本卷34 - 维基文库.html`: readable 择日/选择 material.
 
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库` by `E:\Thing\Fortune\生成简体学习版.py`.
+
+### 2026-08-30 Added Three-Style and Bazi Texts
+
+New local HTML source files under `E:\Thing\Fortune\资料库\在线文本\维基文库`:
+
+- `六壬大全四库本全览 - 维基文库.html`: readable 四库全书本《六壬大全》全览; useful for 四课三传、发用九法、德合、鬼发用、暗鬼.
+- `太乙金镜式经四库本全览 - 维基文库.html`: readable 太乙 method text; useful mainly for method boundaries, 太乙所在、计神所在、八将 and 四库提要 cautions.
+- `遁甲演义四库本全览 - 维基文库.html`: readable 奇门/遁甲 source; useful for 三奇六仪、八门九星、值符值使、超接置闰.
+- `奇门遁甲统宗 - 维基文库.html`: readable 奇门 source; useful for格局、八门事类、动静取用、旺相休囚.
+- `唐开元占经四库本全览1 - 维基文库.html` and `唐开元占经四库本全览2 - 维基文库.html`: readable 开元星占 corpus; best used for historical/mundane astrology boundaries rather than daily personal readings.
+- `渊海子平 - 维基文库.html`: readable 八字子平 source; useful for 日主为主、十神五类、格局还原.
+- `滴天髓阐微 - 维基文库.html`: readable 八字 source; useful for中和、顺逆、理气进退、用神喜忌、刑冲辨误.
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库` by `E:\Thing\Fortune\生成简体学习版.py`.
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:
@@ -159,4 +173,5 @@ Example:
 ## Distilled References
 
 - `references/rulebook.md`: source-anchored practical rules distilled from the local corpus. Current strongest coverage is 六爻/易占 from《增删卜易》plus conservative 八字 principles from《三命通会》四库提要.
+
 

@@ -22,6 +22,7 @@ Before judging, identify the real question.
 - If the user wants permission to avoid responsibility, say so plainly and give the smaller responsible action.
 - If the user asks a leading question, test the opposite answer first. If the method points to waiting, stopping, or reducing scope, say that even when the user wants encouragement.
 - If the reading gives “待时、守静、戒进、知止”, translate it into a concrete restraint: pause, prepare, clarify facts, or choose the quieter path.
+- If the user is merely curious and no decision is pending, avoid pretending urgency. Classical筮 is strongest for resolving doubt before action, not for manufacturing drama.
 
 ## Everyday Decision Frame
 
@@ -69,6 +70,11 @@ These are synthesis rules for daily use, not direct quotations.
 | 宜速 | delay worsens the matter | act cleanly now, keep the scope narrow |
 | 阴阳孤立/偏枯 | one side lacks counterpart or support | rebalance, get feedback/help, restore alternation |
 | 五行休囚死 | timing or support is low | use maintenance, review, repair, or storage rather than expansion |
+| 根基有而运未到 | capacity exists but timing is not ready | keep preparing; do not force recognition |
+| 运来而根基无 | timing looks helpful but no base exists | do not overcommit; build the missing base first |
+| 合中带伤 | connection mixed with damage | negotiate carefully; avoid emotional over-reading |
+| 冲处有生 | disturbance creates movement and help | accept change if it opens a real path |
+| 冲破无救 | disturbance breaks the useful root | pause, protect essentials, do not gamble |
 
 ## Proportionality
 

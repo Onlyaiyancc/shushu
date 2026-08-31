@@ -164,6 +164,20 @@ New local HTML source files under `E:\Thing\Fortune\资料库\在线文本\维�
 - `太清神鉴四库本 - 维基文库.html` and `太清神鉴四库本卷1 - 维基文库.html`: readable相术 material; useful for形神气色、骨肉、三停、声音、相心 and modern boundaries against one-feature determinism.
 
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 75 generated study files.
+
+### 2026-08-31 Added Classical Fate and Yi Method Texts
+
+New local HTML source files under `E:\Thing\Fortune\资料库\在线文本\维基文库`:
+
+- `李虚中命书四库本全览 - 维基文库.html`: old禄命/纳音 source; useful for三元、干支纳音分层、轻重、贵神与休旺 boundaries.
+- `玉照定真经四库本 - 维基文库.html`: concise but late-attributed命书; useful for干音轻重、上下尊卑、墓库、远近, with strong caution against literal fatal claims.
+- `珞琭子三命消息赋注四库本全览 - 维基文库.html`: important子平/禄命 bridge text; useful for向背、根基、节气深浅、五行刚柔得失 and version cautions.
+- `三命指迷赋四库本 - 维基文库.html`: 子平-oriented命书; useful for夹马夹禄、拱库拱贵、太过不及、合冲 and the need to judge月建 with日时.
+- `易筮通变 - 维基文库.html`: 易筮 method text; useful for separating卜 and筮, identifying之卦/动爻 logic, and grounding占 in received卦爻.
+- `周易筮述四库本全览 - 维基文库.html`: classical筮法 text; useful for辞、变、象、占, decision-use boundaries, and caution against惊怪附会.
+- `易象钩解四库本 - 维基文库.html`: 易象 text; useful for象学 support and version disputes around互体、纳甲、飞伏 and京氏 traditions.
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 82 generated study files.
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

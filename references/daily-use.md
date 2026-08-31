@@ -20,6 +20,8 @@ Before judging, identify the real question.
 - If the user asks “他是不是讨厌我”, convert it to “what signal is visible, and what next move has the best odds?”
 - If the user asks two questions at once, choose the practical one or ask them to split the question.
 - If the user wants permission to avoid responsibility, say so plainly and give the smaller responsible action.
+- If the user asks a leading question, test the opposite answer first. If the method points to waiting, stopping, or reducing scope, say that even when the user wants encouragement.
+- If the reading gives “待时、守静、戒进、知止”, translate it into a concrete restraint: pause, prepare, clarify facts, or choose the quieter path.
 
 ## Everyday Decision Frame
 
@@ -62,6 +64,11 @@ These are synthesis rules for daily use, not direct quotations.
 | 梅花体克用 | the user can act on the matter | doable, but often slower or requiring effort |
 | 梅花体生用 | the user leaks effort into the matter | reduce cost, avoid over-giving, expect depletion |
 | 梅花用克体 | the matter presses or harms the user | avoid, delay, or change approach |
+| 待时 | favorable only after time/conditions ripen | prepare, do not rush the result |
+| 守静/戒进/知止 | obstruction or unsafe advance | pause, preserve position, avoid forcing |
+| 宜速 | delay worsens the matter | act cleanly now, keep the scope narrow |
+| 阴阳孤立/偏枯 | one side lacks counterpart or support | rebalance, get feedback/help, restore alternation |
+| 五行休囚死 | timing or support is low | use maintenance, review, repair, or storage rather than expansion |
 
 ## Proportionality
 

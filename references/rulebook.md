@@ -14,6 +14,17 @@ Reliability labels follow `reading-protocol.md`: Strong, Medium, Weak, or Versio
 | R-META-004 | all | Strong | Daily readings should stay low-stakes and action-sized. | Give timing, wording, preparation, delay, simplification, or fallback. | Do not inflate an errand, text message, meeting, or small purchase into fate language. | Skill purpose plus `daily-use.md`; supported by R-META-001. |
 | R-META-005 | research | Strong | Separate source claim, traditional inference, and modern advice. | In research answers, cite checked local files; in readings, distinguish method inference from direct textual support. | Do not claim "the books say" unless a passage or distilled rule was checked. | `reading-protocol.md`; corpus workflow requirement. |
 
+## Wuxing / Foundational Symbol Rules
+
+| Rule ID | Branch | Reliability | Rule | Use | Boundary | Source support |
+|---|---|---:|---|---|---|---|
+| R-WX-001 | 五行 | Strong | 五行 are seasonal, directional, climatic, material, and functional qi-categories, not fixed personality labels. | Explain 木火土金水 through timing, direction, action tendency, and the question's domain. | Do not say "wood means kindness" or "fire means passion" without context and role. | `五行大义卷1 - 维基文库.html.simp.txt`, lines 21 and 29. |
+| R-WX-002 | 五行 | Strong | A reading must check interaction and balance: solitary yang or solitary yin does not complete a matter. | For daily questions, ask whether the user has counterpart, feedback, timing, support, and closure. | Do not treat one strong sign as sufficient if it has no responding partner or usable position. | `五行大义卷1 - 维基文库.html.simp.txt`, line 37. |
+| R-WX-003 | 五行 | Strong | 相生 means different kinds transform and support each other; 同类重复 is not the same as producing useful effect. | Extra help is useful only when it changes the situation: resource to action, action to result, result to storage. | More of the same can be stagnation, crowding, or waste. | `五行大义卷2 - 维基文库.html.simp.txt`, line 21. |
+| R-WX-004 | 五行 | Strong | 旺、相、休、囚、死 are timing and force states. | Before interpreting a sign, ask whether it is in season, supported, declining, constrained, or exhausted. | Do not judge by element name alone. | `五行大义卷2 - 维基文库.html.simp.txt`, line 29. |
+| R-WX-005 | 干支 | Medium | 干支 are paired time-position names; 空亡 arises from missing pairings in the cycle. | For timing or chart work, confirm the actual stem-branch frame before using 空亡 or旬 rules. | Do not invent空亡 from a date that has not been converted. | `五行大义卷2 - 维基文库.html.simp.txt`, line 33. |
+| R-WX-006 | 九宫 | Medium | 九宫 and number-palace systems vary by lineage and purpose. | Confirm the specific system before mixing 九宫, 八卦, 三式, or宅法 numbers. | Do not decorate an answer with九宫 numbers when no calculation frame is present. | `五行大义卷1 - 维基文库.html.simp.txt`, line 53. |
+
 ## Six-Line / Yi Divination Rules
 
 | Rule ID | Branch | Reliability | Rule | Use | Boundary | Source support |
@@ -57,6 +68,16 @@ Reliability labels follow `reading-protocol.md`: Strong, Medium, Weak, or Versio
 | R-MH-006 | 梅花易数 | Medium | 生体之卦给成事或救应之期，克体之卦给阻碍或败事之期；远近要按事项大小取年/月/日。 | 日常只给粗应期：快、稍迟、待某类日时或条件。 | 没有明确起卦和时点，不给具体日期。 | `梅花易数卷三 - 维基文库.html.simp.txt`, lines 41-44 and 89-101. |
 | R-MH-007 | 梅花易数 | Medium | 外应要分真生真克和轻重。 | 现实兆象只作辅助：真实刀火水土比颜色、形状、微物更重。 | 外应不能压过已成卦的主线；轻象只作轻微不顺。 | `梅花易数卷三 - 维基文库.html.simp.txt`, lines 57-67. |
 | R-MH-008 | 梅花易数 | Medium | 动应更速，静应更迟；坐、行、立也可提示迟速。 | 日常问“何时有回应”时，以动静判断快慢。 | 这是辅助克应，不可脱离体用旺衰。 | `梅花易数卷三 - 维基文库.html.simp.txt`, lines 75-85. |
+
+## Lingqi / Lot-Divination Rules
+
+| Rule ID | Branch | Reliability | Rule | Use | Boundary | Source support |
+|---|---|---:|---|---|---|---|
+| R-LQ-001 | 灵棋 | Strong | 灵棋 readings require an actual cast or named卦/课. | Ask for the cast result,卦名, or upper/middle/lower counts before interpreting. | Do not infer a灵棋卦 from the user's mood or desired outcome. | `灵棋经四库本全览 - 维基文库.html.simp.txt`, lines 82-110 and 612-617. |
+| R-LQ-002 | 灵棋 | Strong | 待时 means conditions can become good, but rushing makes the matter disharmonious. | For daily matters, advise preparing, settling, and waiting for a concrete signal rather than pressing immediately. | 待时 is not refusal; it is a timing correction. | `灵棋经四库本全览 - 维基文库.html.simp.txt`, lines 617, 2534, 2630-2642. |
+| R-LQ-003 | 灵棋 | Strong | 守静、戒进、知止 mean preserve position, withdraw from unsafe advance, and act from correctness. | Use for messages, meetings, travel, purchases, and conflicts when signs show obstruction or no response. | Do not soften this into encouragement when the user is pushing from anxiety or impatience. | `灵棋经四库本全览 - 维基文库.html.simp.txt`, lines 801, 915, 921, 1084-1090, 1964-1966, 2038-2044. |
+| R-LQ-004 | 灵棋 | Medium | 宜速 is the exception: when danger or opportunity is time-sensitive, delay worsens the matter. | Recommend one prompt, clean, bounded action, then stop expanding the matter. | 宜速 does not mean reckless action; it means no procrastination after the correct action is identified. | `灵棋经四库本全览 - 维基文库.html.simp.txt`, lines 1976-1980. |
+| R-LQ-005 | 灵棋 | Version issue | Some灵棋 passages preserve variant or inconsistent象辞. | When exact wording and卦象 conflict, mark the version issue and favor repeated structural meanings such as待时、守静、止、速. | Do not overfit a single dramatic phrase when commentary flags textual mismatch. | `灵棋经四库本全览 - 维基文库.html.simp.txt`, lines 1846-1848. |
 ## Bazi / Ziping Rules
 
 These rules combine the 四库提要 layer of `三命通会` with checked local text from `子平真诠评注 - CTP.html`. They should be used only when the chart or required birth data is available.
@@ -102,6 +123,12 @@ These rules are for traditional相术 reading. They are especially vulnerable to
 | R-XIANG-006 | 相术 | Strong | 心田/behavior modifies appearance-based judgment. | In readings, translate adverse signs into conduct advice: steadiness, kindness, restraint, honesty, rest, better presentation. | Do not claim moral character from an image alone; use this rule to avoid fatalism. | `神相全编 - CTP.html.simp.txt`, lines 54, 158, 206. |
 | R-XIANG-007 | 相术 | Medium | 气色 needs time and condition control. | For complexion/color questions, ask whether the image is recent, natural light, no heavy filter, and whether the person is tired or ill. | Do not judge气色 from a single filtered or poorly lit image. | `神相全编 - CTP.html.simp.txt`, lines 36-41, 88. |
 | R-XIANG-008 | 相术 | Medium | Sound/voice is part of traditional相法, not just face shape. | If the user supplies voice/behavior description, include it as supporting evidence for vitality and steadiness. | Do not request voice for ordinary readings unless it materially matters. | `神相全编 - CTP.html.simp.txt`, lines 54 and 23-25 in the opening section. |
+| R-XIANG-009 | 相术 | Strong | 相术 must integrate shape, bone, flesh, color, spirit, qi, voice, movement, and proportion. | Start by listing which layers are actually visible or reported; refuse a whole-person verdict from one feature. | Do not use single-feature maxims as deterministic judgments. | `太清神鉴四库本卷1 - 维基文库.html.simp.txt`, lines 56, 60, 142, 148, 168. |
+| R-XIANG-010 | 相术 | Strong | 神气 outranks static form: 有形不如有骨，有骨不如有神，有神不如有气. | In daily use, translate this into energy, steadiness, alertness, composure, and presence. | Camera angle, fatigue, illness, lighting, and mood can imitate神气; state uncertainty. | `太清神鉴四库本卷1 - 维基文库.html.simp.txt`, lines 60 and 148. |
+| R-XIANG-011 | 相术 | Strong | 上相相心: conduct and intention must be considered before appearance is turned into fate. | When an adverse physical sign appears, answer with corrective conduct and presentation advice first. | Do not infer virtue, criminality, sexuality, or protected traits from appearance. | `太清神鉴四库本卷1 - 维基文库.html.simp.txt`, lines 72-78 and 176. |
+| R-XIANG-012 | 相术 | Medium | 气色 is recent and positional; color outside stable conditions is weak evidence. | For face-color questions, ask for recent natural-light observation and separate illness/tiredness from omen. | Do not diagnose health or wealth from complexion; use it as a temporary state signal. | `太清神鉴四库本卷1 - 维基文库.html.simp.txt`, lines 56, 168-176, 185. |
+| R-XIANG-013 | 相术 | Medium | 富、贵、寿、名 are distinct categories. | If asked "is this good", specify whether the sign concerns resources, rank, longevity/vitality, reputation, or temperament. | Do not collapse all favorable terms into generic success. | `太清神鉴四库本卷1 - 维基文库.html.simp.txt`, line 168. |
+| R-XIANG-014 | 相术 | Version issue | Many相术 passages contain severe, gendered, or morally loaded claims. | Preserve structural ideas such as balance,神气,气色, and conduct; discard harmful literal applications. | Do not repeat misogynistic, insulting, violent, or deterministic claims as advice. | `太清神鉴四库本卷1 - 维基文库.html.simp.txt`, lines 84-121 and 148. |
 
 ## Star Fate / Three-Style Rules
 
@@ -151,6 +178,8 @@ These rules are for traditional相术 reading. They are especially vulnerable to
 | R-FS-005 | 风水/堪舆 | Medium | 阳宅先看外形大势，再看内形细节；外部冲迫太重，内部布置难全吉。 | 看住房、办公位、店面时，先问门外道路、水流、噪声、邻近建筑、明堂开阔度。 | 不凭室内摆件修补重大安全、采光、潮湿、噪声问题。 | `古今图书集成艺术典第675卷阳宅十书相关 - 维基文库.html.simp.txt`, lines 46-63. |
 | R-FS-006 | 风水/堪舆 | Medium | 宅宜滋润光泽有阳气，忌干燥无润泽、门前水坑、井正对门、道路桥梁四面交冲。 | 日常转译为：采光、通风、排水、门口障碍、路冲和卫生先处理。 | 古文凶辞很重，现代建议只给低风险整理和避让。 | `古今图书集成艺术典第675卷阳宅十书相关 - 维基文库.html.simp.txt`, lines 74-106. |
 | R-FS-007 | 风水/堪舆 | Version issue | 《阳宅十书》符镇段落多涉及不适合现代执行的物件和仪式；保留其“冲射需遮挡/缓冲”的结构，不照搬操作。 | 遇道路冲宅、屋脊冲射、庙宇相冲等，建议屏风、植物、窗帘、动线调整和安全改善。 | 不建议埋物、血骨、符咒等做法。 | `古今图书集成艺术典第678卷阳宅十书相关 - 维基文库.html.simp.txt`, lines 280-316. |
+| R-FS-008 | 风水/堪舆 | Version issue | 《宅经》旧题黄帝并不可靠，但其相宅法在术数中较近古，可取方法而不取托名权威。 | 引用宅经时先标注版本/托名问题，再使用其阴阳相得和二十四路框架。 | 不用“黄帝曰”增强断语权威。 | `宅经 - 维基文库.html.simp.txt`, line 53; `宅经四库本 - 维基文库.html.simp.txt`, line 27. |
+| R-FS-009 | 风水/堪舆 | Medium | 宅法先看二十四路、阴阳方位和阴阳相得。 | 用户问住宅/房间/座位时，先索取朝向、门路、床桌位置、外部道路/水/光/噪声。 | 没有空间数据时，只能给整理、采光、通风、安全等普通建议。 | `宅经 - 维基文库.html.simp.txt`, line 53; `宅经四库本 - 维基文库.html.simp.txt`, line 27. |
 | R-ZW-001 | 紫微斗数 | Strong | 紫微判断先看命宫吉凶、庙旺陷、化吉化忌和生克，再看三方会照。 | 用户给出紫微盘时，先读命宫和三方四正，不从单星名直接下断。 | 没有盘或可靠出生资料时，只能讲方法，不能排盘臆断。 | `紫微斗数全书卷三 - 维基文库.html.simp.txt`, lines 24-50. |
 | R-ZW-002 | 紫微斗数 | Strong | 入格还要看是否化吉、是否被杀忌空劫破格。 | 对看似好格局，必须检查破格因素；对普通格局，检查是否有会合救应。 | 不因“入格”两字直接许好。 | `紫微斗数全书卷三 - 维基文库.html.simp.txt`, lines 62-72. |
 | R-ZW-003 | 紫微斗数 | Medium | 命无正曜时，财官迁移等宫的拱照可补命宫。 | 命宫空弱时，不急着判差，转看对宫和三方是否有吉星、化吉、庙旺。 | 需要完整盘；不适合无盘日常随口断。 | `紫微斗数全书卷三 - 维基文库.html.simp.txt`, lines 34-44. |

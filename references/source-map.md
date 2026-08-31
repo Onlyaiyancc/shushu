@@ -153,6 +153,17 @@ New local HTML source files under `E:\Thing\Fortune\资料库\在线文本\维�
 - `古今图书集成艺术典第675卷阳宅十书相关 - 维基文库.html` through `第678卷`: readable 阳宅十书 excerpts embedded in 图书集成; useful for宅外形、门路水井、宅内修造 and符镇段落的现代边界.
 
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库` by `E:\Thing\Fortune\生成简体学习版.py`.
+
+### 2026-08-31 Added Foundational and Daily Texts
+
+New local HTML source files under `E:\Thing\Fortune\资料库\在线文本\维基文库`:
+
+- `五行大义 - 维基文库.html`, `五行大义卷1 - 维基文库.html` through `五行大义卷5 - 维基文库.html`: readable foundational 五行 material; useful for names,体性,阴阳互感,相生,休王,支干配合,空亡,九宫 and symbolic boundaries.
+- `灵棋经 - 维基文库.html` and `灵棋经四库本全览 - 维基文库.html`: readable lot-divination material; especially useful for daily action postures such as待时、守静、戒进、知止、宜速 and狐疑.
+- `宅经 - 维基文库.html` and `宅经四库本 - 维基文库.html`: readable宅法 text and四库提要; useful for二十四路、阴阳相得, with clear warning that the黄帝 attribution is托名.
+- `太清神鉴四库本 - 维基文库.html` and `太清神鉴四库本卷1 - 维基文库.html`: readable相术 material; useful for形神气色、骨肉、三停、声音、相心 and modern boundaries against one-feature determinism.
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 75 generated study files.
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

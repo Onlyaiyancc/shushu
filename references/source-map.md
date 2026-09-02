@@ -243,6 +243,18 @@ New local HTML source files:
 
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 123 generated study files.
 
+### 2026-09-02 Added Taiyi and Xingming Cross-Checks
+
+New or refreshed local HTML source files:
+
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\太乙金镜式经四库本全览 - 维基文库.html`: readable太乙金镜式经 all-in-one copy; useful for太乙 as a三式 system, including岁月日时、节气闰月、太乙天目计神、文昌始击、主客大小将、八门、掩击迫囚关格 and四库提要的强版本边界.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\太乙金镜式经四库本卷01 - 维基文库.html`: readable卷01; useful for cross-checking起算、太岁、太乙、天目、计神 and闰月/节气 material.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\太乙金镜式经 - CTP.html`: CTP entry page for太乙金镜式经; useful as a source locator, but the downloaded page is shorter than the Wikisource full览.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\星命溯源四库本全览 - 维基文库.html`: refreshed readable星命溯源 all-in-one copy; useful for果老/五星 source cautions, 主曜、身宫、二十八宿、十一曜、格局、行限, and harsh-label boundary handling.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\张果星宗 - CTP.html`: readable CTP chapter page; useful for practical星命 cross-checking around得时得地、格局破损、禄马、行限、空亡耗煞 and不可概论.
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 125 generated study files.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

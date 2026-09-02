@@ -112,6 +112,10 @@ Practical stance:
 
 - These systems are calculation-heavy. Ask for an existing chart/pan if calculation tools are unavailable.
 - Explain the logic by宫位、星曜、课体、门星神将, and connect it to the question.
+- 星命/果老: first identify命宫、身宫、主曜/度主、二十八宿、十一曜、宫度, then judge得时、得地、入垣、升殿、生克制化, and only then read格局、禄马、贵印、行限.
+- 太乙: first verify the calendrical setup and plate:岁月日时,节气/闰月,太乙、天目、计神、文昌、始击、主客大小将、八门. Without these, treat太乙 as historical/method context, not a daily oracle.
+- For both星命 and太乙, named auspicious patterns are provisional. Check破格,空亡,耗煞,冲刑,门闭,掩迫囚格, and whether the current限/时 supports action.
+- Translate harsh classical labels into neutral structure: pressure, depletion, broken support, unstable movement, blocked resource, or timing mismatch.
 
 ## 奇门遁甲
 

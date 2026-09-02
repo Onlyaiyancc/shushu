@@ -118,11 +118,19 @@ These are synthesis rules for daily use, not direct quotations.
 | 得奇得门有犯 | a good opening has hidden interference | proceed only with checks, fallback, and reduced scope |
 | 门迫入墓五不遇 | pressure, burial, or time conflict blocks action | stay quiet, repair conditions, or delay rather than forcing |
 | 急则从神缓从门 | urgency and non-urgency use different logic | urgent matters get one bounded safety move; non-urgent matters wait for better conditions |
+| 太乙无盘 | taiyi requires calendrical calculation and a complete plate | do not improvise; use another method or give practical strategy |
+| 太乙主客未分 | initiative and response are unclear | clarify whether the user should act first, wait, or answer someone else |
+| 太乙掩迫囚格 | pressure, blockage, containment, or opposition is structural | avoid forcing; choose defensive posture, indirect route, or delay |
+| 吉门受冲闭 | a nominally good opening is obstructed | try only a small reversible move |
 | 紫微时辰闰月不准 | the chart foundation may be wrong | do not interpret; fix birth data first |
 | 紫微十二宫分域 | different palaces answer different life areas | answer the asked domain, not a whole-life verdict |
 | 星名不等于吉凶 | star meaning depends on palace, dignity, support, and timing | rank tendency only after checking庙旺陷 and三方四正 |
 | 限运不扶 | current timing does not support the natal promise | reduce expectation; prepare rather than force |
 | 凶星有制/落空 | a bad sign is constrained, weakened, or empty | do not scare the user; give manageable caution |
+| 星命格名破局 | a beautiful pattern is damaged by actual relations | downgrade the result; explain the broken link |
+| 星命得时得地 | the useful star has season, place, and support | the tendency is usable, but still check timing and domain |
+| 禄马空耗冲刑 | movement or resource signs are weakened | do not chase; reduce travel, cost, or ambition |
+| 古籍恶断 | old text uses harsh fatal or moral labels | translate structure only; never repeat the label as a verdict |
 
 ## Proportionality
 

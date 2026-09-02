@@ -13,6 +13,9 @@ Reliability labels follow `reading-protocol.md`: Strong, Medium, Weak, or Versio
 | R-META-003 | all | Strong | The reading is allowed to disappoint the asker. | If the signs or practical context oppose the asker's desired answer, say no and give the smaller usable alternative. | Do not moralize minor choices; correct only the action-frame. | Derived from R-META-001 and R-META-002 plus the user's explicit skill requirement. |
 | R-META-004 | all | Strong | Daily readings should stay low-stakes and action-sized. | Give timing, wording, preparation, delay, simplification, or fallback. | Do not inflate an errand, text message, meeting, or small purchase into fate language. | Skill purpose plus `daily-use.md`; supported by R-META-001. |
 | R-META-005 | research | Strong | Separate source claim, traditional inference, and modern advice. | In research answers, cite checked local files; in readings, distinguish method inference from direct textual support. | Do not claim "the books say" unless a passage or distilled rule was checked. | `reading-protocol.md`; corpus workflow requirement. |
+| R-META-006 | all | Strong | 人事未尽，焉尽天理。 | When concrete responsibility, preparation, repair, or communication remains, advise doing that before divination. | Do not use 命理 or占断 to avoid ordinary action. | `古今图书集成艺术典第629卷命术部 - 维基文库.html.simp.txt`, lines 316-335. |
+| R-META-007 | all | Medium | A sign's meaning shifts with era, role, and social context. | Compare old cases by structure and domain, then translate to the user's actual situation. | Do not copy ancient noble, warfare, rank, gender, or punishment examples literally into daily advice. | `古今图书集成艺术典第629卷命术部 - 维基文库.html.simp.txt`, lines 336-341. |
+| R-META-008 | all | Strong | 至急则无阴阳。 | For urgent safety, health, legal, travel, or time-sensitive matters, give the practical next action first and any traditional reading second. | Do not stall an urgent decision by requesting elaborate charts, casts, or auspicious dates. | `古今图书集成艺术典第629卷命术部 - 维基文库.html.simp.txt`, around line 329. |
 
 ## Wuxing / Foundational Symbol Rules
 
@@ -246,6 +249,24 @@ These rules are for traditional相术 reading. They are especially vulnerable to
 | R-ZR-013 | 择日 | Strong | 《星历考原》本身取“简汰诸家、删其鄙倍、括其纲要”的态度。 | 日常择日用少数核心规则，去掉来源不明、重复异名、和事项无关的禁忌。 | 不把通书名目越堆越多当作可靠。 | `御定星历考原四库本全览 - 维基文库.html.simp.txt`, lines 40-42. |
 | R-ZR-014 | 择日 | Medium | 月建、月将、节气和昼夜随时地而变，是择日/六壬的底层输入。 | 精确择日、六壬起课、方位时刻判断必须确认日期、时区/地点、节气界点。 | 不明历算时只给粗略日常建议，不给具体干支时辰吉凶。 | `御定星历考原四库本全览 - 维基文库.html.simp.txt`, lines 111-160 and 190. |
 | R-ZR-015 | 择日 | Medium | 耗、虚、墓、坎、焦等凶名多围绕“耗散、虚空、墓库、陷险、逆时”而来。 | 日常转译为：出财、开仓、远行、修筑、涉水、种植等事项要按对应风险判断。 | 不把这些忌宜扩展到所有小事；发消息、阅读、整理通常不按重忌处理。 | `御定星历考原四库本全览 - 维基文库.html.simp.txt`, lines 1212-1262. |
+
+## Newly Distilled Rules: Bazi Climate, Disease-Medicine, and Fate Boundaries
+
+| Rule ID | Branch | Reliability | Rule | Use | Boundary | Source support |
+|---|---|---:|---|---|---|---|
+| R-BZ-033 | 八字/五行 | Strong | 《穷通宝鉴》把五行放在寒暖燥湿和四时气候中看，不把五行当固定性格标签。 | 解释五行时先问季节、冷热、燥湿、所处角色和能否相济。 | 不用“木就是仁、火就是热情”这类脱离月份和格局的断语。 | `穷通宝鉴 - 维基文库.html.simp.txt`, lines 9-23 and 31-39. |
+| R-BZ-034 | 八字 | Strong | 太过不及皆病，贵在折衷归中道。 | 对过旺、过弱、过热、过寒的格局，分别给抑、扶、泄、通、暖、润等平衡建议。 | 不把“喜神越多越好”或“忌神一见必坏”当规则。 | `穷通宝鉴 - 维基文库.html.simp.txt`, lines 21-23. |
+| R-BZ-035 | 八字/调候 | Strong | 调候先按月令四时定需要；同一日主在春夏秋冬所需不同。 | 先看出生月气候，再判断水火土金木对日主是滋扶、漂流、燥烈、修削、温养还是壅滞。 | 没有出生月令时，不作精确调候用神判断。 | `穷通宝鉴 - 维基文库.html.simp.txt`, lines 31-50 and 83-99. |
+| R-BZ-036 | 八字 | Medium | 用神太多，不宜克制，须泄之为妙。 | 当有用之物变成过量时，建议疏导、输出、使用、转化，而不是直接打掉。 | 泄与克的选择仍要看全局，不可把所有过旺都说成该泄。 | `穷通宝鉴 - 维基文库.html.simp.txt`, around line 97. |
+| R-BZ-037 | 八字 | Strong | 子平以日干为主，月令为用神，岁时为辅佐。 | 八字分析先立日主，再看月令主气与年月时如何扶抑、成败、救应。 | 不用生肖、年柱、单字、单神煞决定吉凶或合婚。 | `神峰通考 - CTP.html.simp.txt`, lines 12-14 and 34-44. |
+| R-BZ-038 | 八字 | Strong | 生肖、年命、八败、桃花杀等单项俗忌不能决定合婚和命运。 | 遇合婚或关系问题，要求完整资料并回到全局、夫子星/配偶星、中和与现实互动。 | 不用单一禁忌吓人、劝分、许合。 | `神峰通考 - CTP.html.simp.txt`, lines 34-44. |
+| R-BZ-039 | 八字 | Medium | 天干为动、地支藏为静；透出盖头者更容易在当下发生作用。 | 区分显性因素和隐伏因素：透干先读即时表现，藏支待冲合刑会或运岁触发。 | 不把藏干当作已经完全显现的现实事件。 | `神峰通考 - CTP.html.simp.txt`, lines 68-76. |
+| R-BZ-040 | 八字 | Strong | 病药法先找原局所害之神，再找能去病之药；药过量也会成病。 | 判断问题时先定位阻碍，再给比例合适的补救、制化、通关或调候。 | 不为追求中和乱补乱克；制杀太过、去掉有用约束都可能破局。 | `神峰通考 - CTP.html.simp.txt`, lines 82-84, 342-348, and 538-540. |
+| R-BZ-041 | 八字 | Strong | 用神要看成败救应、变化纯杂、气候、有情无情、有力无力和生克先后。 | 给八字结论前，说明主结构为什么成、为什么败、哪里可救、力量是否向日主。 | 不因一个格名、一个十神、一个吉神名就下结论。 | `子平真诠评注 - CTP 最新.html.simp.txt`, lines 110-116 and table-of-contents lines 12-38. |
+| R-BZ-042 | 八字 | Strong | 得时不旺、失时不弱；月令重要但不是唯一强弱依据。 | 日主或用神即使失令，也要看年日时是否得禄、长生、旺、库根和支持。 | 不凭月令一个指标断身强身弱。 | `子平真诠评注 - CTP 最新.html.simp.txt`, lines 144-146. |
+| R-BZ-043 | 八字 | Medium | 合有向背、阻隔和自合；喜神可因合失用，忌神也可因合受制。 | 读合时问它面向谁、是否被隔、是否合去有用之物、是否解掉忌神。 | 合不自动代表感情好、合作顺或结果吉。 | `子平真诠评注 - CTP 最新.html.simp.txt`, lines 148-164. |
+| R-BZ-044 | 八字 | Strong | 外格、杂格和罕见格不可牵强附会；常格可用时先用常格。 | 看到奇格名目，先检查官杀财印食伤等普通结构是否已经足以解释。 | 若证据不足，明说“不知道/资料不足”，不要曲为讳饰。 | `子平真诠评注 - CTP 最新.html.simp.txt`, lines 696-724. |
+| R-BZ-045 | 八字/禄命 | Medium | 驿马是有为待用的动气，主变化、移动、触发，不等于旅行或成功。 | 日常可转译为换位置、跑动、沟通、变更安排、事情被激活。 | 不凭驿马名词许出行顺利、升迁发财或关系进展。 | `古今图书集成艺术典第629卷命术部 - 维基文库.html.simp.txt`, lines 161-185. |
 ## Conflict Resolution
 
 1. Use the question's branch first. Do not answer a 六爻 question with 八字 rules unless the user asks to combine methods.

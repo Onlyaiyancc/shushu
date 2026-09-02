@@ -204,6 +204,19 @@ New local HTML source files under `E:\Thing\Fortune\资料库\在线文本\维�
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 107 generated study files.
 
 Note: the Wikisource root page for `卜筮正宗（河潞武子龄校本）` lists卷01 through卷14 as redlinks at download time, so those正文卷 should not be treated as locally learned from Wikisource.
+
+### 2026-09-02 Added Bazi Climate and Fate-Boundary Texts
+
+New local HTML source files:
+
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\穷通宝鉴 - 维基文库.html`: readable调候命理 text; useful for五行寒暖燥湿、四时木火等日主气候判断、太过不及 and用神过多宜泄.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\穷通宝鉴 - CTP.html`: CTP readable counterpart for cross-checking the same调候 material.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\神峰通考 - CTP.html`: readable子平 text; useful for日干为主、月令为用神、生肖/合婚俗忌批判、动静盖头 and病药法.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\子平真诠评注 - CTP 最新.html`: refreshed CTP copy; useful for用神成败救应、得时不旺失时不弱、合而不合、外格不可牵强.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\古今图书集成艺术典第629卷命术部 - 维基文库.html`: readable命术部汇编; useful for驿马释义、禄命批判、反宿命边界 and "人事未尽，焉尽天理".
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 112 generated study files.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

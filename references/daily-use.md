@@ -93,6 +93,17 @@ These are synthesis rules for daily use, not direct quotations.
 | 三传生日 | the matter supports the user | accept help or opportunity, while checking the ending |
 | 神煞只是标签 | named calendar spirits encode timing and direction | translate the name into practical risk; avoid fear from the label itself |
 | 耗虚墓坎焦 | depletion, emptiness, storage/deadlock, danger, scorching/overstrain | avoid spending, risky travel, repairs, or water/fire tasks when directly relevant |
+| 人事未尽 | practical responsibility is still unfinished | do the next concrete step before asking fate to decide |
+| 至急无阴阳 | urgency outranks symbolic calculation | act practically now; read tradition only after the danger or deadline is handled |
+| 太过不及 | excess and deficiency both fail | reduce what is too much, supplement what is missing, and keep the move moderate |
+| 调候失衡 | cold/heat/dryness/dampness blocks function | warm, cool, moisten, dry, rest, slow down, or add structure according to the imbalance |
+| 病药相当 | the remedy must match the actual obstruction | fix the real blocker; do not over-correct everything |
+| 用神太多 | even a helpful factor can become surplus | channel or use the surplus instead of fighting it directly |
+| 盖头透出 | a factor is exposed and active | visible pressure, help, message, or conflict matters now |
+| 支藏未动 | a factor is hidden or latent | wait for a trigger before treating it as an event |
+| 合而有向背 | connection has direction and loyalty | cooperation helps only if it faces the user's real goal |
+| 得时不旺/失时不弱 | timing and strength are not identical | check roots, support, and preparation before judging readiness |
+| 驿马 | movement or activation qi | change location, route, schedule, or communication; do not assume success from motion |
 
 ## Proportionality
 

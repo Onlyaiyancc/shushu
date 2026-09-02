@@ -232,6 +232,17 @@ New local HTML source files:
 
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 119 generated study files.
 
+### 2026-09-02 Added Duanyi and Ziwei Cross-Checks
+
+New local HTML source files:
+
+- `E:\Thing\Fortune\资料库\在线文本\CTP\断易天机 - CTP.html`: readable CTP copy; useful for六爻/断易 fundamentals including卦不妄成、爻不乱发, 世应用神, 用神不上卦, 动爻, 空亡, 冲散, and世应俱动.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\紫微斗数全书全览 - 维基文库 最新.html`: readable紫微斗数全书 all-in-one copy; useful for身命为本、庙旺陷、生克制化、三方四正、辅弼杀忌空劫、限运和太岁分层.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\紫微斗数全书卷二 - 维基文库.html`: readable卷二; useful for安身命、闰月/生时 precision,十二宫顺序, and star-placement formulas by year stem, year branch, month, day, and hour.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\紫微斗数续道藏 - 维基文库.html`: readable续道藏 short text; useful as a supplementary紫微 source map item, not yet used as a strong rule base.
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 123 generated study files.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

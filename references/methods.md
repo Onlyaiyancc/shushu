@@ -58,15 +58,19 @@ Core inputs: birth date/time, calendar type, timezone/place, sex/gender conventi
 
 Common flow:
 
-1. Establish命盘 only if sufficient birth data exists.
-2. Read命宫、身宫、三方四正、主星组合, 四化, 宫位 relationships.
-3. Separate命格 base pattern from大限/流年 triggers.
-4. Interpret by domain: career, money, relationship, family, study, movement.
+1. Verify the birth data before reading: calendar type, leap month handling, birth hour, timezone/place, and whether an existing盘 is reliable.
+2. Establish命宫、身宫 and the twelve palaces: 命、兄弟、夫妻/妻妾、子女、财帛、疾厄、迁移、交友/奴仆、官禄、田宅、福德、父母.
+3. Place and verify主星、辅曜、煞曜、四化, noting which inputs they depend on: year stem, year branch, month, day, or hour.
+4. Read庙旺陷、宫位 domain、三方四正、生克制化、空劫羊陀火铃 and rescue/breaking factors together.
+5. Separate本命 base pattern from大限、小限、太岁 and流年 triggers.
+6. Interpret by domain: career, money, relationship, family, study, movement.
 
 Practical stance:
 
 - If no reliable chart generation is available, do not fabricate a chart. Ask for an existing盘 or data.
 - Keep星曜 explanations tied to the actual宫位 and question.
+- Do not treat a star name as inherently lucky or unlucky. Even紫微、天府、天同、天相 need support; even贪狼、巨门、七杀、破军 may be usable when旺、得地、有制、有救.
+- For everyday low-stakes questions, use紫微 mainly for broad tendency and timing posture. Use卜筮、梅花 or择日 when the user needs a small immediate choice.
 
 ## 相术
 

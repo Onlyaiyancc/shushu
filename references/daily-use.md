@@ -61,6 +61,13 @@ These are synthesis rules for daily use, not direct quotations.
 | 财动 | resources, cost, desire | good for small gains; check spending impulse |
 | 父母动 | documents, messages, protection, burden | read details, save receipts, confirm plans |
 | 兄弟动 | competition, leakage, peers | avoid sharing advantage; expect cost or delay |
+| 用神不上卦 | the target is absent, hidden, or not yet evidenced | do not force a yes; verify, wait, or ask for concrete proof |
+| 动爻定变 | the moving line shows where change is happening | focus advice on the active part, not on pleasant static signs |
+| 吉神空亡 | good support is unavailable or not yet usable | do not rely on promised help; wait for confirmation |
+| 凶煞空亡 | the threat lacks substance or current force | do not overreact; monitor and reduce exposure |
+| 用神旺逢冲 | a strong target can move without breaking | proceed with friction, route change, or backup |
+| 用神陷逢冲 | a weak target is scattered by conflict | pause, protect essentials, and avoid forcing |
+| 世应俱动 | both sides are changing | expect instability; clarify roles before acting |
 | 梅花体受生/比和 | the user's position is supported | proceed simply; keep the action close to the original question |
 | 梅花体克用 | the user can act on the matter | doable, but often slower or requiring effort |
 | 梅花体生用 | the user leaks effort into the matter | reduce cost, avoid over-giving, expect depletion |
@@ -111,6 +118,11 @@ These are synthesis rules for daily use, not direct quotations.
 | 得奇得门有犯 | a good opening has hidden interference | proceed only with checks, fallback, and reduced scope |
 | 门迫入墓五不遇 | pressure, burial, or time conflict blocks action | stay quiet, repair conditions, or delay rather than forcing |
 | 急则从神缓从门 | urgency and non-urgency use different logic | urgent matters get one bounded safety move; non-urgent matters wait for better conditions |
+| 紫微时辰闰月不准 | the chart foundation may be wrong | do not interpret; fix birth data first |
+| 紫微十二宫分域 | different palaces answer different life areas | answer the asked domain, not a whole-life verdict |
+| 星名不等于吉凶 | star meaning depends on palace, dignity, support, and timing | rank tendency only after checking庙旺陷 and三方四正 |
+| 限运不扶 | current timing does not support the natal promise | reduce expectation; prepare rather than force |
+| 凶星有制/落空 | a bad sign is constrained, weakened, or empty | do not scare the user; give manageable caution |
 
 ## Proportionality
 

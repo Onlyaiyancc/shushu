@@ -109,3 +109,21 @@ Practical stance:
 - These systems are calculation-heavy. Ask for an existing chart/pan if calculation tools are unavailable.
 - Explain the logic by宫位、星曜、课体、门星神将, and connect it to the question.
 
+## 奇门遁甲
+
+Core inputs: exact time, location or intended direction if relevant, question, user role as主/客, whether the matter is static or moving, and either an existing奇门盘 or enough data to create one.
+
+Common flow:
+
+1. Confirm时方 and起局 basis:节气、符头、阴阳遁、三元、九宫.
+2. Read the whole plate through九宫、天地人三盘、三奇六仪、八门九星九神、值符值使.
+3. Separate主客 and动静. Static matters emphasize值符、值使、日干、时干 and生克旺衰; moving matters also emphasize direction and external trigger.
+4. Judge whether the selected门、奇、星、神 is旺相得地 or休囚失地.
+5. Check overrides:门迫、入墓、五不遇、伏吟反吟、余宫犯格.
+6. Translate to daily advice: proceed, wait, keep quiet, go indirectly, choose another time, reduce scope, or prepare a fallback.
+
+Practical stance:
+
+- Do not claim precise奇门 judgment when time or direction is vague.
+- A good门 or三奇 is not enough. A bad格 is not enough either. Use the matter, role, force, and rescue conditions to decide.
+- For urgent matters, give the practical safety move first; use奇门 only as secondary strategy.

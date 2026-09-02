@@ -217,6 +217,21 @@ New local HTML source files:
 
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 112 generated study files.
 
+### 2026-09-02 Added Qimen and Physiognomy Cross-Checks
+
+New local HTML source files:
+
+- `E:\Thing\Fortune\资料库\在线文本\CTP\柳庄相法 - CTP.html`: readable相术 text; useful for "不可一美而言善，不可以一恶而言凶", age-stage weighting,神色气肉, and the caution that古相不可机械套今人.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\神相全编 - CTP.html`: readable CTP copy for相术 cross-checking; useful for十观、神气、声音心田、气色 and五官六府五岳 frameworks.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲元机 - CTP.html`: readable奇门起例 and歌诀 material; useful for三奇六仪、八门九星、超接置闰、主客、急缓取用.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门旨归 - CTP.html`: readable清代奇门 synthesis; useful for时方、节气符头、九宫三盘、随事活看、主客动静 and衰旺休困.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\御定奇门遁甲宝鉴 - CTP.html`: readable奇门校注-style text; useful for得奇得门未全吉、俗本讹传、三奇入墓、五不遇、门迫 and急则从神缓从门.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门法窍卷一 - CTP.html`: readable奇门法窍 opening material; useful for later cross-checking超接置闰 and坊本简略问题.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\四库全书总目提要卷109术数相关 - 维基文库.html`: useful for bibliographic cautions on相书、命书、太乙 and择日.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\四库全书总目提要卷111术数相关 - 维基文库.html`: useful for bibliographic cautions on奇门要略、星命 and术数附会.
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 119 generated study files.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

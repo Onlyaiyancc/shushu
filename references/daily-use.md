@@ -104,6 +104,13 @@ These are synthesis rules for daily use, not direct quotations.
 | 合而有向背 | connection has direction and loyalty | cooperation helps only if it faces the user's real goal |
 | 得时不旺/失时不弱 | timing and strength are not identical | check roots, support, and preparation before judging readiness |
 | 驿马 | movement or activation qi | change location, route, schedule, or communication; do not assume success from motion |
+| 相术一美一恶 | one visible feature is only one weight | combine layers; do not praise or condemn from one feature |
+| 相术神色气肉 | vitality, complexion, qi, and flesh are state-sensitive | use recent condition and presentation advice, not whole-life judgment |
+| 奇门时方不准 | the qimen setup is unreliable | do not give precise direction or timing; switch to rough strategy |
+| 奇门主客动静 | the role and action posture decide use | initiating, waiting, responding, hiding, and moving may need different advice |
+| 得奇得门有犯 | a good opening has hidden interference | proceed only with checks, fallback, and reduced scope |
+| 门迫入墓五不遇 | pressure, burial, or time conflict blocks action | stay quiet, repair conditions, or delay rather than forcing |
+| 急则从神缓从门 | urgency and non-urgency use different logic | urgent matters get one bounded safety move; non-urgent matters wait for better conditions |
 
 ## Proportionality
 

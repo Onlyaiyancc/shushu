@@ -75,6 +75,15 @@ These are synthesis rules for daily use, not direct quotations.
 | 合中带伤 | connection mixed with damage | negotiate carefully; avoid emotional over-reading |
 | 冲处有生 | disturbance creates movement and help | accept change if it opens a real path |
 | 冲破无救 | disturbance breaks the useful root | pause, protect essentials, do not gamble |
+| 相术神气明定 | presence is stable and responsive | trust the current state more than one static facial feature |
+| 相术气色杂乱 | short-term condition looks disturbed | rest, improve lighting/presentation, and avoid heavy judgments |
+| 形势直冲 | flow, light, noise, road, or attention strikes too directly | add buffer, shift position, close exposure, or choose a quieter seat |
+| 形止气蓄 | movement has a place to settle | use this spot for focus, rest, conversation, or storage |
+| 水路弯抱/明净 | flow is gathered and legible | good for reception, desk work, customer-facing placement, or recovery |
+| 水路斜飞/直冲 | flow is harsh, rushed, or hard to retain | avoid lingering there; use screening, rerouting, or repair |
+| 择日名目冲突 | calendar rules disagree or multiply | keep the matter small, prioritize direct relevance, and avoid needless taboos |
+| 本命/对冲轻触 | personal clash exists but the matter is ordinary | reduce scope or choose a calmer hour; do not cancel everything |
+| 仪式/工程忌宜 | the source concerns ritual, burial, construction, or farming | do not extend it to texting, shopping, studying, or ordinary errands |
 
 ## Proportionality
 

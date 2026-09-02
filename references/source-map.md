@@ -178,6 +178,20 @@ New local HTML source files under `E:\Thing\Fortune\资料库\在线文本\维�
 - `易象钩解四库本 - 维基文库.html`: 易象 text; useful for象学 support and version disputes around互体、纳甲、飞伏 and京氏 traditions.
 
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 82 generated study files.
+
+### 2026-09-02 Added Physiognomy, Geomancy, and Selection Texts
+
+New local HTML source files under `E:\Thing\Fortune\资料库\在线文本\维基文库`:
+
+- `古今图书集成相术部 - 维基文库.html`: readable相术部汇编; useful for《神相全编》《照胆经》类形神、五官、三停、五岳、气色、骨肉、声行框架, with strong caution against severe literal断语.
+- `月波洞中记 - 维基文库.html` and `人伦大统赋 - 维基文库.html`: short相术 texts; useful as comparative tradition material rather than standalone authority.
+- `青囊四库本 - 维基文库.html`, `青囊经 - 维基文库.html`, `青囊序 - 维基文库.html`: readable青囊类堪舆 texts; useful for阴阳、雌雄、来龙、水口、形气、形止气蓄 and山水分用.
+- `入地眼全书 - 维基文库.html`: readable峦头/理气/阳宅 material; useful for龙穴砂水向, 水法, 形象先于理气, and门路灶.
+- `选择纪要上编 - 维基文库.html`, `选择要略中 - 维基文库.html`, `选择要略下 - 维基文库.html`: readable择日/选择 texts; useful for本原、游年变卦、黄黑道、用时、修营、本命对冲、权衡轻重.
+- `玉匣记 - 维基文库.html`: broad民间通书/俗占 text; useful mainly for source mapping and boundary-setting, not as a strong daily rule base.
+- `钦定协纪辨方书四库本全览2 - 维基文库.html` and `钦定协纪辨方书四库本卷36 - 维基文库.html`: additional协纪辨方书 material for择日 cross-checking.
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 95 generated study files.
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

@@ -84,6 +84,15 @@ These are synthesis rules for daily use, not direct quotations.
 | 择日名目冲突 | calendar rules disagree or multiply | keep the matter small, prioritize direct relevance, and avoid needless taboos |
 | 本命/对冲轻触 | personal clash exists but the matter is ordinary | reduce scope or choose a calmer hour; do not cancel everything |
 | 仪式/工程忌宜 | the source concerns ritual, burial, construction, or farming | do not extend it to texting, shopping, studying, or ordinary errands |
+| 以数测以理断 | symbolic numbers point, but reasoning decides | explain the structure; do not bless a preferred answer from a lucky-looking sign |
+| 日为人辰为事 | self and matter are separate positions | ask what the user controls and what belongs to the situation |
+| 初中末三传 | beginning, transition, and outcome differ | do not answer only from the first impression; state process and ending separately |
+| 见机 | the opportunity or risk is fleeting | act once, quickly, and narrowly; avoid over-expanding |
+| 别责/遥克 | connection is weak or indirect | conserve effort, wait for direct signal, or choose a simpler route |
+| 日生三传 | the user feeds the matter | expect expense, effort, or emotional depletion; reduce commitment |
+| 三传生日 | the matter supports the user | accept help or opportunity, while checking the ending |
+| 神煞只是标签 | named calendar spirits encode timing and direction | translate the name into practical risk; avoid fear from the label itself |
+| 耗虚墓坎焦 | depletion, emptiness, storage/deadlock, danger, scorching/overstrain | avoid spending, risky travel, repairs, or water/fire tasks when directly relevant |
 
 ## Proportionality
 

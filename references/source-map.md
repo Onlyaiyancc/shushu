@@ -192,6 +192,18 @@ New local HTML source files under `E:\Thing\Fortune\资料库\在线文本\维�
 - `钦定协纪辨方书四库本全览2 - 维基文库.html` and `钦定协纪辨方书四库本卷36 - 维基文库.html`: additional协纪辨方书 material for择日 cross-checking.
 
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 95 generated study files.
+
+### 2026-09-02 Added Buzheng, Liuren Guide, and Calendar-Origin Texts
+
+New local HTML source files under `E:\Thing\Fortune\资料库\在线文本\维基文库`:
+
+- `卜筮正宗河潞武子龄校本全书 - 维基文库.html` and `卜筮正宗河潞武子龄校本卷前 - 维基文库.html`: readable title/volume-front material; useful for the principle that卜筮 is "以数测而实以理断" and for cautions that transmitted explanations may contain讹误.
+- `六壬指南 - 维基文库.html`, `六壬指南1 - 维基文库.html`, `六壬指南2 - 维基文库.html`: readable六壬指南 material; useful for日辰、月将加时、四课三传、发用、见机、别责、三传始中末 and力量流向.
+- `御定星历考原四库本 - 维基文库.html`, `御定星历考原四库本全览 - 维基文库.html`, and卷1 through卷6: readable calendar and selection material; useful for象数考原、年神方位、月事吉凶神、日时总类、月用事宜忌, and for the rule that神煞 names should return to阴阳五行 rather than become fear labels.
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 107 generated study files.
+
+Note: the Wikisource root page for `卜筮正宗（河潞武子龄校本）` lists卷01 through卷14 as redlinks at download time, so those正文卷 should not be treated as locally learned from Wikisource.
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

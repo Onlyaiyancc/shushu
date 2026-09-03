@@ -282,6 +282,18 @@ New or refreshed local HTML source files:
 
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 134 generated study files.
 
+### 2026-09-03 Added Physiognomy, Yangzhai, and Xingming Cross-Checks
+
+New local HTML source files:
+
+- `E:\Thing\Fortune\资料库\在线文本\CTP\神相全编卷首 - CTP.html`: readable CTP copy of the opening material of《神相全编》; useful for十观、骨格五行三停五岳、心田、气色、声气 and anti-single-feature rules.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\鬼谷子神奇相法全书 - CTP.html`: readable相术 source; useful for五行形相、阴阳精气神、相逐心生、形气互重 and德器 boundary rules.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\入地眼阳宅卷十 - CTP.html`: readable阳宅门路灶 chapter; useful for八宅,东四/西四,三吉四凶,门路灶,静宅/动宅/变宅/化宅 and multi-building method boundaries.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\阳宅十书 - CTP.html`: CTP阳宅十书 page; useful for source mapping and broad structure around水法、宅内形、门路、天井、灶位, but the simplified text is noisy and should not support precise方位 rules without cross-check.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\星学大成四库本全览 - 维基文库.html`: readable四库本《星学大成》全览; useful for星命/五星 system boundaries,十二宫管库星、七强五弱、得时得地、强弱先后、留顺伏逆、吉凶星用不用 and四库提要 cautions.
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 139 generated study files.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

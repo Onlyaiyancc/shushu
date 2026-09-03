@@ -138,6 +138,9 @@ These are synthesis rules for daily use, not direct quotations.
 | 合婚俗煞 | relationship judgment is based on crude year-sign taboos | refuse the shortcut; request full context or give practical relationship advice |
 | 相术一美一恶 | one visible feature is only one weight | combine layers; do not praise or condemn from one feature |
 | 相术神色气肉 | vitality, complexion, qi, and flesh are state-sensitive | use recent condition and presentation advice, not whole-life judgment |
+| 相术层次不足 | only one visible feature or one photo is available | give a rough state reading; do not judge the whole person |
+| 相逐心生 | conduct, composure, and intent modify appearance | recommend behavior, rest, presentation, and steadier interaction |
+| 形色声气相配 | form, color, voice, and vitality support each other | trust repeated convergence more than one attractive feature |
 | 奇门时方不准 | the qimen setup is unreliable | do not give precise direction or timing; switch to rough strategy |
 | 奇门主客动静 | the role and action posture decide use | initiating, waiting, responding, hiding, and moving may need different advice |
 | 得奇得门有犯 | a good opening has hidden interference | proceed only with checks, fallback, and reduced scope |
@@ -155,7 +158,14 @@ These are synthesis rules for daily use, not direct quotations.
 | 星命格名破局 | a beautiful pattern is damaged by actual relations | downgrade the result; explain the broken link |
 | 星命得时得地 | the useful star has season, place, and support | the tendency is usable, but still check timing and domain |
 | 禄马空耗冲刑 | movement or resource signs are weakened | do not chase; reduce travel, cost, or ambition |
+| 星命名吉用凶 | a lucky star name harms the useful factor | reject the pleasant label and protect the real priority |
+| 星命名凶入用 | a scary star name serves the useful factor | use disciplined pressure; do not frighten the user |
+| 星命无盘 | chart, degree, or timing basis is missing | explain method only; do not invent a fate reading |
 | 古籍恶断 | old text uses harsh fatal or moral labels | translate structure only; never repeat the label as a verdict |
+| 阳宅无图 | no orientation, floor plan, or visible layout is available | give only basic light, air, drainage, clutter, safety, and buffer advice |
+| 门路灶未明 | entrance, traffic path, and stove/bed/desk relation are unknown | ask for layout before judging direction |
+| 静动变化宅不分 | the dwelling type or room sequence is unclear | avoid multi-building formulas; use modern movement flow instead |
+| 阳宅文本噪声 | source wording is corrupted or unverified | keep only broad structure and require cross-check before precise rules |
 
 ## Proportionality
 

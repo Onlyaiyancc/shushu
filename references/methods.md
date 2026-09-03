@@ -103,6 +103,8 @@ Practical stance:
 
 - If interpreting an image, be careful with identity-sensitive or protected traits. Focus on visible features and traditional symbolism.
 - Give advice as cultivation, presentation, timing, and behavior adjustment.
+- Weight the reading by available layers:骨格/比例,五行形相,三停五岳,五官六府,神气气色,声气举止, and described conduct. Missing layers mean a rough reading.
+- Treat心田、德器、神气 as anti-fatalism checks. Convert adverse signs into controllable advice before making a fixed verdict.
 
 ## 堪舆 / 风水 / 择日
 
@@ -114,11 +116,14 @@ Common flow:
 2. For homes, start with external form, entrance, main room, bedroom, kitchen, bathroom, light/air/noise/water.
 3. For择日, identify the action and avoid direct冲克 to key people or object.
 4. Prefer practical environmental corrections before ritual or symbolic corrections.
+5. For阳宅八宅-style questions, collect orientation, entrance, road/path, stove, bed/desk, water/drainage, and whether the space is a single room, apartment, or multi-building layout.
+6. Distinguish static layout from moving/sequence-based宅法 before using door-path-stove or multi-dong formulas.
 
 Practical stance:
 
 - If orientation or floor plan is missing, give a rough environmental reading and ask for a compass bearing or sketch.
 - Do not recommend dangerous structural, electrical, fire, or health-related changes.
+- If the source text is OCR-noisy or a verse/graf formula is not cross-checked, keep only the structural meaning: flow, obstruction, gathering, leakage, pressure, safety, and usability.
 
 ## 星命 / 三式
 
@@ -131,6 +136,8 @@ Practical stance:
 - 星命/果老: first identify命宫、身宫、主曜/度主、二十八宿、十一曜、宫度, then judge得时、得地、入垣、升殿、生克制化, and only then read格局、禄马、贵印、行限.
 - 太乙: first verify the calendrical setup and plate:岁月日时,节气/闰月,太乙、天目、计神、文昌、始击、主客大小将、八门. Without these, treat太乙 as historical/method context, not a daily oracle.
 - For both星命 and太乙, named auspicious patterns are provisional. Check破格,空亡,耗煞,冲刑,门闭,掩迫囚格, and whether the current限/时 supports action.
+- For星学大成/五星, check the method basis before judgment: twelve palaces and their管库星,七强五弱,得时得地,庙旺陷弱,强弱先后,留顺伏逆, and whether吉凶星 actually serve the asked domain.
+- Treat星曜 names as labels for functions, not verdicts. 吉星 may harm the useful factor; 凶曜 may become usable when入格,受制, or serving the target.
 - Translate harsh classical labels into neutral structure: pressure, depletion, broken support, unstable movement, blocked resource, or timing mismatch.
 
 ## 奇门遁甲

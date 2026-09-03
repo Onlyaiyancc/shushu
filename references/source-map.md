@@ -294,6 +294,18 @@ New local HTML source files:
 
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 139 generated study files.
 
+### 2026-09-03 Added Buzheng, Yi Boundary, Heluo, and Cuiguan Cross-Checks
+
+New local HTML source files:
+
+- `E:\Thing\Fortune\资料库\在线文本\CTP\卜筮正宗 - CTP.html`: readable CTP copy of《卜筮正宗》; useful for六爻纲领, including用神、原神、忌神、仇神、飞伏、进退、反伏、旬空、月破, 世应, 日辰 and sincerity/anti-fraud boundaries.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\朱子语类易二卜筮 - CTP.html`: readable CTP copy of朱子语类易二卜筮 passages; useful for the boundary that易占 follows尽人谋 and断疑, plus卦爻/义理/占法 layer separation.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\河洛精蕴 - 维基文库.html`: readable Wikisource copy of《河洛精蕴》; useful for河洛象数,先天后天, and warnings against牵合附会.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\易精蕴大义四库本全览 - 维基文库.html`: readable四库本《易精蕴大义》全览; useful for易义理 cross-checks, especially象辞不可一例包办 and时位进退.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\催官篇四库本全览 - 维基文库.html`: readable四库本《催官篇》全览; useful for峦头/理气合参,龙穴砂水,形势方位 and modern fengshui boundary rules.
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 144 generated study files.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

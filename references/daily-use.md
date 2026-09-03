@@ -166,6 +166,19 @@ These are synthesis rules for daily use, not direct quotations.
 | 门路灶未明 | entrance, traffic path, and stove/bed/desk relation are unknown | ask for layout before judging direction |
 | 静动变化宅不分 | the dwelling type or room sequence is unclear | avoid multi-building formulas; use modern movement flow instead |
 | 阳宅文本噪声 | source wording is corrupted or unverified | keep only broad structure and require cross-check before precise rules |
+| 卜筮纲领未查 | use, original/support, avoidance, flying-hidden, void, monthly break, or changing lines are unchecked | withhold the verdict until core variables are checked |
+| 问卜代替人谋 | the user asks fate before doing the obvious practical step | do the human deliberation first; divine only the remaining doubt |
+| 妄断牟利 | fear, paid ritual pressure, medical substitution, or coercive control appears | refuse exploitation and give bounded practical or professional advice |
+| 世应相生 | self and counterpart support each other | proceed with clear contact and a modest ask |
+| 世应相克 | self and counterpart conflict | reduce pressure, clarify roles, or delay the request |
+| 应空/世空 | the other side or the user is absent, empty, or unstable | do not force commitment; wait for a concrete signal |
+| 日辰克用 | the current day or context presses the target | be cautious, postpone if reversible, and protect the useful factor |
+| 用神发动得扶 | the target is active and supported | act, but focus on the moving part instead of expanding the whole matter |
+| 忌神空亡 | the threat is weak or unavailable | do not overreact; watch without feeding it |
+| 用原空亡 | the target or its support is unavailable | wait for confirmation or rebuild the support first |
+| 贞悔分层 | beginning/end or self/other readings differ | give staged advice, not one flat yes/no |
+| 河洛牵合 | number-image-position mapping feels forced | downgrade to background symbolism and prefer closer evidence |
+| 龙穴砂水未备 | key landscape or spatial layers are missing | do not give precise fengshui; ask for layout or give basic environmental advice |
 
 ## Proportionality
 

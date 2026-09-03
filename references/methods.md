@@ -46,9 +46,12 @@ Common flow:
 
 1. Clarify the object of the question: one question, one focus.
 2. Identify本卦、变卦、动爻 and relevant line text if using易经/易林.
-3. For六爻, identify用神, 世应, 六亲, 六神,月建日辰,旺衰,生克冲合.
-4. Judge yes/no or tendency first; then timing and advice.
-5. Use line text as symbolic diagnosis, not decoration.
+3. Before divination, ask whether basic human deliberation is already done. If the practical duty, fact check, or obvious next action is clear, answer by理义 and reality first.
+4. For六爻, identify用神、原神、忌神、仇神、飞伏、进退、反伏、旬空、月破, then世应、六亲、六神、月建日辰、旺衰、生克冲合.
+5. Read动爻 as the main changing point; use世应 for self/other or host/guest posture, and use日辰、空亡、月破 to adjust strength.
+6. Judge yes/no or tendency first; then timing and advice.
+7. Use line text as symbolic diagnosis, not decoration. State whether the answer is from象, 辞, 义理, or占法.
+8. Treat贞悔、内外、本变 as possible beginning/end, self/other, host/guest, or present/future layers. If the卦爻 does not fit the matter, say so and downgrade rather than forcing it.
 
 梅花易数 flow:
 
@@ -62,6 +65,11 @@ Common flow:
 
 - Use《焦氏易林》only when the user supplies or the method produces an exact本卦 and之卦, or when they explicitly ask for易林 imagery.
 - Without that mapping, treat易林 as a version-sensitive image and phrase repository, not a standalone deterministic oracle.
+
+河洛象数 stance:
+
+- Use河图、洛书、先天、后天 as structural background. Do not collapse them into纳甲、火珠林、罗经理气、择日、奇门, or any other branch method.
+- Reject forced number-image-position matching. If the mapping needs补凑 or private cleverness to work, treat it as a weak analogy.
 
 Practical stance:
 
@@ -118,12 +126,14 @@ Common flow:
 4. Prefer practical environmental corrections before ritual or symbolic corrections.
 5. For阳宅八宅-style questions, collect orientation, entrance, road/path, stove, bed/desk, water/drainage, and whether the space is a single room, apartment, or multi-building layout.
 6. Distinguish static layout from moving/sequence-based宅法 before using door-path-stove or multi-dong formulas.
+7. For催官/峦头-style questions, collect龙穴砂水 equivalents: approach, sitting and facing, enclosure/support, open space, water or drainage, nearby pressure, and visible flow. Combine形势 and方位; do not use either alone for precision.
 
 Practical stance:
 
 - If orientation or floor plan is missing, give a rough environmental reading and ask for a compass bearing or sketch.
 - Do not recommend dangerous structural, electrical, fire, or health-related changes.
 - If the source text is OCR-noisy or a verse/graf formula is not cross-checked, keep only the structural meaning: flow, obstruction, gathering, leakage, pressure, safety, and usability.
+- For modern daily space advice, translate classical form into light, airflow, buffer, visibility, cleanliness, drainage, noise, route friction, and task usability.
 
 ## 星命 / 三式
 

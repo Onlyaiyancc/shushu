@@ -55,6 +55,10 @@ Common flow:
 6. Judge yes/no or tendency first; then timing and advice.
 7. Use line text as symbolic diagnosis, not decoration. State whether the answer is from象, 辞, 义理, or占法.
 8. Treat贞悔、内外、本变 as possible beginning/end, self/other, host/guest, or present/future layers. If the卦爻 does not fit the matter, say so and downgrade rather than forcing it.
+9. Set the六亲 map before assigning the用神: 父母 as support/document/elder, 子孙 as output/relief, 官鬼 as pressure/rule/illness-risk, 妻财 as resource/object/desire, 兄弟 as peer/competition/expense.
+10. Validate纳甲、世应、六神、飞伏 and伏神 before a verdict. CTP modern annotations can help procedural checking, but distinguish them from the classical source layer.
+11. For several moving lines, trace moving-line interactions before static lines: 原神被克、忌神受制、贪生忘克、贪合忘克 can reverse the apparent tendency.
+12. 六神 and神煞 describe color and circumstances; 用神, original/supporting factors, moving lines, and五行生克 decide the answer.
 
 梅花易数 flow:
 
@@ -68,6 +72,13 @@ Common flow:
 
 - Use《焦氏易林》only when the user supplies or the method produces an exact本卦 and之卦, or when they explicitly ask for易林 imagery.
 - Without that mapping, treat易林 as a version-sensitive image and phrase repository, not a standalone deterministic oracle.
+
+灵棋经 flow:
+
+- Use《灵棋经》only with an exact twelve-piece cast, named课/卦, or an explicit request for灵棋 symbolism.
+- Treat its famous-author attributions as version claims, not authority. The usable structure is the 125象 and the三才/十二棋 casting frame.
+- The question must be one focused doubt; use the first cast. Do not repeat the throw until the result pleases the user.
+- For daily matters, read灵棋 as a weak-to-medium symbolic oracle: timing posture, restraint, warning, preparation, or one bounded action.
 
 河洛象数 stance:
 
@@ -131,6 +142,8 @@ Common flow:
 6. Distinguish static layout from moving/sequence-based宅法 before using door-path-stove or multi-dong formulas.
 7. For催官/峦头-style questions, collect龙穴砂水 equivalents: approach, sitting and facing, enclosure/support, open space, water or drainage, nearby pressure, and visible flow. Combine形势 and方位; do not use either alone for precision.
 8. For《协纪辨方书》style择日, match the date to the action first. Then review year, month, day, and hour; distinguish major avoidances from small煞; use生克制化 and whether the time helps the person, place, and action.
+9. Treat形势 as体 and理气 as用. If visible form, orientation, route, or flow is unknown, precise理气 should be withheld.
+10. Reject name-only forms. For modern daily space, translate峦头 into route, buffer, exposure, drainage/leakage, containment, visibility, and usability.
 
 Practical stance:
 

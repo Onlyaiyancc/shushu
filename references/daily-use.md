@@ -191,6 +191,14 @@ These are synthesis rules for daily use, not direct quotations.
 | 奇门无局 | time, location/direction, or full plate is absent | no precise Qimen reading; ask for setup or give strategy |
 | 吉门带格 | an auspicious Qimen door or wonder carries obstruction | only attempt a small reversible move |
 | 玉匣杂占 | folk almanac or bodily omen is the source | use as weak folklore, never as the deciding evidence |
+| 六亲未定 | the role of the target is unclear | identify whether the target is support, output, pressure, resource, or peer before reading |
+| 动爻互战 | several moving lines affect each other | trace the chain before judging; do not average |
+| 原神被克 | support for the target is damaged | rebuild support before acting |
+| 忌神受制 | the blocker is controlled | proceed with caution, but do not abandon |
+| 神煞压用神 | a label contradicts the useful factor | follow the useful factor and treat the label as decoration |
+| 重复起卦 | user recasts until liked result | use the first cast or restart only with a clarified question |
+| 空间名目化 | fengshui claim rests on a decorative name | ask for visible layout and flow |
+| 直冲泄散 | approach or flow is hard, straight, leaking, or exposed | add buffer, slow the flow, reduce exposure |
 
 ## Proportionality
 

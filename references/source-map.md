@@ -320,6 +320,21 @@ New or refreshed local HTML source files:
 
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index still reports 144 generated study files because related sources were already present or refreshed under covered paths.
 
+### 2026-09-03 Added Bushi Quanshu, Lingqi, and Dili Debate Cross-Checks
+
+New local HTML source files:
+
+- `E:\Thing\Fortune\资料库\在线文本\CTP\卜筮全书 - CTP.html`: CTP entry/source-locator page for《卜筮全书》; useful for bibliography and nearby chapter navigation.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\卜筮全书卷一启蒙节要 - CTP.html`: readable CTP chapter; useful for六亲 definition,动静/老少阴阳,世应,六神,飞伏 and basic排盘 procedures.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\卜筮全书卷二 - CTP.html`: readable CTP chapter; useful for纳甲,伏神,卦爻总判 and everyday symbolic postures such as节、艮、震、坤、困、大壮.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\卜筮全书卷四阐奥歌章上 - CTP.html`: readable CTP chapter; useful for动爻之间的生克制化, 原神/忌神, 贪生忘克, 贪合忘克, and the boundary that神煞/六神 cannot override用神.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\灵棋经四库本全览 - 维基文库.html`: readable四库本 full-view《灵棋经》; useful for attribution cautions, twelve-piece casting, one-question/one-throw rule, and 125象.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\灵棋经 - 维基文库.html`: readable Wikisource counterpart for《灵棋经》; useful for cross-checking the same casting frame and symbolic entries.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\地理辨惑 - CTP.html`: readable地理辨惑 text; useful for形势为体、理气为用, anti-fake-geomancer arguments, and modern fengshui boundary rules.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\本地姜地理峦头诀 - CTP.html`: readable峦头 text; useful for水口、真龙、明堂、砂水, warning against fixed form names, and three practical shape risks.
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 150 generated study files.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

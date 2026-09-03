@@ -72,6 +72,18 @@ These are synthesis rules for daily use, not direct quotations.
 | 梅花体克用 | the user can act on the matter | doable, but often slower or requiring effort |
 | 梅花体生用 | the user leaks effort into the matter | reduce cost, avoid over-giving, expect depletion |
 | 梅花用克体 | the matter presses or harms the user | avoid, delay, or change approach |
+| 梅花先后天混用 | the casting basis is inconsistent | recast or downgrade the reading; do not mix methods |
+| 体用理胜 | body-use points one way but stronger logic or omen points another | state the conflict and follow the stronger evidence |
+| 体党多 | the user's position has many allies | proceed more directly, while keeping the move proportionate |
+| 用党多 | the matter or other side is stronger | negotiate, wait, reduce the demand, or change angle |
+| 用吉变凶 | the beginning is favorable but the ending deteriorates | take quick benefit; avoid long commitments |
+| 用凶变吉 | the beginning is rough but later improves | start small; persist only if rescue or support appears |
+| 求谋体生用 | effort leaks into the plan | reduce labor, do not chase, and test with one small step |
+| 求财体生用 | money or energy leaks outward | avoid impulse spending and protect the budget |
+| 出行坎兑重 | loss, argument, water, or speech friction is highlighted in travel | guard valuables, route, timing, and wording |
+| 外应轻重 | real force outweighs color, shape, or small symbolic hints | do not overread a lucky-looking color or object |
+| 十应未合体用 | omen has not been checked against body-use | do not use it as the verdict |
+| 易林无之卦 | no exact original/resulting hexagram method is available | use imagery only, not a decisive answer |
 | 待时 | favorable only after time/conditions ripen | prepare, do not rush the result |
 | 守静/戒进/知止 | obstruction or unsafe advance | pause, preserve position, avoid forcing |
 | 宜速 | delay worsens the matter | act cleanly now, keep the scope narrow |

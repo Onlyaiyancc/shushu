@@ -50,6 +50,19 @@ Common flow:
 4. Judge yes/no or tendency first; then timing and advice.
 5. Use line text as symbolic diagnosis, not decoration.
 
+梅花易数 flow:
+
+1. Identify the casting source before interpretation: 先天数起, 后天卦/时起, object, sound, word count, direction, or explicit external sign.
+2. Do not mix casting systems. 后天起卦定爻 uses time; 梅花体用 should not be padded with unrelated择日煞名.
+3. Establish体、用、互、变. Read用 as immediate response,互 as middle process,变 as outcome, always returning to体用 strength and生克比和.
+4. For daily domains, translate body-use by the question type:求财 stresses gain/loss,出行 stresses safety and depletion,行人 stresses return speed,失物 stresses recoverability.
+5. 十应 and外应 are supporting evidence. Compare them with体卦 and the original卦; do not retrofit omens after hearing the answer the user wants.
+
+易林 flow:
+
+- Use《焦氏易林》only when the user supplies or the method produces an exact本卦 and之卦, or when they explicitly ask for易林 imagery.
+- Without that mapping, treat易林 as a version-sensitive image and phrase repository, not a standalone deterministic oracle.
+
 Practical stance:
 
 - If the user gives only a question and no hexagram, ask how they want to cast, or provide a non-divinatory strategic reading.

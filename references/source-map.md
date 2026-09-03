@@ -269,6 +269,19 @@ New local HTML source files:
 
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 131 generated study files.
 
+### 2026-09-03 Added Meihua and Yilin Daily Cross-Checks
+
+New or refreshed local HTML source files:
+
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\梅花易数卷二 - 维基文库.html`: readable梅花易数卷二; useful for体用总纲、先后天起卦边界、家宅婚姻求谋求财交易出行行人谒见失物、三要十应 and体用不可脱离外应.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\梅花易数卷三 - 维基文库.html`: readable梅花易数卷三; useful for体用互变的即时中间结局、体旺体衰、生克应期、外应真生真克轻重、动静迟速 and十应合参.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\梅花易数卷二 - CTP.html`: CTP counterpart for卷二; useful for cross-checking体用、生克、先后天取法 and everyday domains.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\梅花易数卷三 - CTP.html`: CTP counterpart for卷三; useful for cross-checking互变、克应、外应 and十应.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\易林四库本全览 - 维基文库.html`: readable四库本《易林》全览; useful as a 4096-entry象辞 source, with strong bibliographic cautions around attribution, later additions, and lost/contested推用法.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\焦氏易林 - CTP.html`: CTP source locator/readable entry for焦氏易林; useful for cross-checking availability, not yet treated as a full strong rule base.
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 134 generated study files.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

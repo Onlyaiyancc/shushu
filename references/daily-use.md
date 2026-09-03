@@ -179,6 +179,18 @@ These are synthesis rules for daily use, not direct quotations.
 | 贞悔分层 | beginning/end or self/other readings differ | give staged advice, not one flat yes/no |
 | 河洛牵合 | number-image-position mapping feels forced | downgrade to background symbolism and prefer closer evidence |
 | 龙穴砂水未备 | key landscape or spatial layers are missing | do not give precise fengshui; ask for layout or give basic environmental advice |
+| 黄历恶名 | a scary day-name or folk taboo is the only evidence | ask for the actual action and date basis; do not scare the user |
+| 今日宜忌过粗 | the request relies only on a generic calendar column | match the date to the action, person, direction, and time before judging |
+| 小事套大法 | a tiny errand is being treated like construction, burial, or marriage selection | scale down to timing, preparation, route, and reversibility |
+| 用神有情有力 | the useful factor is directed toward the real target and has strength | proceed with confidence, but keep the action matched to the domain |
+| 相神受伤 | the helper that makes the pattern work is damaged | downgrade the pretty reading and protect or replace the helper |
+| 调候为急 | climate or environment blocks function before structure can work | fix heat/cold/dry/wet, rest, pacing, or workspace conditions first |
+| 六壬无课传 | no four lessons, three transmissions, month general, or nobleman setup is available | do not give a Great Liuren verdict; use another method or practical advice |
+| 德合落空 | a helpful Liuren sign is void, weak, or unsupported | treat help as partial or delayed |
+| 鬼墓破刑有制 | a bad Liuren sign is controlled or rescued | caution without fear; expect difficulty then relief |
+| 奇门无局 | time, location/direction, or full plate is absent | no precise Qimen reading; ask for setup or give strategy |
+| 吉门带格 | an auspicious Qimen door or wonder carries obstruction | only attempt a small reversible move |
+| 玉匣杂占 | folk almanac or bodily omen is the source | use as weak folklore, never as the deciding evidence |
 
 ## Proportionality
 

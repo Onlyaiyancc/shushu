@@ -306,6 +306,20 @@ New local HTML source files:
 
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 144 generated study files.
 
+### 2026-09-03 Added Xieji, Liuren, Qimen, Zhenquan, Diaohou, and Yuxia Boundaries
+
+New or refreshed local HTML source files:
+
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\钦定协纪辨方书四库本全览1 - 维基文库.html`: readable first full-view part of《钦定协纪辨方书》; useful for choosing-day source criticism,删俗论,神煞本原,合婚俗忌 and anti-fear rules.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\钦定协纪辨方书四库本全览2 - 维基文库.html`: readable second full-view part of《钦定协纪辨方书》; useful for year/month/day/hour hierarchy,造修/葬埋/开山立向 distinctions,制化,用时 and daily择日 boundaries.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\六壬大全四库本全览 - 维基文库.html`: readable四库本《六壬大全》全览; useful for六壬三式 status,四课三传,发用,贵人月将,德合鬼墓破刑 and version cautions.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\遁甲演义四库本全览 - 维基文库.html`: readable四库本《遁甲演义》全览; useful for奇门九宫,三奇六仪,八门九星,值符值使,阴阳遁,超接置闰 and格局边界.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\穷通宝鉴 - 维基文库.html`: readable《穷通宝鉴》copy; useful for五行气候,太过不及,十干逐月调候 and practical climate-balancing rules.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\子平真诠评注 - CTP.html`: readable CTP copy of《子平真诠评注》; useful for月令用神,成败救应,有情有力,相神,顺逆取用 and rejecting星辰替代格局.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\许真君玉匣记 - 维基文库.html`: readable正统道藏-linked《许真君玉匣记》copy; useful mostly as a version-sensitive source for ritual-day folklore, not as strong daily rules.
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index still reports 144 generated study files because related sources were already present or refreshed under covered paths.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

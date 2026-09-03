@@ -29,6 +29,8 @@ Common flow:
 6. Choose useful/unfavorable tendencies by balance, climate, structure, and whether good or bad signs actually help the用神.
 7. Read domains: temperament, career, wealth, relationships, health tendencies, timing.
 8. Use大运/流年 only when calculated and provided; distinguish natal base, big luck, annual trigger, and whether there is rescue.
+9. For《子平真诠》style格局, take月令用神 as the starting point, then test扶抑、病药、调候、专旺、通关,成败救应,有情无情,有力无力, and相神.
+10. For《穷通宝鉴》style调候, check the seasonal climate before praise or blame: warmth, moisture, dryness, cold, excess, deficiency, and whether the named用神 actually appears and is usable.
 
 Practical stance:
 
@@ -37,6 +39,7 @@ Practical stance:
 - Explain terms such as用神, 忌神, 财官印食 in plain language.
 - Do not treat旺 as automatically good or衰 as automatically bad. Excess often needs restraint or泄化; weakness often needs support or waiting.
 - In relationship or marriage questions, reject生肖/year-only taboos and crude合婚煞 names. Ask for full data or translate to practical compatibility and conduct.
+- Do not let attractive格名 override direction and strength. A pattern works only when the useful factor faces the real target and has force; a damaged相神 can collapse a beautiful格局.
 
 ## 卜筮 / 六爻 / 易占
 
@@ -127,6 +130,7 @@ Common flow:
 5. For阳宅八宅-style questions, collect orientation, entrance, road/path, stove, bed/desk, water/drainage, and whether the space is a single room, apartment, or multi-building layout.
 6. Distinguish static layout from moving/sequence-based宅法 before using door-path-stove or multi-dong formulas.
 7. For催官/峦头-style questions, collect龙穴砂水 equivalents: approach, sitting and facing, enclosure/support, open space, water or drainage, nearby pressure, and visible flow. Combine形势 and方位; do not use either alone for precision.
+8. For《协纪辨方书》style择日, match the date to the action first. Then review year, month, day, and hour; distinguish major avoidances from small煞; use生克制化 and whether the time helps the person, place, and action.
 
 Practical stance:
 
@@ -134,6 +138,7 @@ Practical stance:
 - Do not recommend dangerous structural, electrical, fire, or health-related changes.
 - If the source text is OCR-noisy or a verse/graf formula is not cross-checked, keep only the structural meaning: flow, obstruction, gathering, leakage, pressure, safety, and usability.
 - For modern daily space advice, translate classical form into light, airflow, buffer, visibility, cleanliness, drainage, noise, route friction, and task usability.
+- Treat通书、玉匣记 and folk almanac labels as low-strength unless confirmed by a stronger择日 framework. Generic宜忌 is never enough for a precise verdict.
 
 ## 星命 / 三式
 
@@ -149,6 +154,8 @@ Practical stance:
 - For星学大成/五星, check the method basis before judgment: twelve palaces and their管库星,七强五弱,得时得地,庙旺陷弱,强弱先后,留顺伏逆, and whether吉凶星 actually serve the asked domain.
 - Treat星曜 names as labels for functions, not verdicts. 吉星 may harm the useful factor; 凶曜 may become usable when入格,受制, or serving the target.
 - Translate harsh classical labels into neutral structure: pressure, depletion, broken support, unstable movement, blocked resource, or timing mismatch.
+- 六壬: require月将、贵人顺逆、天地盘、四课、发用、三传 and the relevant课体. Read德、合、鬼、墓、破、刑 through旺衰、空陷、救神、进退 and whether the sign reaches末传.
+- If the user has no六壬盘, do not improvise from a single神将 or日辰. Use another method or give practical strategy.
 
 ## 奇门遁甲
 
@@ -162,9 +169,11 @@ Common flow:
 4. Judge whether the selected门、奇、星、神 is旺相得地 or休囚失地.
 5. Check overrides:门迫、入墓、五不遇、伏吟反吟、余宫犯格.
 6. Translate to daily advice: proceed, wait, keep quiet, go indirectly, choose another time, reduce scope, or prepare a fallback.
+7. For《遁甲演义》style work, confirm阴阳遁、局数、值符、值使、三奇六仪、八门九星 before using a direction or hour.
 
 Practical stance:
 
 - Do not claim precise奇门 judgment when time or direction is vague.
 - A good门 or三奇 is not enough. A bad格 is not enough either. Use the matter, role, force, and rescue conditions to decide.
 - For urgent matters, give the practical safety move first; use奇门 only as secondary strategy.
+- When吉门 meets格、墓、刑、五不遇 or庚格, reduce to a small reversible attempt or delay.

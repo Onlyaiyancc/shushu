@@ -111,6 +111,19 @@ These are synthesis rules for daily use, not direct quotations.
 | 合而有向背 | connection has direction and loyalty | cooperation helps only if it faces the user's real goal |
 | 得时不旺/失时不弱 | timing and strength are not identical | check roots, support, and preparation before judging readiness |
 | 驿马 | movement or activation qi | change location, route, schedule, or communication; do not assume success from motion |
+| 日主未定 | the acting subject is unclear | do not read the chart; identify whose situation is being judged |
+| 月令提纲 | the season or main context sets the frame | weigh timing/context before isolated signs |
+| 生旺太过 | strength has become excess | reduce, channel, or restrain instead of adding more |
+| 死绝不及 | a factor is too weak to act | support, rest, prepare, or wait before expansion |
+| 四柱偏枯 | the situation lacks circulation or balance | add the missing channel; avoid extreme choices |
+| 相气胜旺 | momentum is rising rather than peaking | act steadily; avoid burning everything at the peak |
+| 官星混杂 | authority or commitment is unclear | clarify rules, roles, and approval before advancing |
+| 犯太岁有救 | conflict exists but has a remedy | do the remedy first; do not panic from the label |
+| 岁运战冲 | timing and environment are fighting | choose the side that supports the real用神, not the user’s wish |
+| 合化真假 | apparent agreement may not transform | verify whether conditions support the promise |
+| 吉神伤用 | a pleasant sign damages the useful factor | reject the flattering reading and protect the real priority |
+| 凶煞助用 | a scary sign supports the useful factor | use disciplined pressure without fear language |
+| 合婚俗煞 | relationship judgment is based on crude year-sign taboos | refuse the shortcut; request full context or give practical relationship advice |
 | 相术一美一恶 | one visible feature is only one weight | combine layers; do not praise or condemn from one feature |
 | 相术神色气肉 | vitality, complexion, qi, and flesh are state-sensitive | use recent condition and presentation advice, not whole-life judgment |
 | 奇门时方不准 | the qimen setup is unreliable | do not give precise direction or timing; switch to rough strategy |

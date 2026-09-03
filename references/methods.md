@@ -24,16 +24,19 @@ Common flow:
 1. Establish four pillars and day master.
 2. Judge seasonal strength first: month branch usually dominates the climate of the chart.
 3. Inspect roots,透干, combinations, clashes, punishments, harms, storage, and transformations.
-4. Identify structure: 官杀、财、印、食伤、比劫, or special格局 only when clearly supported.
-5. Choose useful/unfavorable tendencies by balance, climate, and structure.
-6. Read domains: temperament, career, wealth, relationships, health tendencies, timing.
-7. Use大运/流年 only when calculated and provided.
+4. Check whether the four pillars circulate or become偏枯: 生化有情,太过,不及,战冲, or blocked transformation.
+5. Identify structure: 官杀、财、印、食伤、比劫, with财、官、印、食 as the primary格局 frame; use special格局 only when clearly supported.
+6. Choose useful/unfavorable tendencies by balance, climate, structure, and whether good or bad signs actually help the用神.
+7. Read domains: temperament, career, wealth, relationships, health tendencies, timing.
+8. Use大运/流年 only when calculated and provided; distinguish natal base, big luck, annual trigger, and whether there is rescue.
 
 Practical stance:
 
 - Give a primary reading and a secondary caveat when chart strength or格局 is ambiguous.
 - Do not overuse神煞. Treat them as modifiers unless the source task specifically asks for神煞.
 - Explain terms such as用神, 忌神, 财官印食 in plain language.
+- Do not treat旺 as automatically good or衰 as automatically bad. Excess often needs restraint or泄化; weakness often needs support or waiting.
+- In relationship or marriage questions, reject生肖/year-only taboos and crude合婚煞 names. Ask for full data or translate to practical compatibility and conduct.
 
 ## 卜筮 / 六爻 / 易占
 

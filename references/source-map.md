@@ -255,6 +255,20 @@ New or refreshed local HTML source files:
 
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 125 generated study files.
 
+### 2026-09-03 Added Ziping Strength, Pattern, and Timing Cross-Checks
+
+New local HTML source files:
+
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\渊海子平 - 维基文库.html`: readable渊海子平 text; useful for日为主、月令提纲、太岁、大运、子平举要歌 and warnings against rigid奇格.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\渊海子平 - CTP.html`: CTP counterpart for渊海子平; useful for cross-checking the same headings and wording.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\滴天髓阐微 - CTP.html`: readable滴天髓阐微 text; useful for三元、四柱流通、偏枯、中和、理气进退、月令 and the principle that奇异不足为凭.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\三命通会卷二 - 维基文库.html`: readable三命通会卷二; useful for四时节气、五行旺相休囚死、寄生十二宫、年月日时 and岁运 framework.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\三命通会卷五 - 维基文库.html`: readable三命通会卷五; useful for财官印食格局名义, 正官格, 纯杂, 刑冲破害 and破格 conditions.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\命理探源卷三强弱 - CTP.html`: readable命理探源 chapter; useful for强弱, 得令, 神煞真假, 驿马, 空亡, and the rule that吉神凶煞 must serve the actual用神.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\命理探源卷五化合刑冲 - CTP.html`: readable命理探源 chapter; useful for合化真假, 岁运战冲, 犯太岁有救, 六亲活法 and rejection of year-only合婚俗忌.
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 131 generated study files.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

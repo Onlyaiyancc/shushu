@@ -474,6 +474,24 @@ New local HTML source files:
 
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 217 generated study files.
 
+### 2026-09-08 Completed Local CTP Qimen Miji Daquan Set
+
+New local HTML source files:
+
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全目录 - CTP.html`: CTP table of contents; confirms the local target set as序、卷一 through卷三十, plus《诸葛武侯行兵遁甲金函玉镜》卷一 and卷六.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷二 - CTP.html`: readable CTP chapter; useful for十干加甲值符、伏吟、飞宫、太白入荧、飞鸟跌穴、青龙转光 and related格名.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷十三 - CTP.html`: readable CTP chapter; mostly病占、孕产 and high-stakes body material. Use for method boundaries, not medical advice.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷十六 - CTP.html`: readable CTP chapter; useful for天三门、地四户、地私门,太阳过宫/月将加时 requirements, and route/access translation.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷十九 - CTP.html`: readable CTP chapter; mostly斗柄、十二辰、风云气候 and兵占/weather imagery, useful only as weak symbolic background pending extraction.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷二十二 - CTP.html`: readable CTP chapter; useful for八门总歌、值符值使冲击、五不遇、伏吟返吟、八门吉凶诗诀 and daily eight-door reinforcement.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷二十六 - CTP.html`: readable CTP chapter; useful for黄赤道/岁差 caution,风动强弱,主客法 and行者/居者/起者/应者/动者/静者 role mapping.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷二十七 - CTP.html`: readable CTP chapter; mostly五音风动、云气、兵占 and气象应候; use as weak environmental-symbol source only.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷二十八 - CTP.html`: readable CTP chapter; mostly六丁神符、神将、咒法 and ritual material. Do not use for modern practical recommendations.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\诸葛武侯行兵遁甲金函玉镜卷一 - CTP.html`: readable CTP chapter; useful for金函玉镜八门/九星/五不遇 summaries, but military and omen details require daily-use downgrade.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\诸葛武侯行兵遁甲金函玉镜卷六 - CTP.html`: readable CTP chapter; useful for金锁玉环遁甲出行要诀 and number/route cautions; treat exact遇物克应 as weak folklore.
+
+The CTP《奇门遁甲秘笈大全》local group now covers序、卷一 through卷三十 and the two listed《金函玉镜》卷. Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版`; as of this batch the simplified index reports 228 generated study files.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

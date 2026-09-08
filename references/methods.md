@@ -260,3 +260,8 @@ Practical stance:
 - For十方星将生克 material, first map干、神、将、方 to the current roles, then judge生克 direction and旺相休囚. This is useful for “who helps whom” in small negotiations, errands, requests, and household matters.
 - Treat天门、地户、太阴、玉女、游门、三胜 and五不击 passages as route and exposure metaphors unless a complete traditional ritual/military context is explicitly being studied. Daily advice should become: choose clearer passage, reduce exposure, keep a fallback, or do not attack a protected side.
 - Treat《奇门遁甲秘笈大全》卷十八 star-hour克应 as weak symbolic color only. Translate exact omens into broad categories such as documents, noise, obstruction, weather, wealth, illness, dispute, or movement; never literalize deaths, animals, clothing, distance, or exact incidents.
+- Treat五不遇时 as a hard timing downgrade because the time stem克 the day stem. Even when a good door or wonder appears, advise delay, reduced scope, preparation, or reversible action.
+- Read伏吟 as closure, repetition, review, and guarding; read返吟 as reversal, bounce-back, conflict, and motion. Neither overrides a complete plate, but both should stop an overly eager answer.
+- Always check门宫关系. 门克宫为迫, 宫克门为制, 门生宫为和, 宫生门为义; a pressured good door is not a clean go signal.
+- For晴雨, illness, pregnancy, birth, violent, ritual, military, or statecraft passages, preserve the textual doctrine only as cultural structure. Modern advice must defer to forecast, medicine, safety, law, and practical evidence.
+- For wind/cloud/atmospheric omen chapters, keep only weak background symbols: environmental pressure, visibility, turbulence, blockage, or public mood. Do not literalize national disaster, war, or exact omen details into personal readings.

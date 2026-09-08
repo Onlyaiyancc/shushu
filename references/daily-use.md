@@ -314,6 +314,16 @@ These are synthesis rules for daily use, not direct quotations.
 | 开阖半开 | the situation is open, half-open, or closed | act, test lightly, or wait according to the opening rather than desire |
 | 值使不得令 | the executing channel or person lacks force | even a good-looking door may not last; shrink the move |
 | 克应弱证 | vivid omen verses are secondary symbols | use as color only after main plate logic agrees |
+| 五不遇时 | time stem克 day stem | avoid major action; prepare, verify, or take only reversible steps |
+| 伏吟守己 | signs return to their own places | hold position, review, collect resources, and do not force motion |
+| 返吟反复 | signs oppose or reverse | expect bounce-back, conflict, route change, or repeated communication |
+| 门迫不就 | a useful door is pressured by its palace | the good name is not enough; shrink or delay the action |
+| 和义可用 | door and palace support each other | proceed more cleanly if other checks also support it |
+| 格名复核 | an auspicious or ominous Qimen pattern is named | translate it into structure and check who receives the effect |
+| 晴雨问实况 | weather is the question | check real forecast first; use Qimen only for conservative preparation |
+| 病产问医 | health, illness, pregnancy, or birth is involved | do not divine safety; give cultural reading only and advise care |
+| 天门地户 | a route or access path is being chosen | prefer clear passage, lower friction, and a fallback route |
+| 风云弱象 | wind, cloud, or atmospheric omen material appears | use only as mood/context, not as a literal forecast |
 | 官爵失印 | title, paperwork, or helper looks good but is void or broken | repair credentials and channels before expecting promotion or approval |
 | 斩关有救 | a stuck passage can be opened by a real support | change route decisively but stay within lawful, practical bounds |
 | 斩关不断 | passage is named as open but actually blocked | do not force travel, departure, or negotiation |

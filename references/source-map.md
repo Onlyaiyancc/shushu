@@ -380,6 +380,21 @@ New local HTML source files:
 
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 169 generated study files.
 
+### 2026-09-08 Added Meihua, Bushi Zhengzong, Huangjin Ce, and Taiyi Locator
+
+New local HTML source files:
+
+- `E:\Thing\Fortune\资料库\在线文本\CTP\梅花易数序 - CTP.html`: readable CTP page; useful as a source locator and tradition narrative for梅花易数.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\梅花易数卷一 - CTP.html`: readable CTP chapter; useful for周易卦数,五行生克, external-trigger examples, “不动不占”, “推数又须明理”, and迟速 by动静.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\梅花易数卷二 - CTP.html`: readable CTP chapter/table of contents; useful for体用生克,三要灵应,十应 and domain-specific梅花 reading routes.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\梅花易数卷三 - CTP.html`: readable CTP chapter; useful for体用互变,动静取体用,生体克体,互变迟速, and practical避凶趋吉.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\卜筮正宗 - CTP.html`: readable CTP copy; useful for卜筮正宗序,十八论目录,用神/原神/忌神/仇神,世应,飞伏,旬空月破,神煞边界 and诚正反妄断.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\卜筮正宗忌神用神 - CTP.html`: readable CTP chapter; useful for忌神、原神、用神不上卦,贪生忘克 and six-line application examples.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\黄金策 - CTP.html`: readable CTP copy; useful for日辰月建,身位,世应,动变,空亡,合绊,暗动,中和,太过不及 and用神救应.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\太乙金镜式经目录线索 - CTP.html`: readable CTP catalog page; useful only as a太乙版本/书目 locator noting王希明 attribution and later附益.
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 174 generated study files.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

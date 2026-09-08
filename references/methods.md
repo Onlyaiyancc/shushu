@@ -63,10 +63,12 @@ Common flow:
 梅花易数 flow:
 
 1. Identify the casting source before interpretation: 先天数起, 后天卦/时起, object, sound, word count, direction, or explicit external sign.
-2. Do not mix casting systems. 后天起卦定爻 uses time; 梅花体用 should not be padded with unrelated择日煞名.
-3. Establish体、用、互、变. Read用 as immediate response,互 as middle process,变 as outcome, always returning to体用 strength and生克比和.
-4. For daily domains, translate body-use by the question type:求财 stresses gain/loss,出行 stresses safety and depletion,行人 stresses return speed,失物 stresses recoverability.
-5. 十应 and外应 are supporting evidence. Compare them with体卦 and the original卦; do not retrofit omens after hearing the answer the user wants.
+2. Use “不动不占，不因事不占” as the anti-fabrication rule: no real trigger or stated number means no梅花 reading.
+3. Do not mix casting systems. 后天起卦定爻 uses time; 梅花体用 should not be padded with unrelated择日煞名.
+4. Establish体、用、互、变. Read用 as immediate response,互 as middle process,变 as outcome, always returning to体用 strength and生克比和.
+5. 推数还要推理: if multiple象 fit, choose the one that fits the time, place, object use, and ordinary facts.
+6. For daily domains, translate body-use by the question type:求财 stresses gain/loss,出行 stresses safety and depletion,行人 stresses return speed,失物 stresses recoverability.
+7. 十应 and外应 are supporting evidence. Compare them with体卦 and the original卦; do not retrofit omens after hearing the answer the user wants.
 
 易林 flow:
 
@@ -186,6 +188,7 @@ Practical stance:
 - Explain the logic by宫位、星曜、课体、门星神将, and connect it to the question.
 - 星命/果老: first identify命宫、身宫、主曜/度主、二十八宿、十一曜、宫度, then judge得时、得地、入垣、升殿、生克制化, and only then read格局、禄马、贵印、行限.
 - 太乙: first verify the calendrical setup and plate:岁月日时,节气/闰月,太乙、天目、计神、文昌、始击、主客大小将、八门. Without these, treat太乙 as historical/method context, not a daily oracle.
+- If the only Taiyi evidence is bibliographic, such as a catalog note for《太乙金镜式经》, use it only for source mapping and version caution.
 - For both星命 and太乙, named auspicious patterns are provisional. Check破格,空亡,耗煞,冲刑,门闭,掩迫囚格, and whether the current限/时 supports action.
 - For星学大成/五星, check the method basis before judgment: twelve palaces and their管库星,七强五弱,得时得地,庙旺陷弱,强弱先后,留顺伏逆, and whether吉凶星 actually serve the asked domain.
 - For星平会海, treat current CTP entry as a version/bibliographic locator; OCR from增补星平会海 is too noisy for strong rule extraction unless cross-checked.

@@ -228,6 +228,16 @@ These are synthesis rules for daily use, not direct quotations.
 | 星命贵格太顺 | a named noble pattern looks attractive | check body/life palace, limits, and damaging stars |
 | 岁差历度不明 | old star-degree method is being used today | keep the answer structural unless the chart is reliable |
 | 外形抢结论 | attractive or forceful appearance drives the answer | return to behavior, spirit, voice, and consistency |
+| 梅花无触发 | no real event, number, sound, word, time, direction, or object starts the cast | ask for a casting basis or do not cast |
+| 推数不推理 | the symbol fits several answers | choose the one that fits time, place, use, and question context |
+| 梅花克体无救 | the matter presses the body and no support appears | avoid or delay; change the approach before acting |
+| 六爻纲领缺项 | useful, original, avoidant, void, break, flying/hidden, or moving relation is unchecked | withhold a firm verdict |
+| 日月助忌 | day/month supports the blocker rather than the target | do not proceed just because timing label sounds good |
+| 用神太过 | the target is excessive, scattered, or not single-pointed | reduce, focus, or channel surplus before action |
+| 动变回头克 | the active path turns back to damage the target | expect reversal; keep actions reversible |
+| 合绊动爻 | a moving factor is bound by combination | wait, loosen the constraint, or treat progress as slow |
+| 静爻暗动 | a quiet factor is stirred by day conflict | watch for hidden activation or sudden news |
+| 太乙仅目录 | only bibliographic Taiyi evidence is available | cite as source map only, not a divination rule |
 
 ## Proportionality
 

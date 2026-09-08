@@ -365,6 +365,21 @@ New local HTML source files:
 
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 166 generated study files.
 
+### 2026-09-08 Added Shenxiang, Yuanhai, Yangzhai, Guolao, and Xingxue Pages
+
+New local HTML source files:
+
+- `E:\Thing\Fortune\资料库\在线文本\CTP\神相全编 - CTP.html`: readable CTP copy; useful for相术十观,骨格/五行/三停/五岳/五官六府/神气/声音/心田合参,气色 and anti-flattery rules.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\阳宅十书 - CTP.html`: OCR-noisy CTP page; useful only as a conservative pointer for阳宅 water route,门庭,天井 and drainage-method topics until a clearer scan is checked.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\渊海子平 - CTP.html`: readable CTP copy; useful for月令提纲,日干为主,财官格局,用神不可伤,财多身弱,岁运 and中和.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\张果星宗 - CTP.html`: readable CTP copy; useful for果老/五星命度,命主,禄主,身命,三合对照,刃杀耗破,垣庙升殿 and限运.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\张果星宗十三宫 - CTP.html`: partly garbled CTP page; useful mostly for目录 and十三宫/三辰通载 line clues, not for precise rules without cross-checking.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\星学大成 - CTP.html`: readable CTP entry; useful for四库提要-style source criticism,岁差/历度 boundary, and星学大成 book structure.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\星学大成卷一至卷二 - CTP.html`: readable but long CTP chapter; useful for五星/果老算法,星曜总论,交会,入宫,躔度,照宫 and宫位 rules.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\鬼谷子神奇相法全书 - CTP.html`: readable CTP copy; useful for五形,精气神,三停八卦,行年气色,心田,内外真假 and观人不可只看外形.
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 169 generated study files.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

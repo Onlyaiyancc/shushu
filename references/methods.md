@@ -142,6 +142,8 @@ Practical stance:
 - Treat心田、德器、神气 as anti-fatalism checks. Convert adverse signs into controllable advice before making a fixed verdict.
 - When trust or character is asked, require observable behavior; “相外乃得其真.”
 - Treat complexion as short-term and contamination-prone.
+- If a source emphasizes “不可顺时趋奉” or “有相无心”, actively resist answers that merely flatter the user's preferred image.
+- Use五形 as a balance/style model, not as a worth judgment.
 - For later and modern相法 such as《公笃相法》, account for changed gender roles, occupations, era, and region. Do not import old moral labels into modern people.
 - Distinguish lasting structure from short-term condition: bone/form is slower, complexion and expression are temporary, voice and behavior are supporting layers.
 
@@ -161,9 +163,10 @@ Common flow:
 8. For《协纪辨方书》style择日, match the date to the action first. Then review year, month, day, and hour; distinguish major avoidances from small煞; use生克制化 and whether the time helps the person, place, and action.
 9. Treat形势 as体 and理气 as用. If visible form, orientation, route, or flow is unknown, precise理气 should be withheld.
 10. Reject name-only forms. For modern daily space, translate峦头 into route, buffer, exposure, drainage/leakage, containment, visibility, and usability.
-11. Separate山龙 from水龙. In cities and buildings, roads, corridors, elevators, open voids, and moving traffic are often treated as flow; still walls, backing, towers, and high pressure act more like form/support.
-12. For阳宅, check地、门、衢、峤、隅空 and六事. Active harms at doors, beds, stoves, wells/drains, toilets, roads, and bridges outweigh a pleasant static sector.
-13. Avoid drastic structural advice. A main entrance should remain orderly and aligned; prefer route changes, screens, desk/bed shifts, room-use changes, cleanliness, drainage, and lighting.
+11. For OCR-noisy《阳宅十书》water-method passages, keep only the broad requirement to inspect door, courtyard/open space, water route, drainage direction, and whether flow gathers or leaks. Exact山向放水 rules require a clearer source.
+12. Separate山龙 from水龙. In cities and buildings, roads, corridors, elevators, open voids, and moving traffic are often treated as flow; still walls, backing, towers, and high pressure act more like form/support.
+13. For阳宅, check地、门、衢、峤、隅空 and六事. Active harms at doors, beds, stoves, wells/drains, toilets, roads, and bridges outweigh a pleasant static sector.
+14. Avoid drastic structural advice. A main entrance should remain orderly and aligned; prefer route changes, screens, desk/bed shifts, room-use changes, cleanliness, drainage, and lighting.
 
 Practical stance:
 
@@ -186,6 +189,8 @@ Practical stance:
 - For both星命 and太乙, named auspicious patterns are provisional. Check破格,空亡,耗煞,冲刑,门闭,掩迫囚格, and whether the current限/时 supports action.
 - For星学大成/五星, check the method basis before judgment: twelve palaces and their管库星,七强五弱,得时得地,庙旺陷弱,强弱先后,留顺伏逆, and whether吉凶星 actually serve the asked domain.
 - For星平会海, treat current CTP entry as a version/bibliographic locator; OCR from增补星平会海 is too noisy for strong rule extraction unless cross-checked.
+- For张果星宗, judge named patterns only after命度、命主、禄主、身命、三合对照、刃杀耗破 and限运 have been checked.
+- For星学大成, disclose the岁差/历度 problem before making any old-degree claim about modern charts.
 - Treat星曜 names as labels for functions, not verdicts. 吉星 may harm the useful factor; 凶曜 may become usable when入格,受制, or serving the target.
 - Translate harsh classical labels into neutral structure: pressure, depletion, broken support, unstable movement, blocked resource, or timing mismatch.
 - 六壬: require月将、贵人顺逆、天地盘、四课、发用、三传 and the relevant课体. Read德、合、鬼、墓、破、刑 through旺衰、空陷、救神、进退 and whether the sign reaches末传.

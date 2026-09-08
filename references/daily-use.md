@@ -219,6 +219,15 @@ These are synthesis rules for daily use, not direct quotations.
 | 气色被污染 | lighting, filter, makeup, sleep, or illness affects complexion | avoid long-term claims; read short-term condition only |
 | 单项反例 | one feature has traditional counterexamples | require converging evidence before judging |
 | 游艺录只见目录 | only the table of contents is available | use it as a source map, not a rule base |
+| 用户求奉承 | the user wants the reading to validate their self-image | correct the frame and follow the evidence |
+| 心田缺证 | character or trust is asked without behavior evidence | withhold moral judgment and ask for conduct |
+| 五形贴标签 | a body/face type is treated as destiny | translate it into style and balance, not worth |
+| 财官单点 | wealth or office stars appear without strength/support | check日主、月令、用神 and格局 before judging |
+| 偏枯失衡 | one element or tendency is excessive or missing | recommend balancing the condition before action |
+| 阳宅OCR乱 | the fengshui source line is corrupted | use it as a locator; do not give exact direction rules |
+| 星命贵格太顺 | a named noble pattern looks attractive | check body/life palace, limits, and damaging stars |
+| 岁差历度不明 | old star-degree method is being used today | keep the answer structural unless the chart is reliable |
+| 外形抢结论 | attractive or forceful appearance drives the answer | return to behavior, spirit, voice, and consistency |
 
 ## Proportionality
 

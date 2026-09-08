@@ -199,6 +199,16 @@ These are synthesis rules for daily use, not direct quotations.
 | 重复起卦 | user recasts until liked result | use the first cast or restart only with a clarified question |
 | 空间名目化 | fengshui claim rests on a decorative name | ask for visible layout and flow |
 | 直冲泄散 | approach or flow is hard, straight, leaking, or exposed | add buffer, slow the flow, reduce exposure |
+| 金口诀无四位 | a Jinkoujue question lacks earth division, month general, noble spirit, or human stem | do not make a Jinkoujue verdict; ask for the missing setup or use ordinary strategy |
+| 合局未全 | a promising combination lacks one required part | wait for the missing concrete signal; do not count it as already done |
+| 形气偏废 | form looks good but flow cannot settle, or numbers look good with bad layout | follow visible form and usable flow before technical labels |
+| 山水混断 | mountain-form and water/road-flow logic are being mixed | separate still support from moving flow before judging |
+| 正门乱改 | someone wants to move or skew a main door only to chase a formula | keep the main opening orderly; adjust paths and usage first |
+| 六事动凶 | door, bed, stove, well, toilet, bridge, or road creates active harm | fix the active use-point before praising a static good sector |
+| 求全美地 | the user wants a perfect house, seat, date, or omen | rank tradeoffs and choose the least harmful workable option |
+| 相术单点 | one facial mark, feature, or photo is being used as proof | downgrade to a rough state reading and ask for more layers |
+| 相色浮泛 | an auspicious color or appearance has no root or stability | treat it as temporary appearance, not durable fortune |
+| 卦辞背象 | line text or phrase sounds good but the image/action does not fit | follow the hexagram structure and the actual question |
 
 ## Proportionality
 

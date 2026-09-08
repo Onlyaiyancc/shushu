@@ -335,6 +335,21 @@ New local HTML source files:
 
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 150 generated study files.
 
+### 2026-09-08 Added Jinkoujue, Xuankong Dili, and Gongdu Xiangfa Cross-Checks
+
+New local HTML source files:
+
+- `E:\Thing\Fortune\资料库\在线文本\CTP\六壬神课金口诀古本卷上 - CTP.html`: readable CTP copy; useful for金口诀四位, 地分/月将/贵神/人元, 主客内外, 发用, 五动, 空亡, 三合/六合/三奇 and旺相休囚.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\地理辨正 - CTP.html`: readable玄空地理 source; useful for阴阳雌雄, 山水分用, 形止气蓄, and anti-mechanical criticism of三合双山, fixed卦名, and dead pattern formulas.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\天元五歌 - CTP.html`: readable地理/阳宅 source; useful for山龙、水龙, 平洋水法, 阳居择地, 三门八卦, route/water flow, and modern city-space translation.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\人子须知 - CTP.html`: readable堪舆 source; useful for龙穴砂水, 生气止聚, 形势/理气不可偏废, 好地无全美, 择期 and warnings against妄筑凿/强求.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\公笃相法上篇卷一 - CTP.html`: readable modern-era相术 text; useful for相法流派差异, changing social roles,内外虚实,形质精神声音气色 and品级取舍.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\公笃相法上篇卷二 - CTP.html`: readable modern-era相术 text; useful for麻衣石室赋批注, 骨格/气色合论, 零星小部不可定论, 真伪轻重 and气色有根/无根.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\宅法举隅 - CTP.html`: readable阳宅 text; useful for地、门、衢、峤、隅空, 层间, 三元九星, 门路气口, 明堂, 床灶井厕 and六事动用.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\正易心法 - CTP.html`: readable易学 text attributed to麻衣道人 with陈抟注; useful for卦画落处, 辞外见意, 八卦泛象, 反对变复 and易占象义边界.
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 158 generated study files.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

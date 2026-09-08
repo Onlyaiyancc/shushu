@@ -85,6 +85,13 @@ Common flow:
 - Use河图、洛书、先天、后天 as structural background. Do not collapse them into纳甲、火珠林、罗经理气、择日、奇门, or any other branch method.
 - Reject forced number-image-position matching. If the mapping needs补凑 or private cleverness to work, treat it as a weak analogy.
 
+金口诀 stance:
+
+- Require the four positions: 地分、月将、贵神、人元, plus the day/hour setup used to derive them.
+- Read four-position生克,旺相休囚,主客,内外, and发用 before using神煞.
+- A combination that lacks one member is not yet complete; watch for the missing branch/time/signal as应期.
+- Keep金口诀 separate from大六壬. Shared terms do not mean the same plate structure.
+
 Practical stance:
 
 - If the user gives only a question and no hexagram, ask how they want to cast, or provide a non-divinatory strategic reading.
@@ -127,6 +134,8 @@ Practical stance:
 - Give advice as cultivation, presentation, timing, and behavior adjustment.
 - Weight the reading by available layers:骨格/比例,五行形相,三停五岳,五官六府,神气气色,声气举止, and described conduct. Missing layers mean a rough reading.
 - Treat心田、德器、神气 as anti-fatalism checks. Convert adverse signs into controllable advice before making a fixed verdict.
+- For later and modern相法 such as《公笃相法》, account for changed gender roles, occupations, era, and region. Do not import old moral labels into modern people.
+- Distinguish lasting structure from short-term condition: bone/form is slower, complexion and expression are temporary, voice and behavior are supporting layers.
 
 ## 堪舆 / 风水 / 择日
 
@@ -144,6 +153,9 @@ Common flow:
 8. For《协纪辨方书》style择日, match the date to the action first. Then review year, month, day, and hour; distinguish major avoidances from small煞; use生克制化 and whether the time helps the person, place, and action.
 9. Treat形势 as体 and理气 as用. If visible form, orientation, route, or flow is unknown, precise理气 should be withheld.
 10. Reject name-only forms. For modern daily space, translate峦头 into route, buffer, exposure, drainage/leakage, containment, visibility, and usability.
+11. Separate山龙 from水龙. In cities and buildings, roads, corridors, elevators, open voids, and moving traffic are often treated as flow; still walls, backing, towers, and high pressure act more like form/support.
+12. For阳宅, check地、门、衢、峤、隅空 and六事. Active harms at doors, beds, stoves, wells/drains, toilets, roads, and bridges outweigh a pleasant static sector.
+13. Avoid drastic structural advice. A main entrance should remain orderly and aligned; prefer route changes, screens, desk/bed shifts, room-use changes, cleanliness, drainage, and lighting.
 
 Practical stance:
 

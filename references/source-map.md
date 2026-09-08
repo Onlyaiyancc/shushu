@@ -441,6 +441,17 @@ New local HTML source files:
 
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of the follow-up downloads of `奇门遁甲秘笈大全卷六 - CTP.html`, `六壬大全卷五 - CTP.html`, and `六壬大全卷十一毕法赋上 - CTP.html`, the simplified index reports 206 generated study files.
 
+### 2026-09-08 Added Qimen Travel/Route Pages and Liuren Bifa Lower Extraction
+
+New local HTML source files:
+
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷二十三 - CTP.html`: readable CTP chapter; useful for十方星将生克,干神将方 role mapping,旺相休囚, and掌中金要诀起局 reminders.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷二十四 - CTP.html`: readable CTP chapter; mostly出行、太阴、天门地户、伏匿藏行 and军事/隐遁 material; useful only as a route/exposure/retreat boundary for daily translation.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷二十五 - CTP.html`: readable CTP chapter; mostly游门、三胜宫、五不击、五阴五阳时、飞斗 and玉女术 material; useful for主客动静 and route-risk boundaries, not as modern conduct advice.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\六壬大全卷十二毕法赋下 - CTP.html`: existing readable chapter now extracted more deeply; useful for魁度天门、罡塞鬼户、费有馀得不足、三传全空、传墓入墓、三六合/合中犯杀、夹克、内战、坐墓 and丁马动静.
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 209 generated study files.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

@@ -291,6 +291,18 @@ These are synthesis rules for daily use, not direct quotations.
 | 空玄失脱 | voidness plus concealment/theft signs appear | reduce trust, secure records, and avoid advancing value |
 | 托人空雀 | a messenger/helper looks hollow or over-verbal | confirm in writing or choose another helper |
 | 日陆辰水 | route choice splits by land/water or direct/indirect path | choose the path whose side is supported and check conditions |
+| 魁度天门 | passage or access is blocked | change channel, reduce the ask, or wait for the blockage to clear |
+| 罡塞鬼户 | the pressure or bad actor is blocked | proceed cautiously after confirming the blockage helps the user |
+| 生空脱实 | support is empty while cost is real | do not pay more for a hollow benefit |
+| 三传全空 | talk, plan, or promise lacks substance | use it only to dissolve worry; do not build on it |
+| 传墓入墓 | the active factor is buried later | if it is benefit, delay; if it is pressure, let it be contained |
+| 合中犯杀 | agreement hides injury, conflict, or resentment | keep records, set exit terms, and avoid over-trusting harmony |
+| 发用夹克 | the first move is squeezed by two pressures | lower the commitment and remove one pressure before moving |
+| 内战 | the obstruction comes from inside the team/home/person | solve internal alignment before blaming outsiders |
+| 坐墓昏晦 | person and place both become unclear or stuck | clean up, clarify, expose, or move out of the stagnant position |
+| 丁马破静 | a static-looking matter has a movement trigger | expect a change, travel, interruption, or revised appointment |
+| 十方生克 | roles produce or damage one another | map who helps, who drains, and who receives before judging |
+| 奇门路线 | travel or action route is under scrutiny | choose a route with less exposure, clearer passage, and a fallback |
 
 ## Proportionality
 

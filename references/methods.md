@@ -212,6 +212,9 @@ Practical stance:
 - For守禄/弃禄, ask whether the user's current advantage is real and usable. 旺禄可守; 空亡、闭口、被玄夺, or三传全脱鬼 means the apparent benefit may not be worth keeping.
 - 闭口, 空亡乘玄武, and天空朱雀 patterns should make the answer less trusting: expect silence, hidden loss, empty promises, or exaggerated speech; advise records and confirmation.
 - For travel-like Liuren passages, use日/辰 and route support structurally. Do not import military or water-crossing fatalism into ordinary commuting.
+- In《毕法赋》下, read关隔、空亡、传墓、三合犯杀、夹克、内战、坐墓 and丁马 by what they touch. A buried benefit delays or loses usability; a buried鬼/脱 may contain pressure; an empty later transmission weakens follow-through; a合 with刑害冲 is not reliable harmony.
+- For small money or errands, treat“费有馀而得不足” as a hard caution: if the cost is real and the gain is void, buried, broken, or stolen by脱鬼, advise reduction or refusal even when the title looks like财、禄、长生.
+- For stagnant matters, distinguish pure伏吟 from伏吟 with旬丁、天马、驿马 or年命动 signal. Pure伏吟 leans to review and waiting; 丁马 introduces movement, interruption, appointment change, or travel, but not automatic success.
 - If the user has no六壬盘, do not improvise from a single神将 or日辰. Use another method or give practical strategy.
 
 ## 奇门遁甲
@@ -246,3 +249,5 @@ Practical stance:
 - 九遁、五假、三诈 require more than a pleasing name: check开休生, 三奇, 地盘所临, 九神, and whether the use is hiding, asking, writing, trading, reconciling, repairing, or moving.
 - Supernatural, ritual, military, espionage, and coercive uses in奇门 texts are not modern recommendations. Translate only the structural posture: conceal, reveal, negotiate, document, delay, route around, or protect.
 - For precise奇门起局,超神接气 and置闰 are part of the foundation. If the solar-term frame is not checked, do not claim exact局数, direction, or hour.
+- For十方星将生克 material, first map干、神、将、方 to the current roles, then judge生克 direction and旺相休囚. This is useful for “who helps whom” in small negotiations, errands, requests, and household matters.
+- Treat天门、地户、太阴、玉女、游门、三胜 and五不击 passages as route and exposure metaphors unless a complete traditional ritual/military context is explicitly being studied. Daily advice should become: choose clearer passage, reduce exposure, keep a fallback, or do not attack a protected side.

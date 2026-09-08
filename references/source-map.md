@@ -452,6 +452,17 @@ New local HTML source files:
 
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 209 generated study files.
 
+### 2026-09-08 Completed Local CTP Liuren Twelve-Volume Set
+
+New local HTML source files:
+
+- `E:\Thing\Fortune\资料库\在线文本\CTP\六壬大全卷四 - CTP.html`: readable CTP chapter; newly downloaded to complete the sequence, pending deeper extraction.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\六壬大全卷六 - CTP.html`: readable CTP chapter; newly downloaded to complete the sequence, pending deeper extraction.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\六壬大全卷七 - CTP.html`: readable CTP chapter; newly downloaded to complete the sequence, pending deeper extraction.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\六壬大全卷九 - CTP.html`: readable CTP chapter; useful for游子、三交、不备、天祸 and related课经集 rules.
+
+The local CTP folder now contains《六壬大全》序 and卷一 through卷十二 coverage, with卷二 as`卷二神将释` and卷十一/十二 as毕法赋上/下 files. This batch also deepened extraction from卷八、卷九、卷十 for官爵、斩关、闭口、游子、三交、不备、天祸、物类 and进退夹定 rules. As of this batch the simplified index reports 213 generated study files.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

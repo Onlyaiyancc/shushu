@@ -303,6 +303,18 @@ These are synthesis rules for daily use, not direct quotations.
 | 丁马破静 | a static-looking matter has a movement trigger | expect a change, travel, interruption, or revised appointment |
 | 十方生克 | roles produce or damage one another | map who helps, who drains, and who receives before judging |
 | 奇门路线 | travel or action route is under scrutiny | choose a route with less exposure, clearer passage, and a fallback |
+| 官爵失印 | title, paperwork, or helper looks good but is void or broken | repair credentials and channels before expecting promotion or approval |
+| 斩关有救 | a stuck passage can be opened by a real support | change route decisively but stay within lawful, practical bounds |
+| 斩关不断 | passage is named as open but actually blocked | do not force travel, departure, or negotiation |
+| 游子动摇 | movement urge is strong but unstable | travel light, set a return path, and avoid burning bridges |
+| 三交暗昧 | many parties or channels create hidden entanglement | simplify roles and keep the matter public enough to verify |
+| 不备缺项 | a plan has one missing structural part | fill the missing condition before asking for a verdict |
+| 天祸换气 | timing falls on a seasonal transition or exhaustion point | avoid launching major action; use review and preparation |
+| 物类未定 | the target class is not identified | define the object, person, document, resource, or blocker first |
+| 初吉末凶 | the start looks good but the end is weak | take only reversible steps and plan an exit |
+| 初凶末吉 | the start is rough but the end has rescue | tolerate early friction if support appears later |
+| 三传夹定 | the situation is locked between constraints | stop pretending there is full freedom; negotiate constraints first |
+| 传进传退 | the transmissions show advance or retreat | match action to direction, not to preference |
 
 ## Proportionality
 

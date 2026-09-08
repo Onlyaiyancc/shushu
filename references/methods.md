@@ -215,6 +215,9 @@ Practical stance:
 - In《毕法赋》下, read关隔、空亡、传墓、三合犯杀、夹克、内战、坐墓 and丁马 by what they touch. A buried benefit delays or loses usability; a buried鬼/脱 may contain pressure; an empty later transmission weakens follow-through; a合 with刑害冲 is not reliable harmony.
 - For small money or errands, treat“费有馀而得不足” as a hard caution: if the cost is real and the gain is void, buried, broken, or stolen by脱鬼, advise reduction or refusal even when the title looks like财、禄、长生.
 - For stagnant matters, distinguish pure伏吟 from伏吟 with旬丁、天马、驿马 or年命动 signal. Pure伏吟 leans to review and waiting; 丁马 introduces movement, interruption, appointment change, or travel, but not automatic success.
+- For课经集 names such as官爵、富贵、斩关、游子、三交、不备、天祸、物类 and连珠, do not read the title as the verdict. First verify whether the structural conditions are present, then check空亡、冲破、入墓、凶将、旺相休囚 and whether the rule fits the question domain.
+- When a Liuren course type is favorable only for a narrow domain, preserve that domain. 官爵/铸印 favors paperwork, exams, appointment, and official requests only when印、马、贵 are usable;斩关 favors leaving a blockage, not stable settling;游子 favors movement, not staying;不备 points to missing conditions.
+- Use物类课 as a discipline check: identify the object/person/document/resource/blocker, assign六亲 or类神, then judge初传 and末传 for start/end. This prevents answering from the user's preferred story before the target is defined.
 - If the user has no六壬盘, do not improvise from a single神将 or日辰. Use another method or give practical strategy.
 
 ## 奇门遁甲

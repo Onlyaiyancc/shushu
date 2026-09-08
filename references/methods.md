@@ -207,6 +207,11 @@ Practical stance:
 - Treat伏吟 as hidden, fixed, reviewing, or lacking motion; treat返吟 as opposition, reversal, travel, conflict, or sudden activation. Neither is judged alone without transmissions and救应.
 - Treat《六壬大全》卷三 CTP/OCR material as a noisy source locator. Use its visible rules on发用长生、墓、空亡、刑冲破害、夹克、内外财、贵前贵后 only as weak cross-checks until a clearer edition confirms the line.
 - For Liuren timing, after the课传 is established, use贵前/贵后 and旺相/休囚死 only as secondary speed indicators; do not derive a date from a corrupted source line.
+- For《毕法赋》style readings, treat named法 as rule summaries, not slogans. Check whether the question wants成、散、守、进、退、公开、私下、求见、托人、失物, then apply the法 to that domain.
+- 六阳/六阴 can guide公开/私下 posture: 六阳 favors clear public procedure; 六阴 lowers clarity and may suit private handling, but it weakens public requests.
+- For守禄/弃禄, ask whether the user's current advantage is real and usable. 旺禄可守; 空亡、闭口、被玄夺, or三传全脱鬼 means the apparent benefit may not be worth keeping.
+- 闭口, 空亡乘玄武, and天空朱雀 patterns should make the answer less trusting: expect silence, hidden loss, empty promises, or exaggerated speech; advise records and confirmation.
+- For travel-like Liuren passages, use日/辰 and route support structurally. Do not import military or water-crossing fatalism into ordinary commuting.
 - If the user has no六壬盘, do not improvise from a single神将 or日辰. Use another method or give practical strategy.
 
 ## 奇门遁甲
@@ -238,3 +243,6 @@ Practical stance:
 - When吉门 meets格、墓、刑、五不遇 or庚格, reduce to a small reversible attempt or delay.
 - For eight-door daily mapping, separate function from moral valence. 开 is public/formal opening, 休 is rest/reconciliation, 生 is growth/profit, 伤 is injury/drain/argument, 杜 is concealment/blockage, 景 is visibility/writing, 死 is ending/cleanup, 惊 is alarm/litigation/speech-fright.
 - Do not literalize克应 verses. Distances, clothing, livestock, official punishments, military and ritual scenes become weak omens about movement, blockage, exposure, fear, documents, dispute, and role pressure.
+- 九遁、五假、三诈 require more than a pleasing name: check开休生, 三奇, 地盘所临, 九神, and whether the use is hiding, asking, writing, trading, reconciling, repairing, or moving.
+- Supernatural, ritual, military, espionage, and coercive uses in奇门 texts are not modern recommendations. Translate only the structural posture: conceal, reveal, negotiate, document, delay, route around, or protect.
+- For precise奇门起局,超神接气 and置闰 are part of the foundation. If the solar-term frame is not checked, do not claim exact局数, direction, or hour.

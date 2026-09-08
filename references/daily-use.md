@@ -276,6 +276,21 @@ These are synthesis rules for daily use, not direct quotations.
 | 发用墓空 | the initial Liuren transmission is buried or void | expect delay, unreality, or unavailable support |
 | 发用夹克 | the initial Liuren transmission is squeezed by attacks | reduce commitments and remove pressure before action |
 | 财分内外 | money/resources may belong to outside or inside positions | check whether resources are entering, leaving, or being consumed |
+| 九遁好名 | a Qimen hidden-aid pattern has an auspicious name | still check the door, wonder, spirit, and actual task |
+| 超接未核 | Qimen solar-term setup is uncertain | do not make precise timing or direction claims |
+| 值符入墓 | a leading helper is present but buried or constrained | do not rely on authority alone; verify usable support |
+| 太阴玄武 | concealment, privacy, theft, or hidden motive is active | protect information and require evidence |
+| 六合交易 | cooperation or mediation is highlighted | coordinate, but check whether the agreement has force |
+| 首尾相见 | the beginning and ending loop back | good for completion, poor for dispersing entanglement |
+| 六阳公用 | the pattern favors public/open action | use official channels and plain wording |
+| 六阴昏迷 | the pattern favors hidden/private action but clarity is low | avoid public promises; verify facts before trusting |
+| 旺禄可守 | the current position has real usable advantage | stay with the existing option instead of chasing novelty |
+| 空禄难守 | the apparent advantage is void, blocked, or stolen | abandon the empty benefit and find a sturdier path |
+| 避难逃生 | the proposed path offers no useful support | withdraw to the basic safe position first |
+| 闭口不语 | the other side is unlikely to speak clearly | do not press; use a different channel or wait |
+| 空玄失脱 | voidness plus concealment/theft signs appear | reduce trust, secure records, and avoid advancing value |
+| 托人空雀 | a messenger/helper looks hollow or over-verbal | confirm in writing or choose another helper |
+| 日陆辰水 | route choice splits by land/water or direct/indirect path | choose the path whose side is supported and check conditions |
 
 ## Proportionality
 

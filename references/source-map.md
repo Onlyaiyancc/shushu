@@ -435,8 +435,11 @@ New local HTML source files:
 - `E:\Thing\Fortune\资料库\在线文本\CTP\六壬大全卷十 - CTP.html`: readable CTP chapter; useful for later六壬类象 and domain extraction.
 - `E:\Thing\Fortune\资料库\在线文本\CTP\六壬金铰剪 - CTP.html`: readable modern explanatory CTP text; useful for天地盘、四课、贵人、月将、九宗门发用、伏吟返吟 and入手判断. Treat as explanatory cross-check, not older canonical source.
 - `E:\Thing\Fortune\资料库\在线文本\CTP\壬学琐记 - CTP.html`: readable Qing/modern note text; useful for三式 version critique,六壬民用 emphasis,月将正时,贵人异说,取舍趋避,失物逃亡住宅 examples and anti-rigid-reading cautions.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷六 - CTP.html`: readable CTP chapter; useful for九遁变化法,超神接气,九神主论, and modern boundaries for hidden-aid/ritual/military material.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\六壬大全卷五 - CTP.html`: readable CTP chapter; mostly兵占, but useful structurally for时事休咎,出行水陆,托人真伪,信息真假 and route/person support boundaries.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\六壬大全卷十一毕法赋上 - CTP.html`: readable CTP chapter; useful for毕法赋上, including前后引从,首尾相见,六阳六阴,守禄弃禄,避难逃生,空亡,闭口,失脱 and告贵 rules.
 
-Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of the follow-up download of `奇门遁甲秘笈大全卷五 - CTP.html`, the simplified index reports 203 generated study files.
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of the follow-up downloads of `奇门遁甲秘笈大全卷六 - CTP.html`, `六壬大全卷五 - CTP.html`, and `六壬大全卷十一毕法赋上 - CTP.html`, the simplified index reports 206 generated study files.
 
 ## Located But Not Yet Downloaded
 

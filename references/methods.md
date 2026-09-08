@@ -188,7 +188,8 @@ Practical stance:
 - Explain the logic by宫位、星曜、课体、门星神将, and connect it to the question.
 - 星命/果老: first identify命宫、身宫、主曜/度主、二十八宿、十一曜、宫度, then judge得时、得地、入垣、升殿、生克制化, and only then read格局、禄马、贵印、行限.
 - 太乙: first verify the calendrical setup and plate:岁月日时,节气/闰月,太乙、天目、计神、文昌、始击、主客大小将、八门. Without these, treat太乙 as historical/method context, not a daily oracle.
-- If the only Taiyi evidence is bibliographic, such as a catalog note for《太乙金镜式经》, use it only for source mapping and version caution.
+- If the only Taiyi evidence is bibliographic, such as a catalog note or提要 for《太乙金镜式经》, use it for source mapping, version caution, and broad structure only. The提要 itself warns of later additions,附会, and doubtful historical应验.
+- Taiyi格局 terms such as掩、击、迫、囚、关、格、四郭固、四郭杜 are relationship states among太乙、目、将、门、主客 and内外. For daily translation, render them as pressure, attack, containment, blockage, closure, or role conflict; do not copy statecraft and warfare examples literally.
 - For both星命 and太乙, named auspicious patterns are provisional. Check破格,空亡,耗煞,冲刑,门闭,掩迫囚格, and whether the current限/时 supports action.
 - For星学大成/五星, check the method basis before judgment: twelve palaces and their管库星,七强五弱,得时得地,庙旺陷弱,强弱先后,留顺伏逆, and whether吉凶星 actually serve the asked domain.
 - For星平会海, treat current CTP entry as a version/bibliographic locator; OCR from增补星平会海 is too noisy for strong rule extraction unless cross-checked.
@@ -196,7 +197,8 @@ Practical stance:
 - For星学大成, disclose the岁差/历度 problem before making any old-degree claim about modern charts.
 - Treat星曜 names as labels for functions, not verdicts. 吉星 may harm the useful factor; 凶曜 may become usable when入格,受制, or serving the target.
 - Translate harsh classical labels into neutral structure: pressure, depletion, broken support, unstable movement, blocked resource, or timing mismatch.
-- 六壬: require月将、贵人顺逆、天地盘、四课、发用、三传 and the relevant课体. Read德、合、鬼、墓、破、刑 through旺衰、空陷、救神、进退 and whether the sign reaches末传.
+- 六壬: require月将、贵人顺逆、天地盘、四课、发用、三传 and the relevant课体. Determine发用 through the九宗门 sequence before reading三传.
+- Read德、合、鬼、墓、破、刑 through旺衰、空陷、外战、刑破、救神、进退 and whether the sign reaches末传. 德合 may be partial or false;鬼墓 may be rescued, opened, or locked.
 - If the user has no六壬盘, do not improvise from a single神将 or日辰. Use another method or give practical strategy.
 
 ## 奇门遁甲
@@ -207,15 +209,17 @@ Common flow:
 
 1. Confirm时方 and起局 basis:节气、符头、阴阳遁、三元、九宫.
 2. Read the whole plate through九宫、天地人三盘、三奇六仪、八门九星九神、值符值使.
-3. Separate主客 and动静. Static matters emphasize值符、值使、日干、时干 and生克旺衰; moving matters also emphasize direction and external trigger.
-4. Judge whether the selected门、奇、星、神 is旺相得地 or休囚失地.
-5. Check overrides:门迫、入墓、五不遇、伏吟反吟、余宫犯格.
-6. Translate to daily advice: proceed, wait, keep quiet, go indirectly, choose another time, reduce scope, or prepare a fallback.
-7. For《遁甲演义》style work, confirm阴阳遁、局数、值符、值使、三奇六仪、八门九星 before using a direction or hour.
+3. Check whether apparently useful门奇 are damaged by伏吟、反吟、奇墓、门迫、击刑、庚格、五不遇.
+4. Translate the result by role: 主动推进、等待回复、被动应对、竞争冲突、移动出行 may not share the same advice.
+5. Separate主客 and动静. Static matters emphasize值符、值使、日干、时干 and生克旺衰; moving matters also emphasize direction and external trigger.
+6. Judge whether the selected门、奇、星、神 is旺相得地 or休囚失地.
+7. Check overrides:门迫、入墓、五不遇、伏吟反吟、余宫犯格.
+8. Translate to daily advice: proceed, wait, keep quiet, go indirectly, choose another time, reduce scope, or prepare a fallback.
+9. For《遁甲演义》style work, confirm阴阳遁、局数、值符、值使、三奇六仪、八门九星 before using a direction or hour.
 
 Practical stance:
 
 - Do not claim precise奇门 judgment when time or direction is vague.
-- A good门 or三奇 is not enough. A bad格 is not enough either. Use the matter, role, force, and rescue conditions to decide.
+- A good门 or三奇 is not enough. A bad格 is not enough either. Use the matter, role, force, damage, and rescue conditions to decide.
 - For urgent matters, give the practical safety move first; use奇门 only as secondary strategy.
 - When吉门 meets格、墓、刑、五不遇 or庚格, reduce to a small reversible attempt or delay.

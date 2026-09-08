@@ -395,6 +395,27 @@ New local HTML source files:
 
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 174 generated study files.
 
+### 2026-09-08 Added Taiyi, Qimen, and Liuren Structured Pages
+
+New local HTML source files:
+
+- `E:\Thing\Fortune\资料库\在线文本\CTP\太乙金镜式经提要 - CTP.html`: readable CTP提要; useful for太乙 version cautions, later-addition warnings, broad structure of太乙/二目/四辅/八将, and limits on historical-disaster prediction.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\太乙金镜式经卷一 - CTP.html`: readable CTP chapter; useful for上元积年,太岁,六纪三元,太乙所在,天目,计神,岁月日时计法, and闰月节气 handling.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\太乙金镜式经卷二 - CTP.html`: readable CTP chapter; useful as continuing太乙排式 material, pending deeper extraction.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\太乙金镜式经卷三 - CTP.html`: readable CTP chapter; useful for掩、击、迫、囚、关、格、对、四郭固、四郭杜、执提、提挟 and主客内外 pressure structures.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全序 - CTP.html`: readable CTP序; useful for九宫八卦,三元节气,符头超接,阴阳二遁,值符值使,三奇六仪,伏吟反吟,奇墓门迫,击刑,庚格 and主客 caution.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷一 - CTP.html`: readable CTP chapter; useful for奇门排布 sequence,三奇吉门,急从神缓从门,伏反墓迫击刑 and常见格局.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷十二 - CTP.html`: readable CTP chapter; useful for later focused奇门 domain extraction.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷十五 - CTP.html`: readable CTP chapter; useful for later focused奇门 domain extraction.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷二十一 - CTP.html`: readable CTP chapter; useful for later focused奇门 domain extraction.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷三十 - CTP.html`: readable CTP chapter; useful for later focused奇门 domain extraction.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\六壬大全卷一 - CTP.html`: readable CTP chapter; useful for九宗门发用,贼克,比用,涉害,遥克,昴星,别责,八专,伏吟,返吟,德合鬼墓 and外合中离.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\六壬大全卷二神将释 - CTP.html`: readable CTP chapter; useful for神将释义, pending deeper extraction.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\六壬大全卷八 - CTP.html`: readable CTP chapter; useful for later focused六壬课体 extraction.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\六壬大全卷十二毕法赋下 - CTP.html`: readable CTP chapter; useful for毕法赋下 cross-checking, pending deeper extraction.
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 188 generated study files.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

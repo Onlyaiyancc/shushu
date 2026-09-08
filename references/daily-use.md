@@ -186,10 +186,16 @@ These are synthesis rules for daily use, not direct quotations.
 | 相神受伤 | the helper that makes the pattern work is damaged | downgrade the pretty reading and protect or replace the helper |
 | 调候为急 | climate or environment blocks function before structure can work | fix heat/cold/dry/wet, rest, pacing, or workspace conditions first |
 | 六壬无课传 | no four lessons, three transmissions, month general, or nobleman setup is available | do not give a Great Liuren verdict; use another method or practical advice |
+| 六壬发用未定 | the initial transmission has not been derived by the proper method | identify the发用 route before reading the three transmissions |
 | 德合落空 | a helpful Liuren sign is void, weak, or unsupported | treat help as partial or delayed |
+| 外合中离 | signs look cooperative but carry harm, doubt, or false compliance | keep records, reduce trust, and avoid relying on verbal harmony |
 | 鬼墓破刑有制 | a bad Liuren sign is controlled or rescued | caution without fear; expect difficulty then relief |
+| 墓逢冲开 | a hidden or stuck matter is opened by conflict or exposure | use a clear prompt, deadline, or reveal rather than waiting passively |
 | 奇门无局 | time, location/direction, or full plate is absent | no precise Qimen reading; ask for setup or give strategy |
 | 吉门带格 | an auspicious Qimen door or wonder carries obstruction | only attempt a small reversible move |
+| 奇墓门迫 | a wonder or door is buried or pressured | do not push; change route, timing, or ask size |
+| 伏吟反吟 | the Qimen plate repeats or clashes back on itself | avoid major action; keep to repair, review, or withdrawal |
+| 庚格击刑 | conflict, obstruction, or punishment pattern damages action | do not force the matter even if another sign looks attractive |
 | 玉匣杂占 | folk almanac or bodily omen is the source | use as weak folklore, never as the deciding evidence |
 | 六亲未定 | the role of the target is unclear | identify whether the target is support, output, pressure, resource, or peer before reading |
 | 动爻互战 | several moving lines affect each other | trace the chain before judging; do not average |
@@ -238,6 +244,9 @@ These are synthesis rules for daily use, not direct quotations.
 | 合绊动爻 | a moving factor is bound by combination | wait, loosen the constraint, or treat progress as slow |
 | 静爻暗动 | a quiet factor is stirred by day conflict | watch for hidden activation or sudden news |
 | 太乙仅目录 | only bibliographic Taiyi evidence is available | cite as source map only, not a divination rule |
+| 太乙版本未明 | Taiyi evidence comes from contested or supplemented texts | state the version caution and avoid modern high-stakes prediction |
+| 太乙岁月日时未排 | the Taiyi calendrical frame is missing | ask for a complete plate or switch to a simpler daily method |
+| 太乙掩击迫囚 | Taiyi structure shows attack, pressure, containment, or obstruction | favor defense, delay, indirect action, and repair over initiative |
 
 ## Proportionality
 

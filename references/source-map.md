@@ -350,6 +350,21 @@ New local HTML source files:
 
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 158 generated study files.
 
+### 2026-09-08 Added Ziwei, Xingping, Yuebo, and Youyi Cross-Checks
+
+New local HTML source files:
+
+- `E:\Thing\Fortune\资料库\在线文本\CTP\星平会海 - CTP.html`: CTP entry/source-locator page for《星平会海》; useful for version cautions about mixed子平/五星 materials, disputed attribution, and transmission quality.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\增补星平会海命学全书四 - CTP.html`: CTP chapter copy; useful only as a noisy source locator until cross-checked with a clearer scan or edition.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\紫微斗数 - CTP.html`: readable CTP/Wiki copy; useful for紫微斗数 version cautions, twelve-palace setup, fourteen main stars, charting sequence, and late子时 boundary.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\紫微斗数卷二 - CTP.html`: readable CTP chapter; useful for紫微 dependence on birth time,庙旺得地,身命合限运, and caution against star-name-only readings.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\月波洞中记卷上 - CTP.html`: readable相术 text; useful for骨法、神气、气色、动止、行藏、瞻视、才智、德行合参 and anti-single-feature rules.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\月波洞中记卷下 - CTP.html`: readable相术 text; useful for露齿/重瞳反例,眉目言行,气色污染,声气精神, and“七寸之面，不如一寸之心.”
+- `E:\Thing\Fortune\资料库\在线文本\CTP\春在堂全书游艺录 - CTP.html`: readable CTP directory/source-locator page; useful for筮、遁甲、六壬、推行年、紫微、相宅分篇 navigation.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\春在堂全书游艺录紫微斗数篇 - CTP.html`: readable紫微斗数篇; useful for命身十二宫,五行局,紫微/天府,十四主星,辅曜神煞,太岁十二神,博士十二神,命主身主 and大限小限.
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 166 generated study files.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

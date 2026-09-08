@@ -209,6 +209,16 @@ These are synthesis rules for daily use, not direct quotations.
 | 相术单点 | one facial mark, feature, or photo is being used as proof | downgrade to a rough state reading and ask for more layers |
 | 相色浮泛 | an auspicious color or appearance has no root or stability | treat it as temporary appearance, not durable fortune |
 | 卦辞背象 | line text or phrase sounds good but the image/action does not fit | follow the hexagram structure and the actual question |
+| 紫微版本不明 | the chart or book lineage is unclear | identify the edition or charting method before interpreting |
+| 紫微时辰不准 | birth hour or day boundary may be wrong | do not read the chart; verify the hour or compare possible charts |
+| 主星孤立 | a major star has no support or dignity | downgrade the pleasant name and ask what supports it |
+| 本命替即时 | a natal chart is used for a small immediate choice | use natal tendency only as background; choose by current method or practical facts |
+| 星平OCR噪声 | the source text is corrupted | use it only as a locator until cross-checked |
+| 相术缺动态 | only a static image or one feature is available | give a rough state reading, not a character verdict |
+| 性行未验 | trustworthiness is being inferred from appearance | require repeated behavior and fulfilled commitments |
+| 气色被污染 | lighting, filter, makeup, sleep, or illness affects complexion | avoid long-term claims; read short-term condition only |
+| 单项反例 | one feature has traditional counterexamples | require converging evidence before judging |
+| 游艺录只见目录 | only the table of contents is available | use it as a source map, not a rule base |
 
 ## Proportionality
 

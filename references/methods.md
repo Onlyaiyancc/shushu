@@ -104,18 +104,23 @@ Core inputs: birth date/time, calendar type, timezone/place, sex/gender conventi
 Common flow:
 
 1. Verify the birth data before reading: calendar type, leap month handling, birth hour, timezone/place, and whether an existing盘 is reliable.
-2. Establish命宫、身宫 and the twelve palaces: 命、兄弟、夫妻/妻妾、子女、财帛、疾厄、迁移、交友/奴仆、官禄、田宅、福德、父母.
-3. Place and verify主星、辅曜、煞曜、四化, noting which inputs they depend on: year stem, year branch, month, day, or hour.
-4. Read庙旺陷、宫位 domain、三方四正、生克制化、空劫羊陀火铃 and rescue/breaking factors together.
-5. Separate本命 base pattern from大限、小限、太岁 and流年 triggers.
-6. Interpret by domain: career, money, relationship, family, study, movement.
+2. Identify the textual/charting lineage when possible. CTP/Wikisource pages may mix modern explanatory text, late prints, and different Ziwei systems.
+3. Establish命宫、身宫 and the twelve palaces: 命、兄弟、夫妻/妻妾、子女、财帛、疾厄、迁移、交友/奴仆、官禄、田宅、福德、父母.
+4. Place and verify主星、辅曜、煞曜、四化, noting which inputs they depend on: year stem, year branch, month, day, or hour.
+5. After placing主星, add辅曜、四化、太岁十二神 and大限小限; then read身命 and三方四正.
+6. Read庙旺陷、宫位 domain、生克制化、空劫羊陀火铃 and rescue/breaking factors together.
+7. Separate本命 base pattern from大限、小限、太岁 and流年 triggers.
+8. Interpret by domain: career, money, relationship, family, study, movement.
 
 Practical stance:
 
 - If no reliable chart generation is available, do not fabricate a chart. Ask for an existing盘 or data.
+- For子时,闰月, timezone/place, or uncertain hour, compare candidate charts or withhold specific judgment.
 - Keep星曜 explanations tied to the actual宫位 and question.
 - Do not treat a star name as inherently lucky or unlucky. Even紫微、天府、天同、天相 need support; even贪狼、巨门、七杀、破军 may be usable when旺、得地、有制、有救.
+- Do not let a famous star name decide the result; even紫微/天府 needs相、庙旺、得地 and useful会照.
 - For everyday low-stakes questions, use紫微 mainly for broad tendency and timing posture. Use卜筮、梅花 or择日 when the user needs a small immediate choice.
+- For daily immediate choices, natal Ziwei is background only; use卜筮/梅花/择日 or concrete facts for the current action.
 
 ## 相术
 
@@ -125,8 +130,9 @@ Common flow:
 
 1. Identify the feature and region: forehead, brows, eyes, nose, mouth, ears, jaw, complexion, bones, hands.
 2. Link feature to traditional domain: early/middle/late fortune, temperament, wealth, authority, relationships.
-3. Avoid absolute claims from one feature. Combine multiple features before deciding.
-4. Account for lighting, angle, expression, makeup, and age.
+3. Use月波九成: 精神、魂魄、形貌、气色、动止、行藏、瞻视、才智、德行.
+4. Avoid absolute claims from one feature. Combine multiple features before deciding.
+5. Account for lighting, angle, expression, makeup, and age.
 
 Practical stance:
 
@@ -134,6 +140,8 @@ Practical stance:
 - Give advice as cultivation, presentation, timing, and behavior adjustment.
 - Weight the reading by available layers:骨格/比例,五行形相,三停五岳,五官六府,神气气色,声气举止, and described conduct. Missing layers mean a rough reading.
 - Treat心田、德器、神气 as anti-fatalism checks. Convert adverse signs into controllable advice before making a fixed verdict.
+- When trust or character is asked, require observable behavior; “相外乃得其真.”
+- Treat complexion as short-term and contamination-prone.
 - For later and modern相法 such as《公笃相法》, account for changed gender roles, occupations, era, and region. Do not import old moral labels into modern people.
 - Distinguish lasting structure from short-term condition: bone/form is slower, complexion and expression are temporary, voice and behavior are supporting layers.
 
@@ -177,6 +185,7 @@ Practical stance:
 - 太乙: first verify the calendrical setup and plate:岁月日时,节气/闰月,太乙、天目、计神、文昌、始击、主客大小将、八门. Without these, treat太乙 as historical/method context, not a daily oracle.
 - For both星命 and太乙, named auspicious patterns are provisional. Check破格,空亡,耗煞,冲刑,门闭,掩迫囚格, and whether the current限/时 supports action.
 - For星学大成/五星, check the method basis before judgment: twelve palaces and their管库星,七强五弱,得时得地,庙旺陷弱,强弱先后,留顺伏逆, and whether吉凶星 actually serve the asked domain.
+- For星平会海, treat current CTP entry as a version/bibliographic locator; OCR from增补星平会海 is too noisy for strong rule extraction unless cross-checked.
 - Treat星曜 names as labels for functions, not verdicts. 吉星 may harm the useful factor; 凶曜 may become usable when入格,受制, or serving the target.
 - Translate harsh classical labels into neutral structure: pressure, depletion, broken support, unstable movement, blocked resource, or timing mismatch.
 - 六壬: require月将、贵人顺逆、天地盘、四课、发用、三传 and the relevant课体. Read德、合、鬼、墓、破、刑 through旺衰、空陷、救神、进退 and whether the sign reaches末传.

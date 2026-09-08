@@ -240,6 +240,11 @@ Practical stance:
 
 - Do not claim precise奇门 judgment when time or direction is vague.
 - A good门 or三奇 is not enough. A bad格 is not enough either. Use the matter, role, force, damage, and rescue conditions to decide.
+- Assign主客 before reading. If the user seeks, visits, asks, or initiates, the user often occupies客; if the user waits, receives, guards, or hosts, the user often occupies主. Then map奇神/九星/八门 to beginning, middle, and ending instead of answering from preference.
+- Choose the main layer by domain: general吉凶 and momentum emphasize九星; action, route, and趋避 emphasize八门; place, moving, settlement, and spatial matters emphasize九宫.
+- Separate surface and hidden conditions. 暗藏飞干 material supports asking what document, private motive, access, omitted fact, or backup resource changes the visible situation.
+- For messages, rumors, notices, screenshots, and promises, use景门/朱雀 with旺相、三奇、空亡、入墓、门迫. Weak or void message signs require verification before trust.
+- For recommendations, approvals, referrals, and formal requests, compare requester, helper, authority, and open channel. Do not assume support unless the helper or authority actually生扶 the user's side.
 - For lost items, use日干 as the person and时干 as the object; judge recoverability before giving direction.
 - For invitations or visits, compare主/客,日/时,值符/天乙 or开门 support. If the other side is constrained, advise confirmation or delay.
 - For buying, selling, partnership, and small profit, separate buyer, object, counterpart, broker, capital, and profit. Follow who生扶 or克泄 whom.
@@ -254,3 +259,4 @@ Practical stance:
 - For precise奇门起局,超神接气 and置闰 are part of the foundation. If the solar-term frame is not checked, do not claim exact局数, direction, or hour.
 - For十方星将生克 material, first map干、神、将、方 to the current roles, then judge生克 direction and旺相休囚. This is useful for “who helps whom” in small negotiations, errands, requests, and household matters.
 - Treat天门、地户、太阴、玉女、游门、三胜 and五不击 passages as route and exposure metaphors unless a complete traditional ritual/military context is explicitly being studied. Daily advice should become: choose clearer passage, reduce exposure, keep a fallback, or do not attack a protected side.
+- Treat《奇门遁甲秘笈大全》卷十八 star-hour克应 as weak symbolic color only. Translate exact omens into broad categories such as documents, noise, obstruction, weather, wealth, illness, dispute, or movement; never literalize deaths, animals, clothing, distance, or exact incidents.

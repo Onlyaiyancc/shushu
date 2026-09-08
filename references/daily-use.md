@@ -303,6 +303,17 @@ These are synthesis rules for daily use, not direct quotations.
 | 丁马破静 | a static-looking matter has a movement trigger | expect a change, travel, interruption, or revised appointment |
 | 十方生克 | roles produce or damage one another | map who helps, who drains, and who receives before judging |
 | 奇门路线 | travel or action route is under scrutiny | choose a route with less exposure, clearer passage, and a fallback |
+| 奇门主客先后 | Qimen requires self/other and beginning/middle/end roles | assign主客 before judging; 奇神看初, 九星看中, 八门看末 |
+| 三盘取重 | star, door, and palace layers answer different domains | trend uses九星, action/route uses八门, place/move uses九宫 |
+| 暗藏飞干 | the surface and hidden condition diverge | verify paperwork, access, private motive, or backup support before acting |
+| 景朱信文 | messages, rumors, screenshots, or notices need reliability checking | trust clear, strong, supported information; distrust void, buried, pressured, or over-verbal signals |
+| 推荐无生 | the recommender or authority does not support the requester | reduce expectation, change helper, or improve conditions before asking |
+| 开门官长 | approval and formal handling depend on the authority channel | use explicit documents and official wording; do not rely on vague goodwill |
+| 水旱路线 | land/water or direct/indirect routes differ in support | choose the clearer supported route and check real traffic/weather |
+| 景惊状词 | disputes need clear statement and reviewable evidence | organize facts, screenshots, dates, and channel before escalating |
+| 开阖半开 | the situation is open, half-open, or closed | act, test lightly, or wait according to the opening rather than desire |
+| 值使不得令 | the executing channel or person lacks force | even a good-looking door may not last; shrink the move |
+| 克应弱证 | vivid omen verses are secondary symbols | use as color only after main plate logic agrees |
 | 官爵失印 | title, paperwork, or helper looks good but is void or broken | repair credentials and channels before expecting promotion or approval |
 | 斩关有救 | a stuck passage can be opened by a real support | change route decisively but stay within lawful, practical bounds |
 | 斩关不断 | passage is named as open but actually blocked | do not force travel, departure, or negotiation |

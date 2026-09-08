@@ -463,6 +463,17 @@ New local HTML source files:
 
 The local CTP folder now contains《六壬大全》序 and卷一 through卷十二 coverage, with卷二 as`卷二神将释` and卷十一/十二 as毕法赋上/下 files. This batch also deepened extraction from卷八、卷九、卷十 for官爵、斩关、闭口、游子、三交、不备、天祸、物类 and进退夹定 rules. As of this batch the simplified index reports 213 generated study files.
 
+### 2026-09-08 Added Qimen Decision, Message, and Route Chapters
+
+New local HTML source files:
+
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷七 - CTP.html`: readable CTP chapter; useful for主客占验、三盘取重、星门宫生克、暗藏飞干、远信、雀噪、干谒 and求财.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷八 - CTP.html`: readable CTP chapter; useful for推荐、退役应役、幕馆宾主、信息真假、出行水陆、诉讼状词、审官司 and病占 boundaries.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷十一 - CTP.html`: readable CTP chapter; mostly兵占 and官讼 material, but useful structurally for三甲开阖、值符值使、日干/时干主客、得令、网罗反伏、官禄 and词讼 role rules.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷十八 - CTP.html`: readable CTP chapter; dense star-hour克应歌诀. Use only as weak omen/color material because many entries are exact, archaic, violent, military, or literal-object claims.
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 217 generated study files.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

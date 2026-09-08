@@ -260,6 +260,22 @@ These are synthesis rules for daily use, not direct quotations.
 | 六壬返吟 | Liuren signs oppose and clash | expect movement, reversal, conflict, or sudden change; stabilize first |
 | 干支角色未分 | the question has not assigned self/object/place/other | define日干 and日支 roles before using transmissions |
 | 稳中无伤 | one option is not dazzling but has fewer injuries | prefer the option with support and no serious damage |
+| 太乙日时未核 | Taiyi calendrical setup is incomplete | do not use Taiyi for exact timing; switch to simpler daily strategy |
+| 太乙四郭杜 | the structure is closed, blocked, or unable to pass | stop forcing; use defense, delay, or a different route |
+| 太乙算和不和 | resources/roles either cooperate or fail to cooperate | proceed only when support matches the action; otherwise repair the mismatch |
+| 开门公事 | public, formal, explicit action is favored | make the message or paperwork clear; avoid hidden motives |
+| 休门和合 | rest, return, reconciliation, or soft approach is favored | ask gently, reconcile, visit, or pause rather than press |
+| 生门增益 | growth, buying, earning, building, or nourishment is favored | start or buy modestly after checking hidden obstruction |
+| 伤门外华内虚 | outward activity drains the root | avoid overwork, long travel, quarrels, and showy expansion |
+| 杜门藏形 | concealment or closure is the useful posture | keep quiet, protect privacy, hide risk, or postpone exposure |
+| 景门文书 | visibility, writing, display, or formal statement is highlighted | document, submit, explain, or clarify; do not assume all-around luck |
+| 死门收尾 | ending, disposal, mourning, cleanup, or irreversible closure dominates | finish and clean up; avoid opening a new delicate matter |
+| 惊门口舌 | alarm, argument, legal talk, or suspicion is active | calm the room, keep evidence, avoid provocative speech |
+| 克应仅佐证 | omen details are vivid but method-light | use them as color only after main plate logic agrees |
+| 六壬卷三噪声 | the source line is corrupted or weakly readable | treat it as a locator; cross-check before deciding |
+| 发用墓空 | the initial Liuren transmission is buried or void | expect delay, unreality, or unavailable support |
+| 发用夹克 | the initial Liuren transmission is squeezed by attacks | reduce commitments and remove pressure before action |
+| 财分内外 | money/resources may belong to outside or inside positions | check whether resources are entering, leaving, or being consumed |
 
 ## Proportionality
 

@@ -424,6 +424,7 @@ New local HTML source files:
 - `E:\Thing\Fortune\资料库\在线文本\CTP\太乙金镜式经卷五 - CTP.html`: readable CTP chapter; useful for太乙七术,主客将旺相休囚死,长算短算,内外算, and兵占-to-daily translation boundaries.
 - `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷三 - CTP.html`: readable CTP chapter; useful for九星/星门克应, pending deeper extraction.
 - `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷四 - CTP.html`: readable CTP chapter; useful for三奇到宫克应, pending deeper extraction.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷五 - CTP.html`: readable CTP chapter; useful for伤门、杜门、景门、死门、惊门克应, eight-door daily translation, and limits on literal omen reading.
 - `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷九 - CTP.html`: readable CTP chapter; useful for失物、请客、引见、文武升迁、求官、出任何方、应试 and日干/时干取用.
 - `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷十 - CTP.html`: readable CTP chapter; useful for行人、借贷、谒贵人、讨债、买货、脱货、开店、合伙、贸易、求财、交易、买房 and天气.
 - `E:\Thing\Fortune\资料库\在线文本\CTP\奇门遁甲秘笈大全卷十四 - CTP.html`: readable CTP chapter; useful for婚姻占 and奇门用于地理/田禾的分类取象, with modern gender-label caution.
@@ -435,7 +436,7 @@ New local HTML source files:
 - `E:\Thing\Fortune\资料库\在线文本\CTP\六壬金铰剪 - CTP.html`: readable modern explanatory CTP text; useful for天地盘、四课、贵人、月将、九宗门发用、伏吟返吟 and入手判断. Treat as explanatory cross-check, not older canonical source.
 - `E:\Thing\Fortune\资料库\在线文本\CTP\壬学琐记 - CTP.html`: readable Qing/modern note text; useful for三式 version critique,六壬民用 emphasis,月将正时,贵人异说,取舍趋避,失物逃亡住宅 examples and anti-rigid-reading cautions.
 
-Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 202 generated study files.
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of the follow-up download of `奇门遁甲秘笈大全卷五 - CTP.html`, the simplified index reports 203 generated study files.
 
 ## Located But Not Yet Downloaded
 

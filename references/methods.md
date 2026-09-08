@@ -191,6 +191,8 @@ Practical stance:
 - If the only Taiyi evidence is bibliographic, such as a catalog note or提要 for《太乙金镜式经》, use it for source mapping, version caution, and broad structure only. The提要 itself warns of later additions,附会, and doubtful historical应验.
 - Taiyi格局 terms such as掩、击、迫、囚、关、格、四郭固、四郭杜 are relationship states among太乙、目、将、门、主客 and内外. For daily translation, render them as pressure, attack, containment, blockage, closure, or role conflict; do not copy statecraft and warfare examples literally.
 - Taiyi七术 material can be used only structurally for daily advice: 旺相休囚死 describe usable force, 长算/短算 describe pace, and内外算 describes whether the support matches the sphere of action.
+- Taiyi日时 material is calculation-heavy. It requires岁计、月计、日计、时计,冬夏至/节气,太乙、天目、计神,主客置算, and八门状态. If these are not established, do not present a Taiyi verdict.
+- For Taiyi闻事、择时、求索、请谒 style passages, keep the reusable structure: 门具将发、阴阳和、无掩迫关格 tends to be usable;天目掩迫太乙、四郭固杜、主客内外不配 tends to block the matter.
 - For both星命 and太乙, named auspicious patterns are provisional. Check破格,空亡,耗煞,冲刑,门闭,掩迫囚格, and whether the current限/时 supports action.
 - For星学大成/五星, check the method basis before judgment: twelve palaces and their管库星,七强五弱,得时得地,庙旺陷弱,强弱先后,留顺伏逆, and whether吉凶星 actually serve the asked domain.
 - For星平会海, treat current CTP entry as a version/bibliographic locator; OCR from增补星平会海 is too noisy for strong rule extraction unless cross-checked.
@@ -203,6 +205,8 @@ Practical stance:
 - For Liuren,正时 and月将 are not decorative. If the time was not the natural question moment, or the月将/中气 boundary is uncertain, lower confidence before interpreting the plate.
 - Assign日干/日支 by the question before reading: usually干 is self or external action,支 is object, place, home, counterpart, or inner condition. Then map初传/中传/末传 to start/process/result.
 - Treat伏吟 as hidden, fixed, reviewing, or lacking motion; treat返吟 as opposition, reversal, travel, conflict, or sudden activation. Neither is judged alone without transmissions and救应.
+- Treat《六壬大全》卷三 CTP/OCR material as a noisy source locator. Use its visible rules on发用长生、墓、空亡、刑冲破害、夹克、内外财、贵前贵后 only as weak cross-checks until a clearer edition confirms the line.
+- For Liuren timing, after the课传 is established, use贵前/贵后 and旺相/休囚死 only as secondary speed indicators; do not derive a date from a corrupted source line.
 - If the user has no六壬盘, do not improvise from a single神将 or日辰. Use another method or give practical strategy.
 
 ## 奇门遁甲
@@ -232,3 +236,5 @@ Practical stance:
 - 黄黑道 is only a light择时 screen. Use it after the action is known, and never let it override a stronger branch method or obvious practical constraint.
 - For urgent matters, give the practical safety move first; use奇门 only as secondary strategy.
 - When吉门 meets格、墓、刑、五不遇 or庚格, reduce to a small reversible attempt or delay.
+- For eight-door daily mapping, separate function from moral valence. 开 is public/formal opening, 休 is rest/reconciliation, 生 is growth/profit, 伤 is injury/drain/argument, 杜 is concealment/blockage, 景 is visibility/writing, 死 is ending/cleanup, 惊 is alarm/litigation/speech-fright.
+- Do not literalize克应 verses. Distances, clothing, livestock, official punishments, military and ritual scenes become weak omens about movement, blockage, exposure, fear, documents, dispute, and role pressure.

@@ -190,6 +190,7 @@ Practical stance:
 - 太乙: first verify the calendrical setup and plate:岁月日时,节气/闰月,太乙、天目、计神、文昌、始击、主客大小将、八门. Without these, treat太乙 as historical/method context, not a daily oracle.
 - If the only Taiyi evidence is bibliographic, such as a catalog note or提要 for《太乙金镜式经》, use it for source mapping, version caution, and broad structure only. The提要 itself warns of later additions,附会, and doubtful historical应验.
 - Taiyi格局 terms such as掩、击、迫、囚、关、格、四郭固、四郭杜 are relationship states among太乙、目、将、门、主客 and内外. For daily translation, render them as pressure, attack, containment, blockage, closure, or role conflict; do not copy statecraft and warfare examples literally.
+- Taiyi七术 material can be used only structurally for daily advice: 旺相休囚死 describe usable force, 长算/短算 describe pace, and内外算 describes whether the support matches the sphere of action.
 - For both星命 and太乙, named auspicious patterns are provisional. Check破格,空亡,耗煞,冲刑,门闭,掩迫囚格, and whether the current限/时 supports action.
 - For星学大成/五星, check the method basis before judgment: twelve palaces and their管库星,七强五弱,得时得地,庙旺陷弱,强弱先后,留顺伏逆, and whether吉凶星 actually serve the asked domain.
 - For星平会海, treat current CTP entry as a version/bibliographic locator; OCR from增补星平会海 is too noisy for strong rule extraction unless cross-checked.
@@ -199,6 +200,9 @@ Practical stance:
 - Translate harsh classical labels into neutral structure: pressure, depletion, broken support, unstable movement, blocked resource, or timing mismatch.
 - 六壬: require月将、贵人顺逆、天地盘、四课、发用、三传 and the relevant课体. Determine发用 through the九宗门 sequence before reading三传.
 - Read德、合、鬼、墓、破、刑 through旺衰、空陷、外战、刑破、救神、进退 and whether the sign reaches末传. 德合 may be partial or false;鬼墓 may be rescued, opened, or locked.
+- For Liuren,正时 and月将 are not decorative. If the time was not the natural question moment, or the月将/中气 boundary is uncertain, lower confidence before interpreting the plate.
+- Assign日干/日支 by the question before reading: usually干 is self or external action,支 is object, place, home, counterpart, or inner condition. Then map初传/中传/末传 to start/process/result.
+- Treat伏吟 as hidden, fixed, reviewing, or lacking motion; treat返吟 as opposition, reversal, travel, conflict, or sudden activation. Neither is judged alone without transmissions and救应.
 - If the user has no六壬盘, do not improvise from a single神将 or日辰. Use another method or give practical strategy.
 
 ## 奇门遁甲
@@ -221,5 +225,10 @@ Practical stance:
 
 - Do not claim precise奇门 judgment when time or direction is vague.
 - A good门 or三奇 is not enough. A bad格 is not enough either. Use the matter, role, force, damage, and rescue conditions to decide.
+- For lost items, use日干 as the person and时干 as the object; judge recoverability before giving direction.
+- For invitations or visits, compare主/客,日/时,值符/天乙 or开门 support. If the other side is constrained, advise confirmation or delay.
+- For buying, selling, partnership, and small profit, separate buyer, object, counterpart, broker, capital, and profit. Follow who生扶 or克泄 whom.
+- For relationship questions, translate庚乙六合 and门户神门 into parties, mediator, family/social channel, and friction. Do not preserve old gendered moral labels.
+- 黄黑道 is only a light择时 screen. Use it after the action is known, and never let it override a stronger branch method or obvious practical constraint.
 - For urgent matters, give the practical safety move first; use奇门 only as secondary strategy.
 - When吉门 meets格、墓、刑、五不遇 or庚格, reduce to a small reversible attempt or delay.

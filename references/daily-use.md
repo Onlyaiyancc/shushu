@@ -196,6 +196,11 @@ These are synthesis rules for daily use, not direct quotations.
 | 奇墓门迫 | a wonder or door is buried or pressured | do not push; change route, timing, or ask size |
 | 伏吟反吟 | the Qimen plate repeats or clashes back on itself | avoid major action; keep to repair, review, or withdrawal |
 | 庚格击刑 | conflict, obstruction, or punishment pattern damages action | do not force the matter even if another sign looks attractive |
+| 奇门失物 | a missing object question has time and place | use日干 as owner and时干 as object; judge recoverability before guessing location |
+| 奇门邀约 | asking whether someone will come, reply, or meet | check whether主/客 and日/时关系 support contact; confirm before pressing |
+| 奇门买货 | deciding whether to buy a concrete item | judge buyer/object/profit relation; avoid if object is void, buried, exhausted, or harms the buyer |
+| 奇门交易合伙 | trade, sale, partnership, or side-income question | track me/other/intermediary/capital/profit separately |
+| 奇门关系媒介 | relationship depends on matchmaker, family, or social channel | examine both sides and the mediator; do not reduce it to attraction |
 | 玉匣杂占 | folk almanac or bodily omen is the source | use as weak folklore, never as the deciding evidence |
 | 六亲未定 | the role of the target is unclear | identify whether the target is support, output, pressure, resource, or peer before reading |
 | 动爻互战 | several moving lines affect each other | trace the chain before judging; do not average |
@@ -247,6 +252,14 @@ These are synthesis rules for daily use, not direct quotations.
 | 太乙版本未明 | Taiyi evidence comes from contested or supplemented texts | state the version caution and avoid modern high-stakes prediction |
 | 太乙岁月日时未排 | the Taiyi calendrical frame is missing | ask for a complete plate or switch to a simpler daily method |
 | 太乙掩击迫囚 | Taiyi structure shows attack, pressure, containment, or obstruction | favor defense, delay, indirect action, and repair over initiative |
+| 太乙长短算 | available resources or算数 are long or short | long supports slow preparation; short supports only fast, bounded action |
+| 太乙内外不配 | the matter is external but only internal support appears, or the reverse | fix the matching condition before acting |
+| 六壬月将不明 | month general or solar transition is uncertain | do not read the Liuren plate until the calendrical basis is fixed |
+| 六壬正时迟疑 | the question time was delayed or chosen artificially | mark the reading weaker or recast only after a genuine new trigger |
+| 六壬伏吟 | Liuren signs return to their own places | expect stagnation; review, hold, or wait for a trigger |
+| 六壬返吟 | Liuren signs oppose and clash | expect movement, reversal, conflict, or sudden change; stabilize first |
+| 干支角色未分 | the question has not assigned self/object/place/other | define日干 and日支 roles before using transmissions |
+| 稳中无伤 | one option is not dazzling but has fewer injuries | prefer the option with support and no serious damage |
 
 ## Proportionality
 

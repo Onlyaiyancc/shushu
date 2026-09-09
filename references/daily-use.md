@@ -387,6 +387,12 @@ These are synthesis rules for daily use, not direct quotations.
 | 相术形好神弱 | facial form looks favorable but vitality, steadiness, or presence is weak | downgrade the favorable reading and give rest, presentation, or conduct advice |
 | 相术气色污染 | complexion is read from a filtered, tired, harshly lit, or staged image | treat it only as short-term and low-confidence |
 | 相术问可信 | the user asks whether someone is trustworthy from appearance | require behavior evidence first; use physiognomy only as weak supporting symbolism |
+| 灵棋流言决疑 | the concern comes from rumor, screenshots, or second-hand speech | do not amplify suspicion; verify the original signal before acting |
+| 灵棋迟吉托事 | the user is waiting on a helper, reply, referral, or approval | late can still be favorable; send one clear follow-up, then wait |
+| 灵棋忧疑误事 | the user keeps switching between advance and retreat | choose a minimal correct action or withdraw; do not half-commit |
+| 灵棋满而知止 | a useful result is already enough | keep the gain, stop adding conditions, and avoid turning enough into greed |
+| 灵棋慎始防微 | the action is small but mistake-prone | verify time, place, person, amount, document, backup, and exit before moving |
+| 灵棋晚就慢成 | the matter is study, job, project, repair, or relationship recovery | treat slow progress as cultivation; set checkpoints rather than demanding immediate proof |
 
 ## Proportionality
 

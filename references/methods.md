@@ -95,6 +95,9 @@ Common flow:
 - Treat its famous-author attributions as version claims, not authority. The usable structure is the 125象 and the三才/十二棋 casting frame.
 - The question must be one focused doubt; use the first cast. Do not repeat the throw until the result pleases the user.
 - For daily matters, read灵棋 as a weak-to-medium symbolic oracle: timing posture, restraint, warning, preparation, or one bounded action.
+- Translate repeated灵棋 postures into ordinary decisions: 待时/迟吉/晚就 means prepare and allow delay; 守静/戒进/知止 means stop, reduce, or preserve; 宜速 means one prompt bounded action; 决疑 means verify rather than follow rumor.
+- Treat doubt as part of the omen. If the source pattern says狐疑、凝滞、进退不定, correct the user's indecision before giving encouragement.
+- A favorable灵棋 result can still require stopping. 满而知止 and守之乃昌 mean keep the achieved gain instead of adding risk.
 
 河洛象数 stance:
 

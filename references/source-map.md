@@ -576,6 +576,15 @@ Readable local Wikisource simplified study files now read for method extraction:
 
 This batch strengthens physiognomy boundaries. For modern daily readings, use appearance only as layered symbolic evidence and require behavior when judging trust or character. Do not repeat old lifespan, gender, morality, illness, violence, or class labels as verdicts.
 
+### 2026-09-09 Added Lingqi Daily Timing and Doubt Checks
+
+Readable local Wikisource simplified study files now reread for method extraction:
+
+- `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库\灵棋经四库本全览 - 维基文库.html.simp.txt`: useful for version cautions, one-cast discipline, focused doubt,决疑、迟吉、凝滞、知止、戒进、慎始 and混沌未明.
+- `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库\灵棋经 - 维基文库.html.simp.txt`: shorter readable text useful for cross-checking the named images and action postures.
+
+This batch improves daily small-question handling. 灵棋 should not be used as a flattering yes/no machine: it often corrects timing and posture. Slow can be favorable, rumor can be ignored, doubt can be the problem, and a good result can mean stop while enough has been secured.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

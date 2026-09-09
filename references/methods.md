@@ -122,6 +122,8 @@ Common flow:
 6. Read庙旺陷、宫位 domain、生克制化、空劫羊陀火铃 and rescue/breaking factors together.
 7. Separate本命 base pattern from大限、小限、太岁 and流年 triggers.
 8. Interpret by domain: career, money, relationship, family, study, movement.
+9. Treat夹、拱、会照 as strength modifiers, not verdicts by themselves; count whether they support or pressure the palace actually being asked about.
+10. Downgrade ancient harsh, gendered, medical, fertility, lifespan, and moralizing phrases into structural pressure/support language.
 
 Practical stance:
 
@@ -132,6 +134,7 @@ Practical stance:
 - Do not let a famous star name decide the result; even紫微/天府 needs相、庙旺、得地 and useful会照.
 - For everyday low-stakes questions, use紫微 mainly for broad tendency and timing posture. Use卜筮、梅花 or择日 when the user needs a small immediate choice.
 - For daily immediate choices, natal Ziwei is background only; use卜筮/梅花/择日 or concrete facts for the current action.
+- Do not repeat old-text judgments about寿夭、刑克、淫贱、残疾 or gender hierarchy as modern verdicts.
 
 ## 相术
 

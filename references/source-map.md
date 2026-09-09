@@ -517,6 +517,16 @@ Existing local HTML source files now read for method extraction:
 
 The strongest practical value from this batch is negative discipline: do not decide by a single label such as用神持世、忌神持世、贵人、禄马、天医、青龙、白虎、旬空 or月破 without checking生克制化、动静冲合、日辰月建 and the real question.
 
+### 2026-09-09 Added Ziwei Quanshu Domain and Timing Checks
+
+Existing local Wikisource source files now read for method extraction:
+
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\紫微斗数全书卷一 - 维基文库.html`: readable text; useful for身命为本、十二垣、入庙失度、生克制化、空亡、辅弼、禄马、限度 and warnings against single-star judgment.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\紫微斗数全书卷二 - 维基文库.html`: readable text; useful for安身命、闰月 handling,十二宫 placement, hour-dependent stars,流年太岁,小限,命主身主,十二宫强弱, and star-by-star palace notes.
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\紫微斗数全书卷三 - 维基文库.html`: readable text; useful for格局、夹拱、科权禄、劫空、命宫、身宫、财帛 and本命/限运 interaction.
+
+This batch reinforces that Ziwei should be used for natal and period structure, not as a substitute for immediate daily divination. Ancient harsh, gendered, medical, fertility, lifespan, and moralizing phrases should be translated into structural pressure/support language rather than repeated as verdicts.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

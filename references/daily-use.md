@@ -170,6 +170,12 @@ These are synthesis rules for daily use, not direct quotations.
 | 星命名吉用凶 | a lucky star name harms the useful factor | reject the pleasant label and protect the real priority |
 | 星命名凶入用 | a scary star name serves the useful factor | use disciplined pressure; do not frighten the user |
 | 星命无盘 | chart, degree, or timing basis is missing | explain method only; do not invent a fate reading |
+| 紫微身命为本 | a Ziwei chart has reliable命宫、身宫 and star placement | use it for broad posture, not a fabricated immediate omen |
+| 紫微分宫分域 | the user asks about money, work, travel, house, or relationship | judge the relevant palace and三方四正, not the whole chart from one star |
+| 紫微单星失真 | a star name sounds lucky or scary | check庙旺陷、同会、四化、空劫羊陀火铃 before judging |
+| 紫微限运不合 | natal promise and current limit conflict | keep the advantage as background and reduce immediate action |
+| 紫微夹拱未核 | a夹、拱、会照 pattern looks impressive | count whether support outweighs pressure in the asked domain |
+| 紫微古断过重 | old text gives harsh fate, gender, health, or moral labels | translate to pressure/support and avoid irreversible claims |
 | 古籍恶断 | old text uses harsh fatal or moral labels | translate structure only; never repeat the label as a verdict |
 | 阳宅无图 | no orientation, floor plan, or visible layout is available | give only basic light, air, drainage, clutter, safety, and buffer advice |
 | 门路灶未明 | entrance, traffic path, and stove/bed/desk relation are unknown | ask for layout before judging direction |

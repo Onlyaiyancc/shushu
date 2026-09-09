@@ -540,6 +540,14 @@ External source check: Wikisource has public-domain zh-hans pages for `太乙金
 
 Download update: Wikisource separate scroll pages `卷02` through `卷10` were downloaded locally and converted into simplified study files under `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库`. 卷十 is especially useful for择日、择时、闻事、望行人、请谒、求索、买卖百事, but those examples must be translated into information reliability, access, resources, buying/selling, and initiation/avoidance for modern daily use.
 
+### 2026-09-09 Added Zengshan Buyi Daily Anti-Shortcut Checks
+
+Readable local source reread:
+
+- `E:\Thing\Fortune\资料库\在线文本\维基文库\增删卜易 - 维基文库.html`: useful for daily六爻 discipline. Newly extracted material includes the limit of beginner持世 shortcuts, stopping repeated casts when the answer is already clear, checking four sources of生克冲合, refusing good卦名 when the用神 is empty/broken/harmed, answering only the asked matter, and requiring a precise疑点 for house/place questions.
+
+This batch strengthens the skill's objective stance: a reading should be allowed to reject the user's desired conclusion when the useful factor is damaged, the question is overbroad, or the user is trying to recast into a preferred answer.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

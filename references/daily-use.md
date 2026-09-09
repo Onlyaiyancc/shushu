@@ -364,6 +364,11 @@ These are synthesis rules for daily use, not direct quotations.
 | 初凶末吉 | the start is rough but the end has rescue | tolerate early friction if support appears later |
 | 三传夹定 | the situation is locked between constraints | stop pretending there is full freedom; negotiate constraints first |
 | 传进传退 | the transmissions show advance or retreat | match action to direction, not to preference |
+| 六爻简法诱导 | a single持世 or卦名 supports the desired answer | run the full用神、日月、动变、空破 check before agreeing |
+| 六爻再占求喜 | the user wants to recast after a clear answer | stop repeating; act, wait, or ask only after facts change |
+| 四处生克未列 | month, day, moving line, and changed line effects are not checked | withhold firm yes/no until support and harm are weighed |
+| 占此应彼 | the question quietly asks several outcomes at once | answer only the actual question or split it into separate casts |
+| 家宅泛问 | the home/office question is broad and unfocused | ask for the exact suspected place or effect before judging |
 
 ## Proportionality
 

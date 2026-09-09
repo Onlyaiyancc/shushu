@@ -68,6 +68,9 @@ Common flow:
 13. Use《卜筮正宗》style anti-shortcut checks: do not decide from用神持世、忌神持世、贵人禄马、天医、六兽 or one空破 label before checking生克制化、动静冲合、日辰月建.
 14. For伏神, first see whether the target appears in the main or changed hexagram. Search伏 only when the用神 is absent or truly inaccessible, then judge whether飞神提拔 or suppresses it.
 15. Confirm one matter and the querent's real role before choosing the用神. If the user hides the relationship, asks several things, or repeats the same anxiety, downgrade or stop the divination.
+16. Treat《增删卜易》beginner shortcuts as prompts, not verdicts. After a simple持世 or卦名 appears, verify月建、日辰、动爻、变爻, and whether any support is real rather than nominal.
+17. If the answer is already clear, do not recast just because the user dislikes it. Recast only when the卦 is ambiguous, the matter is urgent but unclear, or material facts have changed.
+18. For house, place, and complex practical questions, use指疑: ask what exact place or effect is suspected, then answer that one point.
 
 梅花易数 flow:
 

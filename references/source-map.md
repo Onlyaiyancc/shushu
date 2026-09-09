@@ -608,6 +608,17 @@ External source check: Wikisource has a public-domain《六壬大全（四库全
 
 This batch improves objective Liuren handling. A good or bad课名 is not enough: 元首 can reverse when the lower side is stronger, 重审 depends on the ending rescue, 知一 forces a choice between two branches, 涉害 means layered resistance, 遥克 is remote or weak, and返吟/伏吟 must be read by movement, voidness, and rescue rather than by slogan.
 
+### 2026-09-09 Added Xieji Folk Almanac and Xiaoliuren Boundaries
+
+Readable local simplified study files now checked for source-strength boundaries:
+
+- `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库\钦定协纪辨方书四库本全览2 - 维基文库.html.simp.txt`: useful for rejecting internally contradictory or name-driven folk almanac rules, including马前六害、金童撞命、逆血刃、暗刀煞、兀日、四不祥 and《黄帝龙首经》六道/利道-style formulas.
+- `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库\玉匣记 - 维基文库.html.simp.txt`: contains a readable `李淳风六壬时课` section with大安、留连、速喜、赤口、小吉、空亡. Use this as a folk quick-oracle source, not as a strong classical decision engine.
+- `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库\许真君玉匣记 - 维基文库.html.simp.txt`: contains ritual/date material and a passage that overrides ordinary赤口、执破等 labels for a specific ritual context; useful for showing that generic凶名 is not universally decisive.
+- `E:\Thing\Fortune\资料库\简体学习版\在线文本\CTP\神峰通考 - CTP.html.simp.txt`: cross-checks the same anti-shortcut discipline in Bazi: year-only,马前 one-position,八败/桃花-style folk taboos are criticized for ignoring full年月日时 and real chart balance.
+
+This batch deliberately does not promote modern web/blog小六壬 material to strong rules. It adds a boundary: 小六壬 may help with small daily timing color when the user supplies the date/time basis, but it must not override stronger methods, real facts, or practical duty.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

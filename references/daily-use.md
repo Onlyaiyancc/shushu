@@ -407,6 +407,11 @@ These are synthesis rules for daily use, not direct quotations.
 | 六壬传报虚实 | the question concerns a message, quote, screenshot, rumor, or intermediary | verify source, motive, and written evidence before reacting |
 | 六壬合分重叠 | many people or repeated channels are involved | simplify roles and responsibility before deciding |
 | 六壬分野古今 | star-field/geography material appears | treat it as historical context, not a modern local verdict |
+| 马前俗煞 | a frightening or pleasing almanac label is based only on a horse-front position | ignore the label unless a stronger structure confirms it |
+| 吓人煞名 | the name sounds severe but the rule has no clear structure | downgrade it; do not cancel ordinary necessary action |
+| 小六壬兀日 | 大安、留连、速喜、赤口、小吉、空亡 or兀日 is the only evidence | use it as weak timing color; verify with facts or a stronger method |
+| 四不祥附会 | a fixed day list is used to forbid official or work action | do not stop the matter from the list alone; check real readiness and date relations |
+| 龙首六道 | route or moving advice rests only on天道、人道、鬼道、死道 labels | return to five-element relations, route clarity, safety, and practical access |
 
 ## Proportionality
 

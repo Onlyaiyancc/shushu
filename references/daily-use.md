@@ -100,6 +100,11 @@ These are synthesis rules for daily use, not direct quotations.
 | 形止气蓄 | movement has a place to settle | use this spot for focus, rest, conversation, or storage |
 | 水路弯抱/明净 | flow is gathered and legible | good for reception, desk work, customer-facing placement, or recovery |
 | 水路斜飞/直冲 | flow is harsh, rushed, or hard to retain | avoid lingering there; use screening, rerouting, or repair |
+| 形势先于理气 | visible space problems conflict with a lucky direction | fix flow, light, noise, moisture, safety, and buffer before symbolic layout |
+| 山水动静 | fixed support and moving flow differ | use stable backing for rest/focus; keep movement clear but not rushing through |
+| 分合聚蓄 | traffic, airflow, or water enters and exits without pause | add a stopping point, storage, screen, rug, plant, or route change |
+| 八宅吉凶复核 | a room or direction is named生气、天医、五鬼、绝命 | verify actual door, bed, desk, stove, light, air, noise, and whether the area is usable |
+| 静动宅混用 | a complex old-house formula is applied to a small apartment or office | downgrade it and read only the actual room sequence and daily movement |
 | 择日名目冲突 | calendar rules disagree or multiply | keep the matter small, prioritize direct relevance, and avoid needless taboos |
 | 本命/对冲轻触 | personal clash exists but the matter is ordinary | reduce scope or choose a calmer hour; do not cancel everything |
 | 仪式/工程忌宜 | the source concerns ritual, burial, construction, or farming | do not extend it to texting, shopping, studying, or ordinary errands |

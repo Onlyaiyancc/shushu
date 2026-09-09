@@ -619,6 +619,16 @@ Readable local simplified study files now checked for source-strength boundaries
 
 This batch deliberately does not promote modern web/blog小六壬 material to strong rules. It adds a boundary: 小六壬 may help with small daily timing color when the user supplies the date/time basis, but it must not override stronger methods, real facts, or practical duty.
 
+### 2026-09-09 Added Rudi Yan and Qingnang Space-Use Checks
+
+Readable local simplified study files now read more deeply for geomancy extraction:
+
+- `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库\青囊序 - 维基文库.html.simp.txt`: useful for山水动静、山管山水管水、直射直流、进退水 and the need to avoid rigid阴阳 slogans.
+- `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库\入地眼全书 - 维基文库.html.simp.txt`: useful for形势立体、理气为用、龙穴砂水向五字互看、水法形象第一、分合聚蓄、八宅三吉四凶复核 and静宅/动宅/变宅/化宅 distinctions.
+- `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库\宅经 - 维基文库.html.simp.txt` and `宅经四库本 - 维基文库.html.simp.txt`: reread for the Siku caution that the黄帝 title is依托, while the二十四路 and阴阳相得 frame is comparatively old and usable with source caution.
+
+This batch improves daily space readings. The skill should prioritize visible form, movement, light, air, water/drainage, noise, safety, door/bed/desk/stove relations, and room sequence before symbolic direction names. Old阴宅 and multi-dong formulas must be translated carefully for apartments, offices, and small rooms.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

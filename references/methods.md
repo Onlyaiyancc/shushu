@@ -65,6 +65,9 @@ Common flow:
 10. Validate纳甲、世应、六神、飞伏 and伏神 before a verdict. CTP modern annotations can help procedural checking, but distinguish them from the classical source layer.
 11. For several moving lines, trace moving-line interactions before static lines: 原神被克、忌神受制、贪生忘克、贪合忘克 can reverse the apparent tendency.
 12. 六神 and神煞 describe color and circumstances; 用神, original/supporting factors, moving lines, and五行生克 decide the answer.
+13. Use《卜筮正宗》style anti-shortcut checks: do not decide from用神持世、忌神持世、贵人禄马、天医、六兽 or one空破 label before checking生克制化、动静冲合、日辰月建.
+14. For伏神, first see whether the target appears in the main or changed hexagram. Search伏 only when the用神 is absent or truly inaccessible, then judge whether飞神提拔 or suppresses it.
+15. Confirm one matter and the querent's real role before choosing the用神. If the user hides the relationship, asks several things, or repeats the same anxiety, downgrade or stop the divination.
 
 梅花易数 flow:
 

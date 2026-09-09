@@ -507,6 +507,16 @@ New local HTML source files:
 
 Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 239 generated study files.
 
+### 2026-09-09 Added Bushi Quanshu and Bushi Zhengzong Six-Line Checks
+
+Existing local HTML source files now read for method extraction:
+
+- `E:\Thing\Fortune\资料库\在线文本\CTP\卜筮全书卷一启蒙节要 - CTP.html`: readable introductory CTP text; useful for六亲相生相克、coin casting,动爻/变卦,世应 placement, and飞伏神 as basic procedure. Treat modern inline notes as aids, not older source authority.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\卜筮全书卷二 - CTP.html`: readable but mostly hexagram-by-hexagram material with modern notes; useful for卦名判辞 and六亲 completeness examples, pending cautious extraction.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\卜筮正宗忌神用神 - CTP.html`: partly noisy at the opening but highly useful from the用神/忌神 section onward; extracted rules for原神、忌神、仇神、伏神、六兽、月破、旬空、一事本心、代占名分 and anti-shortcut cautions.
+
+The strongest practical value from this batch is negative discipline: do not decide by a single label such as用神持世、忌神持世、贵人、禄马、天医、青龙、白虎、旬空 or月破 without checking生克制化、动静冲合、日辰月建 and the real question.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

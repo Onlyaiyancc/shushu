@@ -47,6 +47,13 @@ Reliability labels follow `reading-protocol.md`: Strong, Medium, Weak, or Versio
 | R-LY-013 | 六爻 | Medium | 财 signals resources, money, desire, goods, and tangible benefit. | For small purchases or errands, 财旺生世 supports gain; 财化退 or 财受克 warns against expansion or impulse spending. | 财 may be a relationship spouse-sign in marriage questions; do not flatten all 财 into money. | `增删卜易`, lines 4310, 5521, 5564, 5697. |
 | R-LY-014 | 六爻 | Medium | 父母 often signals documents, messages, protection, elders, study, houses, or burdens. | For daily paperwork and communication, 父母旺 supports reading, filing, confirming, and formal channels. | 父母 can suppress 子孙 in some questions; domain decides whether it helps. | `增删卜易`, lines 4889-4900, 6214, 6508. |
 | R-LY-015 | 六爻 | Medium | 兄弟 often signals peers, competitors, leakage, expense, or divided benefit. | In buying, money, and negotiation questions, 兄旺/动 suggests cost, competition, or sharing less. | In sibling/friend questions, 兄弟 may be the target rather than an obstacle. | `增删卜易`, lines 5481, 5521, 4695-4697. |
+| R-LY-016 | 六爻/用忌 | Strong | 《卜筮正宗》先看用神，再定原神、忌神、仇神；原神能生用才有益，仇神发动则伤原神并助忌。 | 每次六爻判断先画出四神链：谁是目标、谁支持、谁克害、谁削弱支持；日常问题据此决定推进、求助、避险或补根。 | 不因一个支持名义存在就报喜；休囚不动、化退、变墓绝破或被日月制的原神不能有效救用。 | `卜筮正宗忌神用神 - CTP.html.simp.txt`, lines 10-14. |
+| R-LY-017 | 六爻/贪生忘克 | Strong | 忌神动来克用时，若另有原神发动生用，忌神反生原神，名贪生忘克；若忌神被回头克、日月冲克或动爻制住，则害先受害。 | 面对压力、竞争、催促或冲突时，先看压力是否被转化为支持；能转化则可用压力成事，不能转化则避开。 | 不见忌神就吓人；也不在日月扶忌、忌神叠叠克用时强行乐观。 | `卜筮正宗忌神用神 - CTP.html.simp.txt`, line 12. |
+| R-LY-018 | 六爻/伏神病药 | Strong | 伏神只在用神缺、不现或正变皆无时查；既有用神，旬空、月破、动静生克合冲皆是本爻病处，须用值日、填合、出露、冲合等药。 | 用神不上卦时先查变爻，再查伏神和飞神是否提拔；用神已出现时直接处理本爻的空破冲合。 | 不爻爻乱寻伏神，不把空破直接判无用，也不从错误伏神位置硬断吉凶。 | `卜筮正宗忌神用神 - CTP.html.simp.txt`, lines 34-36, 148-156. |
+| R-LY-019 | 六爻/六兽去标签 | Strong | 《卜筮正宗》称青龙附忌则谋不利，白虎生用则吉，又明说不可“遇吉神般般云吉，持凶宿件件凶”。 | 六神只给情境色彩：喜庆、口舌、牵滞、惊疑、伤厉、隐私等；最后仍看是否生用、克用、助忌或受制。 | 不按青龙、贵人、禄马等吉名讨好，也不按白虎、玄武、螣蛇等凶名恐吓。 | `卜筮正宗忌神用神 - CTP.html.simp.txt`, lines 40-62, 178-182. |
+| R-LY-020 | 六爻/月破旬空 | Strong | 月破、旬空不是绝对无用：旺相、发动、日辰动爻生合、化回头生合、伏而有提拔者，出月、出旬、值日、合补后仍能应；真破真空须兼休囚安静、被克害等。 | 遇空破时给“现在不可用、何时可能变实”的判断；短期小事先等确认或补条件。 | 不把空亡月破机械判死，也不把真空真破强说可成。 | `卜筮正宗忌神用神 - CTP.html.simp.txt`, lines 74-78, 198-204. |
+| R-LY-021 | 六爻/一事本心 | Strong | 《卜筮正宗》称占一事、审本心、明名分；兼问数事、隐瞒亲疏上下、连续再三占，都会导致用神差误或不验。 | 日常占问先压成一个可行动问题，代占要说明关系和角色；同一焦虑反复问时，停止重占，改为等待新信号。 | 不为迎合焦虑连续重占；不在用户隐瞒身份关系时硬定用神。 | `卜筮正宗忌神用神 - CTP.html.simp.txt`, lines 118-132. |
+| R-LY-022 | 六爻/断法不可混 | Medium | 《卜筮正宗》区分蓍草易理的体象、用象、互象、爻辞与钱卜纳甲的财官父兄子、原用仇忌、动静空破等断法，称混用则不验。 | 回答时标明当前用经义象辞、梅花体用、还是六爻纳甲；若用户只给卦名不提供装卦和动爻，改用象义粗读或要求补盘。 | 不把互卦、爻辞、六亲、神煞混成一锅来证明用户想听的答案。 | `卜筮正宗忌神用神 - CTP.html.simp.txt`, lines 208-212. |
 
 ## Classical Yi / Divination Method Rules
 

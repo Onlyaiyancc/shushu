@@ -252,6 +252,14 @@ These are synthesis rules for daily use, not direct quotations.
 | 推数不推理 | the symbol fits several answers | choose the one that fits time, place, use, and question context |
 | 梅花克体无救 | the matter presses the body and no support appears | avoid or delay; change the approach before acting |
 | 六爻纲领缺项 | useful, original, avoidant, void, break, flying/hidden, or moving relation is unchecked | withhold a firm verdict |
+| 原用忌仇未分 | target, support, blocker, and anti-support are not mapped | do not answer yes/no yet; identify the causal chain first |
+| 原神无力 | support exists by name but cannot actually help | do not rely on that helper; rebuild support or wait |
+| 忌神转生 | pressure is redirected into support | use the pressure as leverage if it truly feeds the target |
+| 伏神乱寻 | the target is already visible or in the changed hexagram | judge the visible target first; search hidden support only if absent |
+| 六兽贴标签 | auspicious or frightening spirit names are driving the answer | reduce them to circumstance color and return to生克制化 |
+| 空破待实 | a sign is unavailable now but can become usable when filled | delay for confirmation, value day, or practical completion |
+| 一事本心 | the question mixes matters, hides roles, or repeats from anxiety | split the question, clarify role, or stop recasting |
+| 断法混用 | line text, body-use imagery, six relatives, and spirits are mixed | name the method or downgrade to a rough symbolic answer |
 | 日月助忌 | day/month supports the blocker rather than the target | do not proceed just because timing label sounds good |
 | 用神太过 | the target is excessive, scattered, or not single-pointed | reduce, focus, or channel surplus before action |
 | 动变回头克 | the active path turns back to damage the target | expect reversal; keep actions reversible |

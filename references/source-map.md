@@ -527,6 +527,19 @@ Existing local Wikisource source files now read for method extraction:
 
 This batch reinforces that Ziwei should be used for natal and period structure, not as a substitute for immediate daily divination. Ancient harsh, gendered, medical, fertility, lifespan, and moralizing phrases should be translated into structural pressure/support language rather than repeated as verdicts.
 
+### 2026-09-09 Added Taiyi Scale and Good-Door Cross-Checks
+
+Already-downloaded readable source files were reread for method extraction:
+
+- `E:\Thing\Fortune\资料库\在线文本\CTP\太乙金镜式经提要 - CTP.html`: confirms the ten-scroll Wang Ximing attribution, later additions, and the Siku caution that Taiyi's historical disaster/political correspondences are often doubtful.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\太乙金镜式经卷一 - CTP.html`: useful for Taiyi location, heavenly eye,计神,日时 setup, and the conditional nature of八门: even开休生 and门具将发 require阴阳和顺 and no掩击囚关格.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\太乙金镜式经卷二 - CTP.html`: useful for five generals,主客, seasonal旺相休囚, and the principle that different levels of people/tasks use different计法.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\太乙金镜式经卷三 - CTP.html`: useful for掩、击、迫、囚、关、格、对、四郭固、四郭杜 and other blockage structures.
+
+External source check: Wikisource has public-domain zh-hans pages for `太乙金镜式经(四库全书本)` including the full overview and separate scroll pages.
+
+Download update: Wikisource separate scroll pages `卷02` through `卷10` were downloaded locally and converted into simplified study files under `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库`. 卷十 is especially useful for择日、择时、闻事、望行人、请谒、求索、买卖百事, but those examples must be translated into information reliability, access, resources, buying/selling, and initiation/avoidance for modern daily use.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

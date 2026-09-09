@@ -286,6 +286,11 @@ These are synthesis rules for daily use, not direct quotations.
 | 太乙日时未核 | Taiyi calendrical setup is incomplete | do not use Taiyi for exact timing; switch to simpler daily strategy |
 | 太乙四郭杜 | the structure is closed, blocked, or unable to pass | stop forcing; use defense, delay, or a different route |
 | 太乙算和不和 | resources/roles either cooperate or fail to cooperate | proceed only when support matches the action; otherwise repair the mismatch |
+| 太乙事类不合 | a Taiyi layer or scale does not match the daily question | switch method instead of forcing a grand pattern onto a small matter |
+| 太乙吉门未复核 | a good door appears before pressure checks are done | verify主客、旺衰、掩迫囚格; if damaged, try only a reversible move |
+| 太乙闻善受掩 | good news is heard under concealment or pressure | wait for evidence before celebrating or committing |
+| 太乙请谒在外 | the person/resource sought is outside or blocked | reduce the ask, change channel, or wait rather than pressing |
+| 太乙客挟主人 | the outside party constrains the requester | do not initiate on their terms; regain leverage first |
 | 开门公事 | public, formal, explicit action is favored | make the message or paperwork clear; avoid hidden motives |
 | 休门和合 | rest, return, reconciliation, or soft approach is favored | ask gently, reconcile, visit, or pause rather than press |
 | 生门增益 | growth, buying, earning, building, or nourishment is favored | start or buy modestly after checking hidden obstruction |

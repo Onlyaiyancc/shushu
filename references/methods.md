@@ -204,7 +204,10 @@ Practical stance:
 - Taiyi格局 terms such as掩、击、迫、囚、关、格、四郭固、四郭杜 are relationship states among太乙、目、将、门、主客 and内外. For daily translation, render them as pressure, attack, containment, blockage, closure, or role conflict; do not copy statecraft and warfare examples literally.
 - Taiyi七术 material can be used only structurally for daily advice: 旺相休囚死 describe usable force, 长算/短算 describe pace, and内外算 describes whether the support matches the sphere of action.
 - Taiyi日时 material is calculation-heavy. It requires岁计、月计、日计、时计,冬夏至/节气,太乙、天目、计神,主客置算, and八门状态. If these are not established, do not present a Taiyi verdict.
+- Match Taiyi scale to the question. 岁计/月计 are not a shortcut for personal errands; for daily action, either require a valid日计/时计 plate or use六爻、梅花、择日, or practical reasoning.
 - For Taiyi闻事、择时、求索、请谒 style passages, keep the reusable structure: 门具将发、阴阳和、无掩迫关格 tends to be usable;天目掩迫太乙、四郭固杜、主客内外不配 tends to block the matter.
+- Good Taiyi doors are conditional. 开、休、生 and门具将发 still need阴阳和、主客得气、无掩迫囚格, and no blocking凶神 before recommending action.
+- For Taiyi daily translation, use卷十 topics only as structure:闻事 becomes information reliability,请谒求索 becomes access/resource availability,买卖百事 becomes whether initiation is blocked. Do not import prison, warfare, arrest, or statecraft examples literally.
 - For both星命 and太乙, named auspicious patterns are provisional. Check破格,空亡,耗煞,冲刑,门闭,掩迫囚格, and whether the current限/时 supports action.
 - For星学大成/五星, check the method basis before judgment: twelve palaces and their管库星,七强五弱,得时得地,庙旺陷弱,强弱先后,留顺伏逆, and whether吉凶星 actually serve the asked domain.
 - For星平会海, treat current CTP entry as a version/bibliographic locator; OCR from增补星平会海 is too noisy for strong rule extraction unless cross-checked.

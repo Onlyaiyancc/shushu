@@ -492,6 +492,21 @@ New local HTML source files:
 
 The CTP《奇门遁甲秘笈大全》local group now covers序、卷一 through卷三十 and the two listed《金函玉镜》卷. Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版`; as of this batch the simplified index reports 228 generated study files.
 
+### 2026-09-09 Added Bazi/Ziping CTP Study Texts
+
+New local HTML source files:
+
+- `E:\Thing\Fortune\资料库\在线文本\CTP\子平真诠评注目录 - CTP.html`: CTP table of contents; useful for locating用神、成败救应、变化、纯杂、格局高低、配气候得失 and相神 sections.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\子平真诠评注 - CTP.html`: readable CTP text; useful for月令用神、旺衰强弱分辨、常格优先、格局成败救应、变化纯杂、相神有情有力 and反牵强杂格.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\滴天髓阐微目录 - CTP.html`: CTP table of contents; useful for chapter routing.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\滴天髓阐微一 - CTP.html` through `滴天髓阐微六 - CTP.html`: readable CTP chapters; useful for中和流通、理气进退、十神去魅、地支本气、冲动强弱喜忌、顺逆不可执一、三合三会 and旺衰顺势.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\穷通宝鉴目录 - CTP.html`: CTP table of contents; useful for locating日干/月令调候 passages.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\穷通宝鉴 - CTP.html`: readable CTP text; useful for五行四时、寒暖燥湿、十干逐月调候 priorities, and the caution that a named调候用神 must appear and be usable.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\渊海子平目录 - CTP.html`: CTP table of contents; useful for version locating.
+- `E:\Thing\Fortune\资料库\在线文本\CTP\渊海子平卷1 - CTP.html`: currently noisy/garbled in simplified extraction; use only as locator until a cleaner version or scan cross-check is available.
+
+Their simplified study copies are generated under `E:\Thing\Fortune\资料库\简体学习版` by `E:\Thing\Fortune\生成简体学习版.py`. As of this batch the simplified index reports 239 generated study files.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

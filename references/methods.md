@@ -31,6 +31,10 @@ Common flow:
 8. Use大运/流年 only when calculated and provided; distinguish natal base, big luck, annual trigger, and whether there is rescue.
 9. For《子平真诠》style格局, take月令用神 as the starting point, then test扶抑、病药、调候、专旺、通关,成败救应,有情无情,有力无力, and相神.
 10. For《穷通宝鉴》style调候, check the seasonal climate before praise or blame: warmth, moisture, dryness, cold, excess, deficiency, and whether the named用神 actually appears and is usable.
+11. Separate旺衰 from强弱: month令 shows timing and climate, while roots, party support,透干, storage, and full-chart backing show usable force.
+12. When a格 looks good or bad, name the成、败、忌、救 before the verdict. A repair path must solve the exact damage, not merely add a pleasant sign.
+13. Treat冲 as a movement test: identify what is being struck.冲去忌阻 can help;冲去根基 or用神 harms;墓库逢冲 is not automatically release.
+14. Use `渊海子平卷1 - CTP.html.simp.txt` only as a version locator until cleaner text is found; prefer clearer Yuanhai copies for rule extraction.
 
 Practical stance:
 
@@ -38,6 +42,8 @@ Practical stance:
 - Do not overuse神煞. Treat them as modifiers unless the source task specifically asks for神煞.
 - Explain terms such as用神, 忌神, 财官印食 in plain language.
 - Do not treat旺 as automatically good or衰 as automatically bad. Excess often needs restraint or泄化; weakness often needs support or waiting.
+- Do not treat财官印食 as inherently good or七杀伤官枭劫 as inherently bad. Translate each十神 into its function and ask whether it helps the user's actual matter.
+- For daily matters, translate调候 into environment and rhythm first: warm, cool, moisten, dry, slow down, ventilate, add support, or reduce heat.
 - In relationship or marriage questions, reject生肖/year-only taboos and crude合婚煞 names. Ask for full data or translate to practical compatibility and conduct.
 - Do not let attractive格名 override direction and strength. A pattern works only when the useful factor faces the real target and has force; a damaged相神 can collapse a beautiful格局.
 

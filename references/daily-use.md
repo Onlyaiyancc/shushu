@@ -122,6 +122,15 @@ These are synthesis rules for daily use, not direct quotations.
 | 支藏未动 | a factor is hidden or latent | wait for a trigger before treating it as an event |
 | 合而有向背 | connection has direction and loyalty | cooperation helps only if it faces the user's real goal |
 | 得时不旺/失时不弱 | timing and strength are not identical | check roots, support, and preparation before judging readiness |
+| 旺强分辨 | timing and usable strength are different layers | separate momentum from resources before saying “go” or “wait” |
+| 成败救应 | a good structure may be damaged and a bad one may be repaired | name the blocker and the exact repair path before giving the verdict |
+| 常格优先 | ordinary structure already explains the matter | use the plain reading before rare or flattering patterns |
+| 十神去魅 | lucky or scary labels are only functions | translate them into support, pressure, output, cost, or competition |
+| 中和流通 | the situation needs balance and circulation | choose the sustainable option over the extreme or impressive one |
+| 冲去何物 | disruption may remove either support or obstruction | proceed if it clears a blocker; pause if it strikes the root |
+| 调候得地 | the right remedy must exist and be usable | fix environment and rhythm first, but do not pretend a missing resource is present |
+| 顺势通关 | force can be guided rather than fought | channel strong momentum, feed weak capacity, or introduce a mediator |
+| 渊海卷1噪声 | source text is corrupted or unreadable | use it only as a locator; cross-check before extracting rules |
 | 驿马 | movement or activation qi | change location, route, schedule, or communication; do not assume success from motion |
 | 日主未定 | the acting subject is unclear | do not read the chart; identify whose situation is being judged |
 | 月令提纲 | the season or main context sets the frame | weigh timing/context before isolated signs |

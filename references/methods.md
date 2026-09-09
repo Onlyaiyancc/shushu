@@ -152,6 +152,7 @@ Common flow:
 3. Use月波九成: 精神、魂魄、形貌、气色、动止、行藏、瞻视、才智、德行.
 4. Avoid absolute claims from one feature. Combine multiple features before deciding.
 5. Account for lighting, angle, expression, makeup, and age.
+6. For《太清神鉴》style readings, rank evidence as形、骨、神、气、色, then test first impression by熟视, speech, movement, and conduct.
 
 Practical stance:
 
@@ -165,6 +166,7 @@ Practical stance:
 - Use五形 as a balance/style model, not as a worth judgment.
 - For later and modern相法 such as《公笃相法》, account for changed gender roles, occupations, era, and region. Do not import old moral labels into modern people.
 - Distinguish lasting structure from short-term condition: bone/form is slower, complexion and expression are temporary, voice and behavior are supporting layers.
+- Treat托名 and compiled相书 as traditional evidence, not authorial authority. Use the structural method, not the severe fate labels.
 
 ## 堪舆 / 风水 / 择日
 

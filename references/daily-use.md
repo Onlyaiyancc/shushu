@@ -383,6 +383,10 @@ These are synthesis rules for daily use, not direct quotations.
 | 破日拆旧 | the action is demolishing, breaking a bad habit, removing a bad setup, or medical consultation | use破 only for breaking/remedying; avoid fresh commitments |
 | 黄黑道轻筛 | only a rough hour choice is needed | use yellow/black path as a light final filter, never as the whole verdict |
 | 小煞滥禁 | a minor almanac taboo would block an ordinary necessary action | reduce scope or change hour; do not cancel needed errands, care, or visits |
+| 相术初看诱导 | a photo or first impression feels obviously good or bad | slow down and recheck eye spirit, posture, speech, behavior, and missing layers |
+| 相术形好神弱 | facial form looks favorable but vitality, steadiness, or presence is weak | downgrade the favorable reading and give rest, presentation, or conduct advice |
+| 相术气色污染 | complexion is read from a filtered, tired, harshly lit, or staged image | treat it only as short-term and low-confidence |
+| 相术问可信 | the user asks whether someone is trustworthy from appearance | require behavior evidence first; use physiognomy only as weak supporting symbolism |
 
 ## Proportionality
 

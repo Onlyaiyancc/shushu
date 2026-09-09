@@ -567,6 +567,15 @@ Readable local Wikisource simplified study files now read for method extraction:
 
 This batch improves everyday择日 answers. The skill should classify the action before applying an almanac label, distinguish major construction/moving/marriage/funeral matters from ordinary errands, and avoid turning small taboos into paralysis.
 
+### 2026-09-09 Added Taiqing Shenjian Physiognomy Judgment Discipline
+
+Readable local Wikisource simplified study files now read for method extraction:
+
+- `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库\太清神鉴四库本 - 维基文库.html.simp.txt`: useful for the Siku version warning that the Wang Pu attribution is not reliable, while the compiled material preserves earlier相法 structures.
+- `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库\太清神鉴四库本卷1 - 维基文库.html.simp.txt`: useful for形、骨、神、气、色 hierarchy, 初看/熟视 contrast, 骨肉承载, 气色内外, and相逐心生.
+
+This batch strengthens physiognomy boundaries. For modern daily readings, use appearance only as layered symbolic evidence and require behavior when judging trust or character. Do not repeat old lifespan, gender, morality, illness, violence, or class labels as verdicts.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

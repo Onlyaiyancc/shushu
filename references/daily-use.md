@@ -369,6 +369,13 @@ These are synthesis rules for daily use, not direct quotations.
 | 四处生克未列 | month, day, moving line, and changed line effects are not checked | withhold firm yes/no until support and harm are weighed |
 | 占此应彼 | the question quietly asks several outcomes at once | answer only the actual question or split it into separate casts |
 | 家宅泛问 | the home/office question is broad and unfocused | ask for the exact suspected place or effect before judging |
+| 八字太过不及 | an element, resource, pressure, or desire is excessive or deficient | restore balance first:泄、制、扶、缓、通 according to the actual imbalance |
+| 八字格名诱导 | a noble, wealth, officer, or special pattern name sounds flattering | check得时、得地、得局、用神 and破损 before saying it is usable |
+| 八字财官煞标签 | 财、官、煞、食 appears as a tempting label | translate to resources, rules, pressure, output, and test whether the person/matter can carry it |
+| 八字用神情假 | a useful factor appears but lacks root, timing, support, or affection | do not rely on it; look for a real supporting condition or reduce the action |
+| 八字休囚有用 | the good factor exists but is weak, out of season, void, or retreating | expect delay; prepare and wait for activation rather than forcing |
+| 八字旺相无情 | a harmful or mismatched factor is vigorous | treat it as a fast-moving risk and reduce exposure immediately |
+| 八字岁运发源 | a current period or year seems to trigger opportunity | separate base, luck, annual trigger, and durability before committing |
 
 ## Proportionality
 

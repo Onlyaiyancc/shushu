@@ -548,6 +548,15 @@ Readable local source reread:
 
 This batch strengthens the skill's objective stance: a reading should be allowed to reject the user's desired conclusion when the useful factor is damaged, the question is overbroad, or the user is trying to recast into a preferred answer.
 
+### 2026-09-09 Added Sanming Tonghui Balance and Useful-Factor Checks
+
+Readable local Wikisource simplified study files now read for method extraction:
+
+- `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库\三命通会四库本 卷10 - 维基文库 zh-hans.html.simp.txt`: useful for用神真假、忌煞气专、休囚空亡、旺相无情、五行均停、四柱匹配、身用相称、岁运发源 and太岁触发.
+- `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库\三命通会四库本 卷12 - 维基文库 zh-hans.html.simp.txt`: useful for中和、太过不及、克制泄化、格局不可一概言贵、得地得时、见财不可专 and财官煞食去名义.
+
+This batch reinforces Bazi as conditional structural analysis. Do not flatter with noble/rich labels, 财官煞 names, or special格局. Judge balance, real support, timing, and carrying capacity. Harsh gendered or moralized old labels should be downgraded into neutral conduct, imbalance, pressure, and boundary language.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

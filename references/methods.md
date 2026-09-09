@@ -35,6 +35,7 @@ Common flow:
 12. When a格 looks good or bad, name the成、败、忌、救 before the verdict. A repair path must solve the exact damage, not merely add a pleasant sign.
 13. Treat冲 as a movement test: identify what is being struck.冲去忌阻 can help;冲去根基 or用神 harms;墓库逢冲 is not automatically release.
 14. Use `渊海子平卷1 - CTP.html.simp.txt` only as a version locator until cleaner text is found; prefer clearer Yuanhai copies for rule extraction.
+15. For《三命通会》style checks, distinguish中和/太过不及、得局/归垣、用神真假、情/力、身用匹配, then separate original base, luck support, annual trigger, and durability.
 
 Practical stance:
 
@@ -46,6 +47,7 @@ Practical stance:
 - For daily matters, translate调候 into environment and rhythm first: warm, cool, moisten, dry, slow down, ventilate, add support, or reduce heat.
 - In relationship or marriage questions, reject生肖/year-only taboos and crude合婚煞 names. Ask for full data or translate to practical compatibility and conduct.
 - Do not let attractive格名 override direction and strength. A pattern works only when the useful factor faces the real target and has force; a damaged相神 can collapse a beautiful格局.
+- Do not repeat harsh or moralized gender/sexuality labels from old Bazi texts as modern verdicts. Translate them into neutral structure: imbalance, relationship conduct, pressure, boundary risk, or support failure.
 
 ## 卜筮 / 六爻 / 易占
 

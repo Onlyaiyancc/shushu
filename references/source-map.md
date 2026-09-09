@@ -557,6 +557,16 @@ Readable local Wikisource simplified study files now read for method extraction:
 
 This batch reinforces Bazi as conditional structural analysis. Do not flatter with noble/rich labels, 财官煞 names, or special格局. Judge balance, real support, timing, and carrying capacity. Harsh gendered or moralized old labels should be downgraded into neutral conduct, imbalance, pressure, and boundary language.
 
+### 2026-09-09 Added Xieji Bianfang Daily Date-Selection Checks
+
+Readable local Wikisource simplified study files now read for method extraction:
+
+- `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库\钦定协纪辨方书四库本全览1 - 维基文库.html.simp.txt`: useful for建除十二直义例, the warning that建除吉凶 cannot be used rigidly, and graded treatment of吉凶并见.
+- `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库\钦定协纪辨方书四库本卷10 - 维基文库.html.simp.txt`: useful for concrete daily十二直 functions:除、平、定、破、危、成、收、开、闭, plus六黑道 as a light hour filter.
+- `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库\钦定协纪辨方书四库本卷34 - 维基文库.html.simp.txt`: useful for年神/方位 cautions, especially太岁岁破、三煞可制化、小煞不可滥禁.
+
+This batch improves everyday择日 answers. The skill should classify the action before applying an almanac label, distinguish major construction/moving/marriage/funeral matters from ordinary errands, and avoid turning small taboos into paralysis.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

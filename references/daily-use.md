@@ -376,6 +376,13 @@ These are synthesis rules for daily use, not direct quotations.
 | 八字休囚有用 | the good factor exists but is weak, out of season, void, or retreating | expect delay; prepare and wait for activation rather than forcing |
 | 八字旺相无情 | a harmful or mismatched factor is vigorous | treat it as a fast-moving risk and reduce exposure immediately |
 | 八字岁运发源 | a current period or year seems to trigger opportunity | separate base, luck, annual trigger, and durability before committing |
+| 十二直匹配 | a date has 建除满平定执破危成收开闭 | match the day's function to the action instead of asking whether the whole day is good |
+| 除日清理 | the action is cancellation, cleaning, removal, washing, or clearing backlog | use it for removing old residue, not for forcing a new expansion |
+| 成开启动 | the action is starting, opening, completing, enrolling, trading, or moving | prefer开 for beginning and成 for completion/settling, after checking clashes |
+| 收闭封存 | the action is collecting, storing, closing, repairing gaps, or keeping quiet | use收 for gathering and闭 for sealing; avoid exposing or over-expanding |
+| 破日拆旧 | the action is demolishing, breaking a bad habit, removing a bad setup, or medical consultation | use破 only for breaking/remedying; avoid fresh commitments |
+| 黄黑道轻筛 | only a rough hour choice is needed | use yellow/black path as a light final filter, never as the whole verdict |
+| 小煞滥禁 | a minor almanac taboo would block an ordinary necessary action | reduce scope or change hour; do not cancel needed errands, care, or visits |
 
 ## Proportionality
 

@@ -186,6 +186,8 @@ Common flow:
 12. Separate山龙 from水龙. In cities and buildings, roads, corridors, elevators, open voids, and moving traffic are often treated as flow; still walls, backing, towers, and high pressure act more like form/support.
 13. For阳宅, check地、门、衢、峤、隅空 and六事. Active harms at doors, beds, stoves, wells/drains, toilets, roads, and bridges outweigh a pleasant static sector.
 14. Avoid drastic structural advice. A main entrance should remain orderly and aligned; prefer route changes, screens, desk/bed shifts, room-use changes, cleanliness, drainage, and lighting.
+15. For《协纪辨方书》daily date selection, classify the action against十二直 first:除 for clearing,平 for repair/smoothing,定 for planning/fixing,破 for dismantling/remedy,危 for stabilizing,成 for completion,收 for gathering,开 for starting,闭 for sealing.
+16. When almanac signs conflict, weigh吉凶 strength by action, season, clash,德合/六合, and whether the matter is major or minor. Do not let one small煞 cancel necessary low-risk action.
 
 Practical stance:
 
@@ -194,6 +196,7 @@ Practical stance:
 - If the source text is OCR-noisy or a verse/graf formula is not cross-checked, keep only the structural meaning: flow, obstruction, gathering, leakage, pressure, safety, and usability.
 - For modern daily space advice, translate classical form into light, airflow, buffer, visibility, cleanliness, drainage, noise, route friction, and task usability.
 - Treat通书、玉匣记 and folk almanac labels as low-strength unless confirmed by a stronger择日 framework. Generic宜忌 is never enough for a precise verdict.
+- For necessary care, ordinary errands, study, messages, and small purchases, date selection should reduce friction, not create paralysis. Serious修造、搬迁、婚葬 and medical decisions require stronger evidence and real-world priority.
 
 ## 星命 / 三式
 

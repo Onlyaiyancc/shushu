@@ -596,6 +596,18 @@ External source check: the public Wikisource page `https://zh.wikisource.org/wik
 
 This batch strengthens daily六爻 answers for messages, relationships, helpers, contracts, purchases, and small handovers. The skill should define roles before assigning symbols, reject财官 stereotype matching, and refuse to recommend payment or commitment when counterpart, document, or useful factor is hollow, injured, or trapped.
 
+### 2026-09-09 Added Liuren Kuonang and Kejing Checks
+
+Existing local simplified study files now read more deeply for method extraction:
+
+- `E:\Thing\Fortune\资料库\简体学习版\在线文本\CTP\六壬大全卷四 - CTP.html.simp.txt`: useful for《括囊赋》《三才赋》style general checks:生克须看衰旺、吉凶须分轻重、合局/分局/重叠/交互, 求财见货看将位有气, 进表投书看主客善恶, and message reliability from the敌使虚实 section.
+- `E:\Thing\Fortune\资料库\简体学习版\在线文本\CTP\六壬大全卷六 - CTP.html.simp.txt`: mostly二十八宿、太阳过宫、十二宫分野 and Ming-era geographic mapping; useful mainly as historical/version context, not strong modern daily rules.
+- `E:\Thing\Fortune\资料库\简体学习版\在线文本\CTP\六壬大全卷七 - CTP.html.simp.txt`: useful for《课经集》元首、重审、知一、涉害、遥克、伏吟、返吟 and the repeated caution that课名 must be checked through神将、支干、四时、休旺、年命 and三传.
+
+External source check: Wikisource has a public-domain《六壬大全（四库全书本）》page at `https://zh.wikisource.org/wiki/%E5%85%AD%E5%A3%AC%E5%A4%A7%E5%85%A8_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29`, confirming the work as a public-domain twelve-scroll source. Current extraction still uses local CTP simplified study copies for line references.
+
+This batch improves objective Liuren handling. A good or bad课名 is not enough: 元首 can reverse when the lower side is stronger, 重审 depends on the ending rescue, 知一 forces a choice between two branches, 涉害 means layered resistance, 遥克 is remote or weak, and返吟/伏吟 must be read by movement, voidness, and rescue rather than by slogan.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:

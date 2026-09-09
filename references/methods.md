@@ -238,6 +238,7 @@ Practical stance:
 - Treat《六壬大全》卷三 CTP/OCR material as a noisy source locator. Use its visible rules on发用长生、墓、空亡、刑冲破害、夹克、内外财、贵前贵后 only as weak cross-checks until a clearer edition confirms the line.
 - For Liuren timing, after the课传 is established, use贵前/贵后 and旺相/休囚死 only as secondary speed indicators; do not derive a date from a corrupted source line.
 - For《毕法赋》style readings, treat named法 as rule summaries, not slogans. Check whether the question wants成、散、守、进、退、公开、私下、求见、托人、失物, then apply the法 to that domain.
+- For《课经集》style readings, treat课名 as a starting diagnosis, not the verdict. 元首 still needs上下旺衰 and三传复核; 重审 depends on末传有无救; 知一 requires choosing one supported branch; 涉害 means layered resistance; 遥克 means remote or weak force.
 - 六阳/六阴 can guide公开/私下 posture: 六阳 favors clear public procedure; 六阴 lowers clarity and may suit private handling, but it weakens public requests.
 - For守禄/弃禄, ask whether the user's current advantage is real and usable. 旺禄可守; 空亡、闭口、被玄夺, or三传全脱鬼 means the apparent benefit may not be worth keeping.
 - 闭口, 空亡乘玄武, and天空朱雀 patterns should make the answer less trusting: expect silence, hidden loss, empty promises, or exaggerated speech; advise records and confirmation.
@@ -248,6 +249,7 @@ Practical stance:
 - For课经集 names such as官爵、富贵、斩关、游子、三交、不备、天祸、物类 and连珠, do not read the title as the verdict. First verify whether the structural conditions are present, then check空亡、冲破、入墓、凶将、旺相休囚 and whether the rule fits the question domain.
 - When a Liuren course type is favorable only for a narrow domain, preserve that domain. 官爵/铸印 favors paperwork, exams, appointment, and official requests only when印、马、贵 are usable;斩关 favors leaving a blockage, not stable settling;游子 favors movement, not staying;不备 points to missing conditions.
 - Use物类课 as a discipline check: identify the object/person/document/resource/blocker, assign六亲 or类神, then judge初传 and末传 for start/end. This prevents answering from the user's preferred story before the target is defined.
+- Treat《六壬大全》卷六分野 material as historical scale and version context. Do not use old star-field geography tables for modern city-level daily judgments unless the user is explicitly studying the historical doctrine.
 - If the user has no六壬盘, do not improvise from a single神将 or日辰. Use another method or give practical strategy.
 
 ## 奇门遁甲

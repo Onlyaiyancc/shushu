@@ -400,6 +400,13 @@ These are synthesis rules for daily use, not direct quotations.
 | 父化兄契虚 | document, promise, or contract turns into leakage/competition | verify terms and counterpart before paying, signing, or handing over value |
 | 兄鬼冲财 | competitors, pressure, or dispute touches money/goods | split delivery, keep records, escrow if possible, or decline the exchange |
 | 神煞缺功能爻 | a scary or lucky spirit appears without the matching functional line | treat it as color only; return to生克制化 and the asked domain |
+| 六壬课名诱导 | a Liuren course name sounds very lucky or frightening | recheck三传、日辰、旺相休囚、神将 and the actual question before agreeing |
+| 六壬知一两岐 | two choices, helpers, or channels are both active | choose the closer, clearer, better-supported one; do not chase both |
+| 六壬涉害深阻 | the matter has layered resistance | budget time and effort for several passes, or choose an easier path |
+| 六壬遥克虚远 | threat or benefit is remote and indirect | observe and verify; avoid large commitment to distant signals |
+| 六壬传报虚实 | the question concerns a message, quote, screenshot, rumor, or intermediary | verify source, motive, and written evidence before reacting |
+| 六壬合分重叠 | many people or repeated channels are involved | simplify roles and responsibility before deciding |
+| 六壬分野古今 | star-field/geography material appears | treat it as historical context, not a modern local verdict |
 
 ## Proportionality
 

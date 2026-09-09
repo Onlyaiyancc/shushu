@@ -73,6 +73,8 @@ Common flow:
 16. Treat《增删卜易》beginner shortcuts as prompts, not verdicts. After a simple持世 or卦名 appears, verify月建、日辰、动爻、变爻, and whether any support is real rather than nominal.
 17. If the answer is already clear, do not recast just because the user dislikes it. Recast only when the卦 is ambiguous, the matter is urgent but unclear, or material facts have changed.
 18. For house, place, and complex practical questions, use指疑: ask what exact place or effect is suspected, then answer that one point.
+19. For《黄金策》style readings, compress all signs into one working structure: 用神 as target, 世应 as self/other, 动变 as start/end, 日辰/月建 as actual force, and 空破合冲 as availability or blockage.
+20. In relationship, helper, contract, buying, and handover questions, assign the用神 by the actual role and object. Do not default to财/官 or a pleasing label; check whether documents, counterpart, mediator, and money are real and usable.
 
 梅花易数 flow:
 

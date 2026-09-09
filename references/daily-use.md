@@ -393,6 +393,13 @@ These are synthesis rules for daily use, not direct quotations.
 | 灵棋满而知止 | a useful result is already enough | keep the gain, stop adding conditions, and avoid turning enough into greed |
 | 灵棋慎始防微 | the action is small but mistake-prone | verify time, place, person, amount, document, backup, and exit before moving |
 | 灵棋晚就慢成 | the matter is study, job, project, repair, or relationship recovery | treat slow progress as cultivation; set checkpoints rather than demanding immediate proof |
+| 黄金策一理 | many symbols compete for attention | reduce the reading to用神、世应、动变、日月 and decide by real support or harm |
+| 世应俱空 | self/other signals are hollow or unconfirmed | do not trust vague agreement; ask for a concrete reply, document, time, or action |
+| 动合绊住 | something moves but is tied by agreement, attachment, or dependency | expect delay; loosen the constraint before pushing harder |
+| 财官误配 | relationship or person-role is assigned by stereotype | redefine用神 by the actual asker, target, relation, contract, and resource |
+| 父化兄契虚 | document, promise, or contract turns into leakage/competition | verify terms and counterpart before paying, signing, or handing over value |
+| 兄鬼冲财 | competitors, pressure, or dispute touches money/goods | split delivery, keep records, escrow if possible, or decline the exchange |
+| 神煞缺功能爻 | a scary or lucky spirit appears without the matching functional line | treat it as color only; return to生克制化 and the asked domain |
 
 ## Proportionality
 

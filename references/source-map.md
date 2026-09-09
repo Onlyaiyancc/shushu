@@ -585,6 +585,17 @@ Readable local Wikisource simplified study files now reread for method extractio
 
 This batch improves daily small-question handling. 灵棋 should not be used as a flattering yes/no machine: it often corrects timing and posture. Slow can be favorable, rumor can be ignored, doubt can be the problem, and a good result can mean stop while enough has been secured.
 
+### 2026-09-09 Added Huangjin Ce Role and Transaction Checks
+
+Readable local simplified study files now reread for method extraction:
+
+- `E:\Thing\Fortune\资料库\简体学习版\在线文本\维基文库\黄金策 - 维基文库.html.simp.txt`: useful for六爻总断、万象一理、太过不及、日辰月建、世应、动变、用神有伤须救、合冲迟速、神煞附条件、婚姻用神误配 and交易交付 cautions.
+- `E:\Thing\Fortune\资料库\简体学习版\在线文本\CTP\卜筮正宗 - CTP.html.simp.txt`: useful as a cross-check that《黄金策》/千金赋 is embedded in《卜筮正宗》and that用神分类、世应论用神 must be established before judgment.
+
+External source check: the public Wikisource page `https://zh.wikisource.org/wiki/%E9%BB%84%E9%87%91%E7%AD%96` is available and matches the local saved simplified study copy. The Wikisource root page for `卜筮正宗（河潞武子龄校本）` still listed正文卷 as redlinks in the locally saved page at the time of checking, so it was not treated as a learned正文 source.
+
+This batch strengthens daily六爻 answers for messages, relationships, helpers, contracts, purchases, and small handovers. The skill should define roles before assigning symbols, reject财官 stereotype matching, and refuse to recommend payment or commitment when counterpart, document, or useful factor is hollow, injured, or trapped.
+
 ## Located But Not Yet Downloaded
 
 Commons rate-limited these during download:
